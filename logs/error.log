@@ -1,0 +1,1664 @@
+2023-02-08 17:16:48 warning: Warning (512): Unable to emit headers. Headers sent in file=C:\Users\Yohan\Desktop\Projets\ArchiLog\php-api\ArchiLog\vendor\cakephp\cakephp\src\Core\functions.php line=323 in [C:\Users\Yohan\Desktop\Projets\ArchiLog\php-api\ArchiLog\vendor\cakephp\cakephp\src\Http\ResponseEmitter.php, line 71]
+Request URL: /
+Trace:
+Cake\Error\BaseErrorHandler::handleError() - CORE\src\Error\BaseErrorHandler.php, line 191
+Cake\Http\ResponseEmitter::emit() - CORE\src\Http\ResponseEmitter.php, line 71
+Cake\Http\Server::emit() - CORE\src\Http\Server.php, line 128
+[main] - ROOT\webroot\index.php, line 40
+
+2023-02-08 17:16:48 warning: Warning (2): Cannot modify header information - headers already sent by (output started at C:\Users\Yohan\Desktop\Projets\ArchiLog\php-api\ArchiLog\vendor\cakephp\cakephp\src\Core\functions.php:323) in [C:\Users\Yohan\Desktop\Projets\ArchiLog\php-api\ArchiLog\vendor\cakephp\cakephp\src\Http\ResponseEmitter.php, line 168]
+Request URL: /
+Trace:
+Cake\Error\BaseErrorHandler::handleError() - CORE\src\Error\BaseErrorHandler.php, line 191
+header - [internal], line ??
+Cake\Http\ResponseEmitter::emitStatusLine() - CORE\src\Http\ResponseEmitter.php, line 168
+Cake\Http\ResponseEmitter::emit() - CORE\src\Http\ResponseEmitter.php, line 74
+Cake\Http\Server::emit() - CORE\src\Http\Server.php, line 128
+[main] - ROOT\webroot\index.php, line 40
+
+2023-02-08 17:16:48 warning: Warning (2): Cannot modify header information - headers already sent by (output started at C:\Users\Yohan\Desktop\Projets\ArchiLog\php-api\ArchiLog\vendor\cakephp\cakephp\src\Core\functions.php:323) in [C:\Users\Yohan\Desktop\Projets\ArchiLog\php-api\ArchiLog\vendor\cakephp\cakephp\src\Http\ResponseEmitter.php, line 197]
+Request URL: /
+Trace:
+Cake\Error\BaseErrorHandler::handleError() - CORE\src\Error\BaseErrorHandler.php, line 191
+header - [internal], line ??
+Cake\Http\ResponseEmitter::emitHeaders() - CORE\src\Http\ResponseEmitter.php, line 197
+Cake\Http\ResponseEmitter::emit() - CORE\src\Http\ResponseEmitter.php, line 75
+Cake\Http\Server::emit() - CORE\src\Http\Server.php, line 128
+[main] - ROOT\webroot\index.php, line 40
+
+2023-02-08 17:16:48 warning: Warning (2): Cannot modify header information - headers already sent by (output started at C:\Users\Yohan\Desktop\Projets\ArchiLog\php-api\ArchiLog\vendor\cakephp\cakephp\src\Core\functions.php:323) in [C:\Users\Yohan\Desktop\Projets\ArchiLog\php-api\ArchiLog\vendor\cakephp\cakephp\src\Http\ResponseEmitter.php, line 197]
+Request URL: /
+Trace:
+Cake\Error\BaseErrorHandler::handleError() - CORE\src\Error\BaseErrorHandler.php, line 191
+header - [internal], line ??
+Cake\Http\ResponseEmitter::emitHeaders() - CORE\src\Http\ResponseEmitter.php, line 197
+Cake\Http\ResponseEmitter::emit() - CORE\src\Http\ResponseEmitter.php, line 75
+Cake\Http\Server::emit() - CORE\src\Http\Server.php, line 128
+[main] - ROOT\webroot\index.php, line 40
+
+2023-02-08 17:16:48 warning: Warning (2): Cannot modify header information - headers already sent by (output started at C:\Users\Yohan\Desktop\Projets\ArchiLog\php-api\ArchiLog\vendor\cakephp\cakephp\src\Core\functions.php:323) in [C:\Users\Yohan\Desktop\Projets\ArchiLog\php-api\ArchiLog\vendor\cakephp\cakephp\src\Http\ResponseEmitter.php, line 236]
+Request URL: /
+Trace:
+Cake\Error\BaseErrorHandler::handleError() - CORE\src\Error\BaseErrorHandler.php, line 191
+setcookie - [internal], line ??
+Cake\Http\ResponseEmitter::setCookie() - CORE\src\Http\ResponseEmitter.php, line 236
+Cake\Http\ResponseEmitter::emitCookies() - CORE\src\Http\ResponseEmitter.php, line 218
+Cake\Http\ResponseEmitter::emitHeaders() - CORE\src\Http\ResponseEmitter.php, line 206
+Cake\Http\ResponseEmitter::emit() - CORE\src\Http\ResponseEmitter.php, line 75
+Cake\Http\Server::emit() - CORE\src\Http\Server.php, line 128
+[main] - ROOT\webroot\index.php, line 40
+
+2023-02-08 17:16:48 warning: Warning (512): Unable to emit headers. Headers sent in file=C:\Users\Yohan\Desktop\Projets\ArchiLog\php-api\ArchiLog\vendor\cakephp\cakephp\src\Core\functions.php line=323 in [C:\Users\Yohan\Desktop\Projets\ArchiLog\php-api\ArchiLog\vendor\cakephp\cakephp\src\Http\ResponseEmitter.php, line 71]
+Trace:
+Cake\Error\BaseErrorHandler::handleError() - CORE\src\Error\BaseErrorHandler.php, line 191
+Cake\Http\ResponseEmitter::emit() - CORE\src\Http\ResponseEmitter.php, line 71
+Cake\Http\Server::emit() - CORE\src\Http\Server.php, line 128
+[main] - ROOT\webroot\index.php, line 40
+
+2023-02-08 17:16:48 warning: Warning (2): Cannot modify header information - headers already sent by (output started at C:\Users\Yohan\Desktop\Projets\ArchiLog\php-api\ArchiLog\vendor\cakephp\cakephp\src\Core\functions.php:323) in [C:\Users\Yohan\Desktop\Projets\ArchiLog\php-api\ArchiLog\vendor\cakephp\cakephp\src\Http\ResponseEmitter.php, line 168]
+Trace:
+Cake\Error\BaseErrorHandler::handleError() - CORE\src\Error\BaseErrorHandler.php, line 191
+header - [internal], line ??
+Cake\Http\ResponseEmitter::emitStatusLine() - CORE\src\Http\ResponseEmitter.php, line 168
+Cake\Http\ResponseEmitter::emit() - CORE\src\Http\ResponseEmitter.php, line 74
+Cake\Http\Server::emit() - CORE\src\Http\Server.php, line 128
+[main] - ROOT\webroot\index.php, line 40
+
+2023-02-08 17:16:48 warning: Warning (2): Cannot modify header information - headers already sent by (output started at C:\Users\Yohan\Desktop\Projets\ArchiLog\php-api\ArchiLog\vendor\cakephp\cakephp\src\Core\functions.php:323) in [C:\Users\Yohan\Desktop\Projets\ArchiLog\php-api\ArchiLog\vendor\cakephp\cakephp\src\Http\ResponseEmitter.php, line 197]
+Trace:
+Cake\Error\BaseErrorHandler::handleError() - CORE\src\Error\BaseErrorHandler.php, line 191
+header - [internal], line ??
+Cake\Http\ResponseEmitter::emitHeaders() - CORE\src\Http\ResponseEmitter.php, line 197
+Cake\Http\ResponseEmitter::emit() - CORE\src\Http\ResponseEmitter.php, line 75
+Cake\Http\Server::emit() - CORE\src\Http\Server.php, line 128
+[main] - ROOT\webroot\index.php, line 40
+
+2023-02-08 17:16:48 warning: Warning (2): Cannot modify header information - headers already sent by (output started at C:\Users\Yohan\Desktop\Projets\ArchiLog\php-api\ArchiLog\vendor\cakephp\cakephp\src\Core\functions.php:323) in [C:\Users\Yohan\Desktop\Projets\ArchiLog\php-api\ArchiLog\vendor\cakephp\cakephp\src\Http\ResponseEmitter.php, line 197]
+Trace:
+Cake\Error\BaseErrorHandler::handleError() - CORE\src\Error\BaseErrorHandler.php, line 191
+header - [internal], line ??
+Cake\Http\ResponseEmitter::emitHeaders() - CORE\src\Http\ResponseEmitter.php, line 197
+Cake\Http\ResponseEmitter::emit() - CORE\src\Http\ResponseEmitter.php, line 75
+Cake\Http\Server::emit() - CORE\src\Http\Server.php, line 128
+[main] - ROOT\webroot\index.php, line 40
+
+2023-02-08 17:16:48 warning: Warning (2): Cannot modify header information - headers already sent by (output started at C:\Users\Yohan\Desktop\Projets\ArchiLog\php-api\ArchiLog\vendor\cakephp\cakephp\src\Core\functions.php:323) in [C:\Users\Yohan\Desktop\Projets\ArchiLog\php-api\ArchiLog\vendor\cakephp\cakephp\src\Http\ResponseEmitter.php, line 197]
+Trace:
+Cake\Error\BaseErrorHandler::handleError() - CORE\src\Error\BaseErrorHandler.php, line 191
+header - [internal], line ??
+Cake\Http\ResponseEmitter::emitHeaders() - CORE\src\Http\ResponseEmitter.php, line 197
+Cake\Http\ResponseEmitter::emit() - CORE\src\Http\ResponseEmitter.php, line 75
+Cake\Http\Server::emit() - CORE\src\Http\Server.php, line 128
+[main] - ROOT\webroot\index.php, line 40
+
+2023-02-08 17:16:48 warning: Warning (2): Cannot modify header information - headers already sent by (output started at C:\Users\Yohan\Desktop\Projets\ArchiLog\php-api\ArchiLog\vendor\cakephp\cakephp\src\Core\functions.php:323) in [C:\Users\Yohan\Desktop\Projets\ArchiLog\php-api\ArchiLog\vendor\cakephp\cakephp\src\Http\ResponseEmitter.php, line 197]
+Trace:
+Cake\Error\BaseErrorHandler::handleError() - CORE\src\Error\BaseErrorHandler.php, line 191
+header - [internal], line ??
+Cake\Http\ResponseEmitter::emitHeaders() - CORE\src\Http\ResponseEmitter.php, line 197
+Cake\Http\ResponseEmitter::emit() - CORE\src\Http\ResponseEmitter.php, line 75
+Cake\Http\Server::emit() - CORE\src\Http\Server.php, line 128
+[main] - ROOT\webroot\index.php, line 40
+
+2023-02-08 17:16:48 warning: Warning (2): Cannot modify header information - headers already sent by (output started at C:\Users\Yohan\Desktop\Projets\ArchiLog\php-api\ArchiLog\vendor\cakephp\cakephp\src\Core\functions.php:323) in [C:\Users\Yohan\Desktop\Projets\ArchiLog\php-api\ArchiLog\vendor\cakephp\cakephp\src\Http\ResponseEmitter.php, line 197]
+Trace:
+Cake\Error\BaseErrorHandler::handleError() - CORE\src\Error\BaseErrorHandler.php, line 191
+header - [internal], line ??
+Cake\Http\ResponseEmitter::emitHeaders() - CORE\src\Http\ResponseEmitter.php, line 197
+Cake\Http\ResponseEmitter::emit() - CORE\src\Http\ResponseEmitter.php, line 75
+Cake\Http\Server::emit() - CORE\src\Http\Server.php, line 128
+[main] - ROOT\webroot\index.php, line 40
+
+2023-02-08 17:23:23 error: [Cake\Http\Exception\MissingControllerException] Controller class TodoList could not be found. in C:\Users\Yohan\Desktop\Projets\ArchiLog\php-api\ArchiLog\vendor\cakephp\cakephp\src\Controller\ControllerFactory.php on line 348
+Stack Trace:
+- C:\Users\Yohan\Desktop\Projets\ArchiLog\php-api\ArchiLog\vendor\cakephp\cakephp\src\Controller\ControllerFactory.php:74
+- C:\Users\Yohan\Desktop\Projets\ArchiLog\php-api\ArchiLog\vendor\cakephp\cakephp\src\Http\BaseApplication.php:318
+- C:\Users\Yohan\Desktop\Projets\ArchiLog\php-api\ArchiLog\vendor\cakephp\cakephp\src\Http\Runner.php:77
+- C:\Users\Yohan\Desktop\Projets\ArchiLog\php-api\ArchiLog\vendor\cakephp\cakephp\src\Http\Middleware\CsrfProtectionMiddleware.php:174
+- C:\Users\Yohan\Desktop\Projets\ArchiLog\php-api\ArchiLog\vendor\cakephp\cakephp\src\Http\Runner.php:73
+- C:\Users\Yohan\Desktop\Projets\ArchiLog\php-api\ArchiLog\vendor\cakephp\cakephp\src\Http\Middleware\BodyParserMiddleware.php:157
+- C:\Users\Yohan\Desktop\Projets\ArchiLog\php-api\ArchiLog\vendor\cakephp\cakephp\src\Http\Runner.php:73
+- C:\Users\Yohan\Desktop\Projets\ArchiLog\php-api\ArchiLog\vendor\cakephp\cakephp\src\Routing\Middleware\RoutingMiddleware.php:186
+- C:\Users\Yohan\Desktop\Projets\ArchiLog\php-api\ArchiLog\vendor\cakephp\cakephp\src\Http\Runner.php:73
+- C:\Users\Yohan\Desktop\Projets\ArchiLog\php-api\ArchiLog\vendor\cakephp\cakephp\src\Routing\Middleware\AssetMiddleware.php:68
+- C:\Users\Yohan\Desktop\Projets\ArchiLog\php-api\ArchiLog\vendor\cakephp\cakephp\src\Http\Runner.php:73
+- C:\Users\Yohan\Desktop\Projets\ArchiLog\php-api\ArchiLog\vendor\cakephp\cakephp\src\Error\Middleware\ErrorHandlerMiddleware.php:131
+- C:\Users\Yohan\Desktop\Projets\ArchiLog\php-api\ArchiLog\vendor\cakephp\cakephp\src\Http\Runner.php:73
+- C:\Users\Yohan\Desktop\Projets\ArchiLog\php-api\ArchiLog\vendor\cakephp\cakephp\src\Http\Runner.php:58
+- C:\Users\Yohan\Desktop\Projets\ArchiLog\php-api\ArchiLog\vendor\cakephp\cakephp\src\Http\Server.php:90
+- C:\Users\Yohan\Desktop\Projets\ArchiLog\php-api\ArchiLog\webroot\index.php:40
+
+Request URL: /todo-list
+Referer URL: http://localhost:8765/
+2023-02-08 17:23:23 error: [Cake\Http\Exception\MissingControllerException] Controller class Css could not be found. in C:\Users\Yohan\Desktop\Projets\ArchiLog\php-api\ArchiLog\vendor\cakephp\cakephp\src\Controller\ControllerFactory.php on line 348
+Stack Trace:
+- C:\Users\Yohan\Desktop\Projets\ArchiLog\php-api\ArchiLog\vendor\cakephp\cakephp\src\Controller\ControllerFactory.php:74
+- C:\Users\Yohan\Desktop\Projets\ArchiLog\php-api\ArchiLog\vendor\cakephp\cakephp\src\Http\BaseApplication.php:318
+- C:\Users\Yohan\Desktop\Projets\ArchiLog\php-api\ArchiLog\vendor\cakephp\cakephp\src\Http\Runner.php:77
+- C:\Users\Yohan\Desktop\Projets\ArchiLog\php-api\ArchiLog\vendor\cakephp\cakephp\src\Http\Middleware\CsrfProtectionMiddleware.php:174
+- C:\Users\Yohan\Desktop\Projets\ArchiLog\php-api\ArchiLog\vendor\cakephp\cakephp\src\Http\Runner.php:73
+- C:\Users\Yohan\Desktop\Projets\ArchiLog\php-api\ArchiLog\vendor\cakephp\cakephp\src\Http\Middleware\BodyParserMiddleware.php:157
+- C:\Users\Yohan\Desktop\Projets\ArchiLog\php-api\ArchiLog\vendor\cakephp\cakephp\src\Http\Runner.php:73
+- C:\Users\Yohan\Desktop\Projets\ArchiLog\php-api\ArchiLog\vendor\cakephp\cakephp\src\Routing\Middleware\RoutingMiddleware.php:186
+- C:\Users\Yohan\Desktop\Projets\ArchiLog\php-api\ArchiLog\vendor\cakephp\cakephp\src\Http\Runner.php:73
+- C:\Users\Yohan\Desktop\Projets\ArchiLog\php-api\ArchiLog\vendor\cakephp\cakephp\src\Routing\Middleware\AssetMiddleware.php:77
+- C:\Users\Yohan\Desktop\Projets\ArchiLog\php-api\ArchiLog\vendor\cakephp\cakephp\src\Http\Runner.php:73
+- C:\Users\Yohan\Desktop\Projets\ArchiLog\php-api\ArchiLog\vendor\cakephp\cakephp\src\Error\Middleware\ErrorHandlerMiddleware.php:131
+- C:\Users\Yohan\Desktop\Projets\ArchiLog\php-api\ArchiLog\vendor\cakephp\cakephp\src\Http\Runner.php:73
+- C:\Users\Yohan\Desktop\Projets\ArchiLog\php-api\ArchiLog\vendor\cakephp\cakephp\src\Http\Runner.php:58
+- C:\Users\Yohan\Desktop\Projets\ArchiLog\php-api\ArchiLog\vendor\cakephp\cakephp\src\Http\Server.php:90
+- C:\Users\Yohan\Desktop\Projets\ArchiLog\php-api\ArchiLog\webroot\index.php:40
+
+Request URL: /css/normalize.min.css
+Referer URL: http://localhost:8765/todo-list
+2023-02-08 17:23:24 error: [Cake\Http\Exception\MissingControllerException] Controller class Css could not be found. in C:\Users\Yohan\Desktop\Projets\ArchiLog\php-api\ArchiLog\vendor\cakephp\cakephp\src\Controller\ControllerFactory.php on line 348
+Stack Trace:
+- C:\Users\Yohan\Desktop\Projets\ArchiLog\php-api\ArchiLog\vendor\cakephp\cakephp\src\Controller\ControllerFactory.php:74
+- C:\Users\Yohan\Desktop\Projets\ArchiLog\php-api\ArchiLog\vendor\cakephp\cakephp\src\Http\BaseApplication.php:318
+- C:\Users\Yohan\Desktop\Projets\ArchiLog\php-api\ArchiLog\vendor\cakephp\cakephp\src\Http\Runner.php:77
+- C:\Users\Yohan\Desktop\Projets\ArchiLog\php-api\ArchiLog\vendor\cakephp\cakephp\src\Http\Middleware\CsrfProtectionMiddleware.php:174
+- C:\Users\Yohan\Desktop\Projets\ArchiLog\php-api\ArchiLog\vendor\cakephp\cakephp\src\Http\Runner.php:73
+- C:\Users\Yohan\Desktop\Projets\ArchiLog\php-api\ArchiLog\vendor\cakephp\cakephp\src\Http\Middleware\BodyParserMiddleware.php:157
+- C:\Users\Yohan\Desktop\Projets\ArchiLog\php-api\ArchiLog\vendor\cakephp\cakephp\src\Http\Runner.php:73
+- C:\Users\Yohan\Desktop\Projets\ArchiLog\php-api\ArchiLog\vendor\cakephp\cakephp\src\Routing\Middleware\RoutingMiddleware.php:186
+- C:\Users\Yohan\Desktop\Projets\ArchiLog\php-api\ArchiLog\vendor\cakephp\cakephp\src\Http\Runner.php:73
+- C:\Users\Yohan\Desktop\Projets\ArchiLog\php-api\ArchiLog\vendor\cakephp\cakephp\src\Routing\Middleware\AssetMiddleware.php:77
+- C:\Users\Yohan\Desktop\Projets\ArchiLog\php-api\ArchiLog\vendor\cakephp\cakephp\src\Http\Runner.php:73
+- C:\Users\Yohan\Desktop\Projets\ArchiLog\php-api\ArchiLog\vendor\cakephp\cakephp\src\Error\Middleware\ErrorHandlerMiddleware.php:131
+- C:\Users\Yohan\Desktop\Projets\ArchiLog\php-api\ArchiLog\vendor\cakephp\cakephp\src\Http\Runner.php:73
+- C:\Users\Yohan\Desktop\Projets\ArchiLog\php-api\ArchiLog\vendor\cakephp\cakephp\src\Http\Runner.php:58
+- C:\Users\Yohan\Desktop\Projets\ArchiLog\php-api\ArchiLog\vendor\cakephp\cakephp\src\Http\Server.php:90
+- C:\Users\Yohan\Desktop\Projets\ArchiLog\php-api\ArchiLog\webroot\index.php:40
+
+Request URL: /css/milligram.min.css
+Referer URL: http://localhost:8765/todo-list
+2023-02-08 17:23:24 error: [Cake\Http\Exception\MissingControllerException] Controller class Css could not be found. in C:\Users\Yohan\Desktop\Projets\ArchiLog\php-api\ArchiLog\vendor\cakephp\cakephp\src\Controller\ControllerFactory.php on line 348
+Stack Trace:
+- C:\Users\Yohan\Desktop\Projets\ArchiLog\php-api\ArchiLog\vendor\cakephp\cakephp\src\Controller\ControllerFactory.php:74
+- C:\Users\Yohan\Desktop\Projets\ArchiLog\php-api\ArchiLog\vendor\cakephp\cakephp\src\Http\BaseApplication.php:318
+- C:\Users\Yohan\Desktop\Projets\ArchiLog\php-api\ArchiLog\vendor\cakephp\cakephp\src\Http\Runner.php:77
+- C:\Users\Yohan\Desktop\Projets\ArchiLog\php-api\ArchiLog\vendor\cakephp\cakephp\src\Http\Middleware\CsrfProtectionMiddleware.php:174
+- C:\Users\Yohan\Desktop\Projets\ArchiLog\php-api\ArchiLog\vendor\cakephp\cakephp\src\Http\Runner.php:73
+- C:\Users\Yohan\Desktop\Projets\ArchiLog\php-api\ArchiLog\vendor\cakephp\cakephp\src\Http\Middleware\BodyParserMiddleware.php:157
+- C:\Users\Yohan\Desktop\Projets\ArchiLog\php-api\ArchiLog\vendor\cakephp\cakephp\src\Http\Runner.php:73
+- C:\Users\Yohan\Desktop\Projets\ArchiLog\php-api\ArchiLog\vendor\cakephp\cakephp\src\Routing\Middleware\RoutingMiddleware.php:186
+- C:\Users\Yohan\Desktop\Projets\ArchiLog\php-api\ArchiLog\vendor\cakephp\cakephp\src\Http\Runner.php:73
+- C:\Users\Yohan\Desktop\Projets\ArchiLog\php-api\ArchiLog\vendor\cakephp\cakephp\src\Routing\Middleware\AssetMiddleware.php:77
+- C:\Users\Yohan\Desktop\Projets\ArchiLog\php-api\ArchiLog\vendor\cakephp\cakephp\src\Http\Runner.php:73
+- C:\Users\Yohan\Desktop\Projets\ArchiLog\php-api\ArchiLog\vendor\cakephp\cakephp\src\Error\Middleware\ErrorHandlerMiddleware.php:131
+- C:\Users\Yohan\Desktop\Projets\ArchiLog\php-api\ArchiLog\vendor\cakephp\cakephp\src\Http\Runner.php:73
+- C:\Users\Yohan\Desktop\Projets\ArchiLog\php-api\ArchiLog\vendor\cakephp\cakephp\src\Http\Runner.php:58
+- C:\Users\Yohan\Desktop\Projets\ArchiLog\php-api\ArchiLog\vendor\cakephp\cakephp\src\Http\Server.php:90
+- C:\Users\Yohan\Desktop\Projets\ArchiLog\php-api\ArchiLog\webroot\index.php:40
+
+Request URL: /css/cake.css
+Referer URL: http://localhost:8765/todo-list
+2023-02-08 17:42:15 error: [Cake\Controller\Exception\InvalidParameterException] Missing passed parameter for `id` in action Tickets::edit(). in C:\Users\Yohan\Desktop\Projets\ArchiLog\php-api\ArchiLog\vendor\cakephp\cakephp\src\Controller\ControllerFactory.php on line 243
+Stack Trace:
+- C:\Users\Yohan\Desktop\Projets\ArchiLog\php-api\ArchiLog\vendor\cakephp\cakephp\src\Controller\ControllerFactory.php:137
+- C:\Users\Yohan\Desktop\Projets\ArchiLog\php-api\ArchiLog\vendor\cakephp\cakephp\src\Controller\ControllerFactory.php:114
+- C:\Users\Yohan\Desktop\Projets\ArchiLog\php-api\ArchiLog\vendor\cakephp\cakephp\src\Http\BaseApplication.php:320
+- C:\Users\Yohan\Desktop\Projets\ArchiLog\php-api\ArchiLog\vendor\cakephp\cakephp\src\Http\Runner.php:77
+- C:\Users\Yohan\Desktop\Projets\ArchiLog\php-api\ArchiLog\vendor\cakephp\cakephp\src\Http\Middleware\CsrfProtectionMiddleware.php:174
+- C:\Users\Yohan\Desktop\Projets\ArchiLog\php-api\ArchiLog\vendor\cakephp\cakephp\src\Http\Runner.php:73
+- C:\Users\Yohan\Desktop\Projets\ArchiLog\php-api\ArchiLog\vendor\cakephp\cakephp\src\Http\Middleware\BodyParserMiddleware.php:157
+- C:\Users\Yohan\Desktop\Projets\ArchiLog\php-api\ArchiLog\vendor\cakephp\cakephp\src\Http\Runner.php:73
+- C:\Users\Yohan\Desktop\Projets\ArchiLog\php-api\ArchiLog\vendor\cakephp\cakephp\src\Routing\Middleware\RoutingMiddleware.php:186
+- C:\Users\Yohan\Desktop\Projets\ArchiLog\php-api\ArchiLog\vendor\cakephp\cakephp\src\Http\Runner.php:73
+- C:\Users\Yohan\Desktop\Projets\ArchiLog\php-api\ArchiLog\vendor\cakephp\cakephp\src\Routing\Middleware\AssetMiddleware.php:68
+- C:\Users\Yohan\Desktop\Projets\ArchiLog\php-api\ArchiLog\vendor\cakephp\cakephp\src\Http\Runner.php:73
+- C:\Users\Yohan\Desktop\Projets\ArchiLog\php-api\ArchiLog\vendor\cakephp\cakephp\src\Error\Middleware\ErrorHandlerMiddleware.php:131
+- C:\Users\Yohan\Desktop\Projets\ArchiLog\php-api\ArchiLog\vendor\cakephp\cakephp\src\Http\Runner.php:73
+- C:\Users\Yohan\Desktop\Projets\ArchiLog\php-api\ArchiLog\vendor\cakephp\cakephp\src\Http\Runner.php:58
+- C:\Users\Yohan\Desktop\Projets\ArchiLog\php-api\ArchiLog\vendor\cakephp\cakephp\src\Http\Server.php:90
+- C:\Users\Yohan\Desktop\Projets\ArchiLog\php-api\ArchiLog\webroot\index.php:40
+
+Request URL: /tickets/edit
+2023-02-08 17:42:15 error: [Cake\Http\Exception\MissingControllerException] Controller class Css could not be found. in C:\Users\Yohan\Desktop\Projets\ArchiLog\php-api\ArchiLog\vendor\cakephp\cakephp\src\Controller\ControllerFactory.php on line 348
+Stack Trace:
+- C:\Users\Yohan\Desktop\Projets\ArchiLog\php-api\ArchiLog\vendor\cakephp\cakephp\src\Controller\ControllerFactory.php:74
+- C:\Users\Yohan\Desktop\Projets\ArchiLog\php-api\ArchiLog\vendor\cakephp\cakephp\src\Http\BaseApplication.php:318
+- C:\Users\Yohan\Desktop\Projets\ArchiLog\php-api\ArchiLog\vendor\cakephp\cakephp\src\Http\Runner.php:77
+- C:\Users\Yohan\Desktop\Projets\ArchiLog\php-api\ArchiLog\vendor\cakephp\cakephp\src\Http\Middleware\CsrfProtectionMiddleware.php:174
+- C:\Users\Yohan\Desktop\Projets\ArchiLog\php-api\ArchiLog\vendor\cakephp\cakephp\src\Http\Runner.php:73
+- C:\Users\Yohan\Desktop\Projets\ArchiLog\php-api\ArchiLog\vendor\cakephp\cakephp\src\Http\Middleware\BodyParserMiddleware.php:157
+- C:\Users\Yohan\Desktop\Projets\ArchiLog\php-api\ArchiLog\vendor\cakephp\cakephp\src\Http\Runner.php:73
+- C:\Users\Yohan\Desktop\Projets\ArchiLog\php-api\ArchiLog\vendor\cakephp\cakephp\src\Routing\Middleware\RoutingMiddleware.php:186
+- C:\Users\Yohan\Desktop\Projets\ArchiLog\php-api\ArchiLog\vendor\cakephp\cakephp\src\Http\Runner.php:73
+- C:\Users\Yohan\Desktop\Projets\ArchiLog\php-api\ArchiLog\vendor\cakephp\cakephp\src\Routing\Middleware\AssetMiddleware.php:77
+- C:\Users\Yohan\Desktop\Projets\ArchiLog\php-api\ArchiLog\vendor\cakephp\cakephp\src\Http\Runner.php:73
+- C:\Users\Yohan\Desktop\Projets\ArchiLog\php-api\ArchiLog\vendor\cakephp\cakephp\src\Error\Middleware\ErrorHandlerMiddleware.php:131
+- C:\Users\Yohan\Desktop\Projets\ArchiLog\php-api\ArchiLog\vendor\cakephp\cakephp\src\Http\Runner.php:73
+- C:\Users\Yohan\Desktop\Projets\ArchiLog\php-api\ArchiLog\vendor\cakephp\cakephp\src\Http\Runner.php:58
+- C:\Users\Yohan\Desktop\Projets\ArchiLog\php-api\ArchiLog\vendor\cakephp\cakephp\src\Http\Server.php:90
+- C:\Users\Yohan\Desktop\Projets\ArchiLog\php-api\ArchiLog\webroot\index.php:40
+
+Request URL: /css/normalize.min.css
+Referer URL: http://localhost:8765/tickets/edit
+2023-02-08 17:42:15 error: [Cake\Http\Exception\MissingControllerException] Controller class Css could not be found. in C:\Users\Yohan\Desktop\Projets\ArchiLog\php-api\ArchiLog\vendor\cakephp\cakephp\src\Controller\ControllerFactory.php on line 348
+Stack Trace:
+- C:\Users\Yohan\Desktop\Projets\ArchiLog\php-api\ArchiLog\vendor\cakephp\cakephp\src\Controller\ControllerFactory.php:74
+- C:\Users\Yohan\Desktop\Projets\ArchiLog\php-api\ArchiLog\vendor\cakephp\cakephp\src\Http\BaseApplication.php:318
+- C:\Users\Yohan\Desktop\Projets\ArchiLog\php-api\ArchiLog\vendor\cakephp\cakephp\src\Http\Runner.php:77
+- C:\Users\Yohan\Desktop\Projets\ArchiLog\php-api\ArchiLog\vendor\cakephp\cakephp\src\Http\Middleware\CsrfProtectionMiddleware.php:174
+- C:\Users\Yohan\Desktop\Projets\ArchiLog\php-api\ArchiLog\vendor\cakephp\cakephp\src\Http\Runner.php:73
+- C:\Users\Yohan\Desktop\Projets\ArchiLog\php-api\ArchiLog\vendor\cakephp\cakephp\src\Http\Middleware\BodyParserMiddleware.php:157
+- C:\Users\Yohan\Desktop\Projets\ArchiLog\php-api\ArchiLog\vendor\cakephp\cakephp\src\Http\Runner.php:73
+- C:\Users\Yohan\Desktop\Projets\ArchiLog\php-api\ArchiLog\vendor\cakephp\cakephp\src\Routing\Middleware\RoutingMiddleware.php:186
+- C:\Users\Yohan\Desktop\Projets\ArchiLog\php-api\ArchiLog\vendor\cakephp\cakephp\src\Http\Runner.php:73
+- C:\Users\Yohan\Desktop\Projets\ArchiLog\php-api\ArchiLog\vendor\cakephp\cakephp\src\Routing\Middleware\AssetMiddleware.php:77
+- C:\Users\Yohan\Desktop\Projets\ArchiLog\php-api\ArchiLog\vendor\cakephp\cakephp\src\Http\Runner.php:73
+- C:\Users\Yohan\Desktop\Projets\ArchiLog\php-api\ArchiLog\vendor\cakephp\cakephp\src\Error\Middleware\ErrorHandlerMiddleware.php:131
+- C:\Users\Yohan\Desktop\Projets\ArchiLog\php-api\ArchiLog\vendor\cakephp\cakephp\src\Http\Runner.php:73
+- C:\Users\Yohan\Desktop\Projets\ArchiLog\php-api\ArchiLog\vendor\cakephp\cakephp\src\Http\Runner.php:58
+- C:\Users\Yohan\Desktop\Projets\ArchiLog\php-api\ArchiLog\vendor\cakephp\cakephp\src\Http\Server.php:90
+- C:\Users\Yohan\Desktop\Projets\ArchiLog\php-api\ArchiLog\webroot\index.php:40
+
+Request URL: /css/milligram.min.css
+Referer URL: http://localhost:8765/tickets/edit
+2023-02-08 17:42:15 error: [Cake\Http\Exception\MissingControllerException] Controller class Css could not be found. in C:\Users\Yohan\Desktop\Projets\ArchiLog\php-api\ArchiLog\vendor\cakephp\cakephp\src\Controller\ControllerFactory.php on line 348
+Stack Trace:
+- C:\Users\Yohan\Desktop\Projets\ArchiLog\php-api\ArchiLog\vendor\cakephp\cakephp\src\Controller\ControllerFactory.php:74
+- C:\Users\Yohan\Desktop\Projets\ArchiLog\php-api\ArchiLog\vendor\cakephp\cakephp\src\Http\BaseApplication.php:318
+- C:\Users\Yohan\Desktop\Projets\ArchiLog\php-api\ArchiLog\vendor\cakephp\cakephp\src\Http\Runner.php:77
+- C:\Users\Yohan\Desktop\Projets\ArchiLog\php-api\ArchiLog\vendor\cakephp\cakephp\src\Http\Middleware\CsrfProtectionMiddleware.php:174
+- C:\Users\Yohan\Desktop\Projets\ArchiLog\php-api\ArchiLog\vendor\cakephp\cakephp\src\Http\Runner.php:73
+- C:\Users\Yohan\Desktop\Projets\ArchiLog\php-api\ArchiLog\vendor\cakephp\cakephp\src\Http\Middleware\BodyParserMiddleware.php:157
+- C:\Users\Yohan\Desktop\Projets\ArchiLog\php-api\ArchiLog\vendor\cakephp\cakephp\src\Http\Runner.php:73
+- C:\Users\Yohan\Desktop\Projets\ArchiLog\php-api\ArchiLog\vendor\cakephp\cakephp\src\Routing\Middleware\RoutingMiddleware.php:186
+- C:\Users\Yohan\Desktop\Projets\ArchiLog\php-api\ArchiLog\vendor\cakephp\cakephp\src\Http\Runner.php:73
+- C:\Users\Yohan\Desktop\Projets\ArchiLog\php-api\ArchiLog\vendor\cakephp\cakephp\src\Routing\Middleware\AssetMiddleware.php:77
+- C:\Users\Yohan\Desktop\Projets\ArchiLog\php-api\ArchiLog\vendor\cakephp\cakephp\src\Http\Runner.php:73
+- C:\Users\Yohan\Desktop\Projets\ArchiLog\php-api\ArchiLog\vendor\cakephp\cakephp\src\Error\Middleware\ErrorHandlerMiddleware.php:131
+- C:\Users\Yohan\Desktop\Projets\ArchiLog\php-api\ArchiLog\vendor\cakephp\cakephp\src\Http\Runner.php:73
+- C:\Users\Yohan\Desktop\Projets\ArchiLog\php-api\ArchiLog\vendor\cakephp\cakephp\src\Http\Runner.php:58
+- C:\Users\Yohan\Desktop\Projets\ArchiLog\php-api\ArchiLog\vendor\cakephp\cakephp\src\Http\Server.php:90
+- C:\Users\Yohan\Desktop\Projets\ArchiLog\php-api\ArchiLog\webroot\index.php:40
+
+Request URL: /css/cake.css
+Referer URL: http://localhost:8765/tickets/edit
+2023-02-08 18:10:39 error: [TypeError] Cake\View\Helper\FormHelper::control(): Argument #1 ($fieldName) must be of type string, null given, called in C:\Users\Yohan\Desktop\Projets\ArchiLog\php-api\ArchiLog\templates\Tickets\create.php on line 21 in C:\Users\Yohan\Desktop\Projets\ArchiLog\php-api\ArchiLog\vendor\cakephp\cakephp\src\View\Helper\FormHelper.php on line 1033
+Stack Trace:
+- C:\Users\Yohan\Desktop\Projets\ArchiLog\php-api\ArchiLog\templates\Tickets\create.php:21
+- C:\Users\Yohan\Desktop\Projets\ArchiLog\php-api\ArchiLog\vendor\cakephp\cakephp\src\View\View.php:1220
+- C:\Users\Yohan\Desktop\Projets\ArchiLog\php-api\ArchiLog\vendor\cakephp\cakephp\src\View\View.php:1177
+- C:\Users\Yohan\Desktop\Projets\ArchiLog\php-api\ArchiLog\vendor\cakephp\cakephp\src\View\View.php:808
+- C:\Users\Yohan\Desktop\Projets\ArchiLog\php-api\ArchiLog\vendor\cakephp\cakephp\src\Controller\Controller.php:773
+- C:\Users\Yohan\Desktop\Projets\ArchiLog\php-api\ArchiLog\vendor\cakephp\cakephp\src\Controller\Controller.php:556
+- C:\Users\Yohan\Desktop\Projets\ArchiLog\php-api\ArchiLog\vendor\cakephp\cakephp\src\Controller\ControllerFactory.php:139
+- C:\Users\Yohan\Desktop\Projets\ArchiLog\php-api\ArchiLog\vendor\cakephp\cakephp\src\Controller\ControllerFactory.php:114
+- C:\Users\Yohan\Desktop\Projets\ArchiLog\php-api\ArchiLog\vendor\cakephp\cakephp\src\Http\BaseApplication.php:320
+- C:\Users\Yohan\Desktop\Projets\ArchiLog\php-api\ArchiLog\vendor\cakephp\cakephp\src\Http\Runner.php:77
+- C:\Users\Yohan\Desktop\Projets\ArchiLog\php-api\ArchiLog\vendor\cakephp\cakephp\src\Http\Middleware\CsrfProtectionMiddleware.php:174
+- C:\Users\Yohan\Desktop\Projets\ArchiLog\php-api\ArchiLog\vendor\cakephp\cakephp\src\Http\Runner.php:73
+- C:\Users\Yohan\Desktop\Projets\ArchiLog\php-api\ArchiLog\vendor\cakephp\cakephp\src\Http\Middleware\BodyParserMiddleware.php:157
+- C:\Users\Yohan\Desktop\Projets\ArchiLog\php-api\ArchiLog\vendor\cakephp\cakephp\src\Http\Runner.php:73
+- C:\Users\Yohan\Desktop\Projets\ArchiLog\php-api\ArchiLog\vendor\cakephp\cakephp\src\Routing\Middleware\RoutingMiddleware.php:186
+- C:\Users\Yohan\Desktop\Projets\ArchiLog\php-api\ArchiLog\vendor\cakephp\cakephp\src\Http\Runner.php:73
+- C:\Users\Yohan\Desktop\Projets\ArchiLog\php-api\ArchiLog\vendor\cakephp\cakephp\src\Routing\Middleware\AssetMiddleware.php:68
+- C:\Users\Yohan\Desktop\Projets\ArchiLog\php-api\ArchiLog\vendor\cakephp\cakephp\src\Http\Runner.php:73
+- C:\Users\Yohan\Desktop\Projets\ArchiLog\php-api\ArchiLog\vendor\cakephp\cakephp\src\Error\Middleware\ErrorHandlerMiddleware.php:131
+- C:\Users\Yohan\Desktop\Projets\ArchiLog\php-api\ArchiLog\vendor\cakephp\cakephp\src\Http\Runner.php:73
+- C:\Users\Yohan\Desktop\Projets\ArchiLog\php-api\ArchiLog\vendor\cakephp\cakephp\src\Http\Runner.php:58
+- C:\Users\Yohan\Desktop\Projets\ArchiLog\php-api\ArchiLog\vendor\cakephp\cakephp\src\Http\Server.php:90
+- C:\Users\Yohan\Desktop\Projets\ArchiLog\php-api\ArchiLog\webroot\index.php:40
+
+Request URL: /tickets/create
+2023-02-08 18:10:39 error: [Cake\Http\Exception\MissingControllerException] Controller class Css could not be found. in C:\Users\Yohan\Desktop\Projets\ArchiLog\php-api\ArchiLog\vendor\cakephp\cakephp\src\Controller\ControllerFactory.php on line 348
+Stack Trace:
+- C:\Users\Yohan\Desktop\Projets\ArchiLog\php-api\ArchiLog\vendor\cakephp\cakephp\src\Controller\ControllerFactory.php:74
+- C:\Users\Yohan\Desktop\Projets\ArchiLog\php-api\ArchiLog\vendor\cakephp\cakephp\src\Http\BaseApplication.php:318
+- C:\Users\Yohan\Desktop\Projets\ArchiLog\php-api\ArchiLog\vendor\cakephp\cakephp\src\Http\Runner.php:77
+- C:\Users\Yohan\Desktop\Projets\ArchiLog\php-api\ArchiLog\vendor\cakephp\cakephp\src\Http\Middleware\CsrfProtectionMiddleware.php:174
+- C:\Users\Yohan\Desktop\Projets\ArchiLog\php-api\ArchiLog\vendor\cakephp\cakephp\src\Http\Runner.php:73
+- C:\Users\Yohan\Desktop\Projets\ArchiLog\php-api\ArchiLog\vendor\cakephp\cakephp\src\Http\Middleware\BodyParserMiddleware.php:157
+- C:\Users\Yohan\Desktop\Projets\ArchiLog\php-api\ArchiLog\vendor\cakephp\cakephp\src\Http\Runner.php:73
+- C:\Users\Yohan\Desktop\Projets\ArchiLog\php-api\ArchiLog\vendor\cakephp\cakephp\src\Routing\Middleware\RoutingMiddleware.php:186
+- C:\Users\Yohan\Desktop\Projets\ArchiLog\php-api\ArchiLog\vendor\cakephp\cakephp\src\Http\Runner.php:73
+- C:\Users\Yohan\Desktop\Projets\ArchiLog\php-api\ArchiLog\vendor\cakephp\cakephp\src\Routing\Middleware\AssetMiddleware.php:77
+- C:\Users\Yohan\Desktop\Projets\ArchiLog\php-api\ArchiLog\vendor\cakephp\cakephp\src\Http\Runner.php:73
+- C:\Users\Yohan\Desktop\Projets\ArchiLog\php-api\ArchiLog\vendor\cakephp\cakephp\src\Error\Middleware\ErrorHandlerMiddleware.php:131
+- C:\Users\Yohan\Desktop\Projets\ArchiLog\php-api\ArchiLog\vendor\cakephp\cakephp\src\Http\Runner.php:73
+- C:\Users\Yohan\Desktop\Projets\ArchiLog\php-api\ArchiLog\vendor\cakephp\cakephp\src\Http\Runner.php:58
+- C:\Users\Yohan\Desktop\Projets\ArchiLog\php-api\ArchiLog\vendor\cakephp\cakephp\src\Http\Server.php:90
+- C:\Users\Yohan\Desktop\Projets\ArchiLog\php-api\ArchiLog\webroot\index.php:40
+
+Request URL: /css/normalize.min.css
+Referer URL: http://localhost:8765/tickets/create
+2023-02-08 18:10:39 error: [Cake\Http\Exception\MissingControllerException] Controller class Css could not be found. in C:\Users\Yohan\Desktop\Projets\ArchiLog\php-api\ArchiLog\vendor\cakephp\cakephp\src\Controller\ControllerFactory.php on line 348
+Stack Trace:
+- C:\Users\Yohan\Desktop\Projets\ArchiLog\php-api\ArchiLog\vendor\cakephp\cakephp\src\Controller\ControllerFactory.php:74
+- C:\Users\Yohan\Desktop\Projets\ArchiLog\php-api\ArchiLog\vendor\cakephp\cakephp\src\Http\BaseApplication.php:318
+- C:\Users\Yohan\Desktop\Projets\ArchiLog\php-api\ArchiLog\vendor\cakephp\cakephp\src\Http\Runner.php:77
+- C:\Users\Yohan\Desktop\Projets\ArchiLog\php-api\ArchiLog\vendor\cakephp\cakephp\src\Http\Middleware\CsrfProtectionMiddleware.php:174
+- C:\Users\Yohan\Desktop\Projets\ArchiLog\php-api\ArchiLog\vendor\cakephp\cakephp\src\Http\Runner.php:73
+- C:\Users\Yohan\Desktop\Projets\ArchiLog\php-api\ArchiLog\vendor\cakephp\cakephp\src\Http\Middleware\BodyParserMiddleware.php:157
+- C:\Users\Yohan\Desktop\Projets\ArchiLog\php-api\ArchiLog\vendor\cakephp\cakephp\src\Http\Runner.php:73
+- C:\Users\Yohan\Desktop\Projets\ArchiLog\php-api\ArchiLog\vendor\cakephp\cakephp\src\Routing\Middleware\RoutingMiddleware.php:186
+- C:\Users\Yohan\Desktop\Projets\ArchiLog\php-api\ArchiLog\vendor\cakephp\cakephp\src\Http\Runner.php:73
+- C:\Users\Yohan\Desktop\Projets\ArchiLog\php-api\ArchiLog\vendor\cakephp\cakephp\src\Routing\Middleware\AssetMiddleware.php:77
+- C:\Users\Yohan\Desktop\Projets\ArchiLog\php-api\ArchiLog\vendor\cakephp\cakephp\src\Http\Runner.php:73
+- C:\Users\Yohan\Desktop\Projets\ArchiLog\php-api\ArchiLog\vendor\cakephp\cakephp\src\Error\Middleware\ErrorHandlerMiddleware.php:131
+- C:\Users\Yohan\Desktop\Projets\ArchiLog\php-api\ArchiLog\vendor\cakephp\cakephp\src\Http\Runner.php:73
+- C:\Users\Yohan\Desktop\Projets\ArchiLog\php-api\ArchiLog\vendor\cakephp\cakephp\src\Http\Runner.php:58
+- C:\Users\Yohan\Desktop\Projets\ArchiLog\php-api\ArchiLog\vendor\cakephp\cakephp\src\Http\Server.php:90
+- C:\Users\Yohan\Desktop\Projets\ArchiLog\php-api\ArchiLog\webroot\index.php:40
+
+Request URL: /css/milligram.min.css
+Referer URL: http://localhost:8765/tickets/create
+2023-02-08 18:10:40 error: [Cake\Http\Exception\MissingControllerException] Controller class Css could not be found. in C:\Users\Yohan\Desktop\Projets\ArchiLog\php-api\ArchiLog\vendor\cakephp\cakephp\src\Controller\ControllerFactory.php on line 348
+Stack Trace:
+- C:\Users\Yohan\Desktop\Projets\ArchiLog\php-api\ArchiLog\vendor\cakephp\cakephp\src\Controller\ControllerFactory.php:74
+- C:\Users\Yohan\Desktop\Projets\ArchiLog\php-api\ArchiLog\vendor\cakephp\cakephp\src\Http\BaseApplication.php:318
+- C:\Users\Yohan\Desktop\Projets\ArchiLog\php-api\ArchiLog\vendor\cakephp\cakephp\src\Http\Runner.php:77
+- C:\Users\Yohan\Desktop\Projets\ArchiLog\php-api\ArchiLog\vendor\cakephp\cakephp\src\Http\Middleware\CsrfProtectionMiddleware.php:174
+- C:\Users\Yohan\Desktop\Projets\ArchiLog\php-api\ArchiLog\vendor\cakephp\cakephp\src\Http\Runner.php:73
+- C:\Users\Yohan\Desktop\Projets\ArchiLog\php-api\ArchiLog\vendor\cakephp\cakephp\src\Http\Middleware\BodyParserMiddleware.php:157
+- C:\Users\Yohan\Desktop\Projets\ArchiLog\php-api\ArchiLog\vendor\cakephp\cakephp\src\Http\Runner.php:73
+- C:\Users\Yohan\Desktop\Projets\ArchiLog\php-api\ArchiLog\vendor\cakephp\cakephp\src\Routing\Middleware\RoutingMiddleware.php:186
+- C:\Users\Yohan\Desktop\Projets\ArchiLog\php-api\ArchiLog\vendor\cakephp\cakephp\src\Http\Runner.php:73
+- C:\Users\Yohan\Desktop\Projets\ArchiLog\php-api\ArchiLog\vendor\cakephp\cakephp\src\Routing\Middleware\AssetMiddleware.php:77
+- C:\Users\Yohan\Desktop\Projets\ArchiLog\php-api\ArchiLog\vendor\cakephp\cakephp\src\Http\Runner.php:73
+- C:\Users\Yohan\Desktop\Projets\ArchiLog\php-api\ArchiLog\vendor\cakephp\cakephp\src\Error\Middleware\ErrorHandlerMiddleware.php:131
+- C:\Users\Yohan\Desktop\Projets\ArchiLog\php-api\ArchiLog\vendor\cakephp\cakephp\src\Http\Runner.php:73
+- C:\Users\Yohan\Desktop\Projets\ArchiLog\php-api\ArchiLog\vendor\cakephp\cakephp\src\Http\Runner.php:58
+- C:\Users\Yohan\Desktop\Projets\ArchiLog\php-api\ArchiLog\vendor\cakephp\cakephp\src\Http\Server.php:90
+- C:\Users\Yohan\Desktop\Projets\ArchiLog\php-api\ArchiLog\webroot\index.php:40
+
+Request URL: /css/cake.css
+Referer URL: http://localhost:8765/tickets/create
+2023-02-08 18:10:59 error: [TypeError] Cake\View\Helper\FormHelper::control(): Argument #1 ($fieldName) must be of type string, null given, called in C:\Users\Yohan\Desktop\Projets\ArchiLog\php-api\ArchiLog\templates\Tickets\create.php on line 21 in C:\Users\Yohan\Desktop\Projets\ArchiLog\php-api\ArchiLog\vendor\cakephp\cakephp\src\View\Helper\FormHelper.php on line 1033
+Stack Trace:
+- C:\Users\Yohan\Desktop\Projets\ArchiLog\php-api\ArchiLog\templates\Tickets\create.php:21
+- C:\Users\Yohan\Desktop\Projets\ArchiLog\php-api\ArchiLog\vendor\cakephp\cakephp\src\View\View.php:1220
+- C:\Users\Yohan\Desktop\Projets\ArchiLog\php-api\ArchiLog\vendor\cakephp\cakephp\src\View\View.php:1177
+- C:\Users\Yohan\Desktop\Projets\ArchiLog\php-api\ArchiLog\vendor\cakephp\cakephp\src\View\View.php:808
+- C:\Users\Yohan\Desktop\Projets\ArchiLog\php-api\ArchiLog\vendor\cakephp\cakephp\src\Controller\Controller.php:773
+- C:\Users\Yohan\Desktop\Projets\ArchiLog\php-api\ArchiLog\vendor\cakephp\cakephp\src\Controller\Controller.php:556
+- C:\Users\Yohan\Desktop\Projets\ArchiLog\php-api\ArchiLog\vendor\cakephp\cakephp\src\Controller\ControllerFactory.php:139
+- C:\Users\Yohan\Desktop\Projets\ArchiLog\php-api\ArchiLog\vendor\cakephp\cakephp\src\Controller\ControllerFactory.php:114
+- C:\Users\Yohan\Desktop\Projets\ArchiLog\php-api\ArchiLog\vendor\cakephp\cakephp\src\Http\BaseApplication.php:320
+- C:\Users\Yohan\Desktop\Projets\ArchiLog\php-api\ArchiLog\vendor\cakephp\cakephp\src\Http\Runner.php:77
+- C:\Users\Yohan\Desktop\Projets\ArchiLog\php-api\ArchiLog\vendor\cakephp\cakephp\src\Http\Middleware\CsrfProtectionMiddleware.php:174
+- C:\Users\Yohan\Desktop\Projets\ArchiLog\php-api\ArchiLog\vendor\cakephp\cakephp\src\Http\Runner.php:73
+- C:\Users\Yohan\Desktop\Projets\ArchiLog\php-api\ArchiLog\vendor\cakephp\cakephp\src\Http\Middleware\BodyParserMiddleware.php:157
+- C:\Users\Yohan\Desktop\Projets\ArchiLog\php-api\ArchiLog\vendor\cakephp\cakephp\src\Http\Runner.php:73
+- C:\Users\Yohan\Desktop\Projets\ArchiLog\php-api\ArchiLog\vendor\cakephp\cakephp\src\Routing\Middleware\RoutingMiddleware.php:186
+- C:\Users\Yohan\Desktop\Projets\ArchiLog\php-api\ArchiLog\vendor\cakephp\cakephp\src\Http\Runner.php:73
+- C:\Users\Yohan\Desktop\Projets\ArchiLog\php-api\ArchiLog\vendor\cakephp\cakephp\src\Routing\Middleware\AssetMiddleware.php:68
+- C:\Users\Yohan\Desktop\Projets\ArchiLog\php-api\ArchiLog\vendor\cakephp\cakephp\src\Http\Runner.php:73
+- C:\Users\Yohan\Desktop\Projets\ArchiLog\php-api\ArchiLog\vendor\cakephp\cakephp\src\Error\Middleware\ErrorHandlerMiddleware.php:131
+- C:\Users\Yohan\Desktop\Projets\ArchiLog\php-api\ArchiLog\vendor\cakephp\cakephp\src\Http\Runner.php:73
+- C:\Users\Yohan\Desktop\Projets\ArchiLog\php-api\ArchiLog\vendor\cakephp\cakephp\src\Http\Runner.php:58
+- C:\Users\Yohan\Desktop\Projets\ArchiLog\php-api\ArchiLog\vendor\cakephp\cakephp\src\Http\Server.php:90
+- C:\Users\Yohan\Desktop\Projets\ArchiLog\php-api\ArchiLog\webroot\index.php:40
+
+Request URL: /tickets/create
+2023-02-08 18:10:59 error: [Cake\Http\Exception\MissingControllerException] Controller class Css could not be found. in C:\Users\Yohan\Desktop\Projets\ArchiLog\php-api\ArchiLog\vendor\cakephp\cakephp\src\Controller\ControllerFactory.php on line 348
+Stack Trace:
+- C:\Users\Yohan\Desktop\Projets\ArchiLog\php-api\ArchiLog\vendor\cakephp\cakephp\src\Controller\ControllerFactory.php:74
+- C:\Users\Yohan\Desktop\Projets\ArchiLog\php-api\ArchiLog\vendor\cakephp\cakephp\src\Http\BaseApplication.php:318
+- C:\Users\Yohan\Desktop\Projets\ArchiLog\php-api\ArchiLog\vendor\cakephp\cakephp\src\Http\Runner.php:77
+- C:\Users\Yohan\Desktop\Projets\ArchiLog\php-api\ArchiLog\vendor\cakephp\cakephp\src\Http\Middleware\CsrfProtectionMiddleware.php:174
+- C:\Users\Yohan\Desktop\Projets\ArchiLog\php-api\ArchiLog\vendor\cakephp\cakephp\src\Http\Runner.php:73
+- C:\Users\Yohan\Desktop\Projets\ArchiLog\php-api\ArchiLog\vendor\cakephp\cakephp\src\Http\Middleware\BodyParserMiddleware.php:157
+- C:\Users\Yohan\Desktop\Projets\ArchiLog\php-api\ArchiLog\vendor\cakephp\cakephp\src\Http\Runner.php:73
+- C:\Users\Yohan\Desktop\Projets\ArchiLog\php-api\ArchiLog\vendor\cakephp\cakephp\src\Routing\Middleware\RoutingMiddleware.php:186
+- C:\Users\Yohan\Desktop\Projets\ArchiLog\php-api\ArchiLog\vendor\cakephp\cakephp\src\Http\Runner.php:73
+- C:\Users\Yohan\Desktop\Projets\ArchiLog\php-api\ArchiLog\vendor\cakephp\cakephp\src\Routing\Middleware\AssetMiddleware.php:77
+- C:\Users\Yohan\Desktop\Projets\ArchiLog\php-api\ArchiLog\vendor\cakephp\cakephp\src\Http\Runner.php:73
+- C:\Users\Yohan\Desktop\Projets\ArchiLog\php-api\ArchiLog\vendor\cakephp\cakephp\src\Error\Middleware\ErrorHandlerMiddleware.php:131
+- C:\Users\Yohan\Desktop\Projets\ArchiLog\php-api\ArchiLog\vendor\cakephp\cakephp\src\Http\Runner.php:73
+- C:\Users\Yohan\Desktop\Projets\ArchiLog\php-api\ArchiLog\vendor\cakephp\cakephp\src\Http\Runner.php:58
+- C:\Users\Yohan\Desktop\Projets\ArchiLog\php-api\ArchiLog\vendor\cakephp\cakephp\src\Http\Server.php:90
+- C:\Users\Yohan\Desktop\Projets\ArchiLog\php-api\ArchiLog\webroot\index.php:40
+
+Request URL: /css/normalize.min.css
+Referer URL: http://localhost:8765/tickets/create
+2023-02-08 18:10:59 error: [Cake\Http\Exception\MissingControllerException] Controller class Css could not be found. in C:\Users\Yohan\Desktop\Projets\ArchiLog\php-api\ArchiLog\vendor\cakephp\cakephp\src\Controller\ControllerFactory.php on line 348
+Stack Trace:
+- C:\Users\Yohan\Desktop\Projets\ArchiLog\php-api\ArchiLog\vendor\cakephp\cakephp\src\Controller\ControllerFactory.php:74
+- C:\Users\Yohan\Desktop\Projets\ArchiLog\php-api\ArchiLog\vendor\cakephp\cakephp\src\Http\BaseApplication.php:318
+- C:\Users\Yohan\Desktop\Projets\ArchiLog\php-api\ArchiLog\vendor\cakephp\cakephp\src\Http\Runner.php:77
+- C:\Users\Yohan\Desktop\Projets\ArchiLog\php-api\ArchiLog\vendor\cakephp\cakephp\src\Http\Middleware\CsrfProtectionMiddleware.php:174
+- C:\Users\Yohan\Desktop\Projets\ArchiLog\php-api\ArchiLog\vendor\cakephp\cakephp\src\Http\Runner.php:73
+- C:\Users\Yohan\Desktop\Projets\ArchiLog\php-api\ArchiLog\vendor\cakephp\cakephp\src\Http\Middleware\BodyParserMiddleware.php:157
+- C:\Users\Yohan\Desktop\Projets\ArchiLog\php-api\ArchiLog\vendor\cakephp\cakephp\src\Http\Runner.php:73
+- C:\Users\Yohan\Desktop\Projets\ArchiLog\php-api\ArchiLog\vendor\cakephp\cakephp\src\Routing\Middleware\RoutingMiddleware.php:186
+- C:\Users\Yohan\Desktop\Projets\ArchiLog\php-api\ArchiLog\vendor\cakephp\cakephp\src\Http\Runner.php:73
+- C:\Users\Yohan\Desktop\Projets\ArchiLog\php-api\ArchiLog\vendor\cakephp\cakephp\src\Routing\Middleware\AssetMiddleware.php:77
+- C:\Users\Yohan\Desktop\Projets\ArchiLog\php-api\ArchiLog\vendor\cakephp\cakephp\src\Http\Runner.php:73
+- C:\Users\Yohan\Desktop\Projets\ArchiLog\php-api\ArchiLog\vendor\cakephp\cakephp\src\Error\Middleware\ErrorHandlerMiddleware.php:131
+- C:\Users\Yohan\Desktop\Projets\ArchiLog\php-api\ArchiLog\vendor\cakephp\cakephp\src\Http\Runner.php:73
+- C:\Users\Yohan\Desktop\Projets\ArchiLog\php-api\ArchiLog\vendor\cakephp\cakephp\src\Http\Runner.php:58
+- C:\Users\Yohan\Desktop\Projets\ArchiLog\php-api\ArchiLog\vendor\cakephp\cakephp\src\Http\Server.php:90
+- C:\Users\Yohan\Desktop\Projets\ArchiLog\php-api\ArchiLog\webroot\index.php:40
+
+Request URL: /css/milligram.min.css
+Referer URL: http://localhost:8765/tickets/create
+2023-02-08 18:10:59 error: [Cake\Http\Exception\MissingControllerException] Controller class Css could not be found. in C:\Users\Yohan\Desktop\Projets\ArchiLog\php-api\ArchiLog\vendor\cakephp\cakephp\src\Controller\ControllerFactory.php on line 348
+Stack Trace:
+- C:\Users\Yohan\Desktop\Projets\ArchiLog\php-api\ArchiLog\vendor\cakephp\cakephp\src\Controller\ControllerFactory.php:74
+- C:\Users\Yohan\Desktop\Projets\ArchiLog\php-api\ArchiLog\vendor\cakephp\cakephp\src\Http\BaseApplication.php:318
+- C:\Users\Yohan\Desktop\Projets\ArchiLog\php-api\ArchiLog\vendor\cakephp\cakephp\src\Http\Runner.php:77
+- C:\Users\Yohan\Desktop\Projets\ArchiLog\php-api\ArchiLog\vendor\cakephp\cakephp\src\Http\Middleware\CsrfProtectionMiddleware.php:174
+- C:\Users\Yohan\Desktop\Projets\ArchiLog\php-api\ArchiLog\vendor\cakephp\cakephp\src\Http\Runner.php:73
+- C:\Users\Yohan\Desktop\Projets\ArchiLog\php-api\ArchiLog\vendor\cakephp\cakephp\src\Http\Middleware\BodyParserMiddleware.php:157
+- C:\Users\Yohan\Desktop\Projets\ArchiLog\php-api\ArchiLog\vendor\cakephp\cakephp\src\Http\Runner.php:73
+- C:\Users\Yohan\Desktop\Projets\ArchiLog\php-api\ArchiLog\vendor\cakephp\cakephp\src\Routing\Middleware\RoutingMiddleware.php:186
+- C:\Users\Yohan\Desktop\Projets\ArchiLog\php-api\ArchiLog\vendor\cakephp\cakephp\src\Http\Runner.php:73
+- C:\Users\Yohan\Desktop\Projets\ArchiLog\php-api\ArchiLog\vendor\cakephp\cakephp\src\Routing\Middleware\AssetMiddleware.php:77
+- C:\Users\Yohan\Desktop\Projets\ArchiLog\php-api\ArchiLog\vendor\cakephp\cakephp\src\Http\Runner.php:73
+- C:\Users\Yohan\Desktop\Projets\ArchiLog\php-api\ArchiLog\vendor\cakephp\cakephp\src\Error\Middleware\ErrorHandlerMiddleware.php:131
+- C:\Users\Yohan\Desktop\Projets\ArchiLog\php-api\ArchiLog\vendor\cakephp\cakephp\src\Http\Runner.php:73
+- C:\Users\Yohan\Desktop\Projets\ArchiLog\php-api\ArchiLog\vendor\cakephp\cakephp\src\Http\Runner.php:58
+- C:\Users\Yohan\Desktop\Projets\ArchiLog\php-api\ArchiLog\vendor\cakephp\cakephp\src\Http\Server.php:90
+- C:\Users\Yohan\Desktop\Projets\ArchiLog\php-api\ArchiLog\webroot\index.php:40
+
+Request URL: /css/cake.css
+Referer URL: http://localhost:8765/tickets/create
+2023-02-08 18:11:00 error: [TypeError] Cake\View\Helper\FormHelper::control(): Argument #1 ($fieldName) must be of type string, null given, called in C:\Users\Yohan\Desktop\Projets\ArchiLog\php-api\ArchiLog\templates\Tickets\create.php on line 21 in C:\Users\Yohan\Desktop\Projets\ArchiLog\php-api\ArchiLog\vendor\cakephp\cakephp\src\View\Helper\FormHelper.php on line 1033
+Stack Trace:
+- C:\Users\Yohan\Desktop\Projets\ArchiLog\php-api\ArchiLog\templates\Tickets\create.php:21
+- C:\Users\Yohan\Desktop\Projets\ArchiLog\php-api\ArchiLog\vendor\cakephp\cakephp\src\View\View.php:1220
+- C:\Users\Yohan\Desktop\Projets\ArchiLog\php-api\ArchiLog\vendor\cakephp\cakephp\src\View\View.php:1177
+- C:\Users\Yohan\Desktop\Projets\ArchiLog\php-api\ArchiLog\vendor\cakephp\cakephp\src\View\View.php:808
+- C:\Users\Yohan\Desktop\Projets\ArchiLog\php-api\ArchiLog\vendor\cakephp\cakephp\src\Controller\Controller.php:773
+- C:\Users\Yohan\Desktop\Projets\ArchiLog\php-api\ArchiLog\vendor\cakephp\cakephp\src\Controller\Controller.php:556
+- C:\Users\Yohan\Desktop\Projets\ArchiLog\php-api\ArchiLog\vendor\cakephp\cakephp\src\Controller\ControllerFactory.php:139
+- C:\Users\Yohan\Desktop\Projets\ArchiLog\php-api\ArchiLog\vendor\cakephp\cakephp\src\Controller\ControllerFactory.php:114
+- C:\Users\Yohan\Desktop\Projets\ArchiLog\php-api\ArchiLog\vendor\cakephp\cakephp\src\Http\BaseApplication.php:320
+- C:\Users\Yohan\Desktop\Projets\ArchiLog\php-api\ArchiLog\vendor\cakephp\cakephp\src\Http\Runner.php:77
+- C:\Users\Yohan\Desktop\Projets\ArchiLog\php-api\ArchiLog\vendor\cakephp\cakephp\src\Http\Middleware\CsrfProtectionMiddleware.php:174
+- C:\Users\Yohan\Desktop\Projets\ArchiLog\php-api\ArchiLog\vendor\cakephp\cakephp\src\Http\Runner.php:73
+- C:\Users\Yohan\Desktop\Projets\ArchiLog\php-api\ArchiLog\vendor\cakephp\cakephp\src\Http\Middleware\BodyParserMiddleware.php:157
+- C:\Users\Yohan\Desktop\Projets\ArchiLog\php-api\ArchiLog\vendor\cakephp\cakephp\src\Http\Runner.php:73
+- C:\Users\Yohan\Desktop\Projets\ArchiLog\php-api\ArchiLog\vendor\cakephp\cakephp\src\Routing\Middleware\RoutingMiddleware.php:186
+- C:\Users\Yohan\Desktop\Projets\ArchiLog\php-api\ArchiLog\vendor\cakephp\cakephp\src\Http\Runner.php:73
+- C:\Users\Yohan\Desktop\Projets\ArchiLog\php-api\ArchiLog\vendor\cakephp\cakephp\src\Routing\Middleware\AssetMiddleware.php:68
+- C:\Users\Yohan\Desktop\Projets\ArchiLog\php-api\ArchiLog\vendor\cakephp\cakephp\src\Http\Runner.php:73
+- C:\Users\Yohan\Desktop\Projets\ArchiLog\php-api\ArchiLog\vendor\cakephp\cakephp\src\Error\Middleware\ErrorHandlerMiddleware.php:131
+- C:\Users\Yohan\Desktop\Projets\ArchiLog\php-api\ArchiLog\vendor\cakephp\cakephp\src\Http\Runner.php:73
+- C:\Users\Yohan\Desktop\Projets\ArchiLog\php-api\ArchiLog\vendor\cakephp\cakephp\src\Http\Runner.php:58
+- C:\Users\Yohan\Desktop\Projets\ArchiLog\php-api\ArchiLog\vendor\cakephp\cakephp\src\Http\Server.php:90
+- C:\Users\Yohan\Desktop\Projets\ArchiLog\php-api\ArchiLog\webroot\index.php:40
+
+Request URL: /tickets/create
+2023-02-08 18:11:00 error: [Cake\Http\Exception\MissingControllerException] Controller class Css could not be found. in C:\Users\Yohan\Desktop\Projets\ArchiLog\php-api\ArchiLog\vendor\cakephp\cakephp\src\Controller\ControllerFactory.php on line 348
+Stack Trace:
+- C:\Users\Yohan\Desktop\Projets\ArchiLog\php-api\ArchiLog\vendor\cakephp\cakephp\src\Controller\ControllerFactory.php:74
+- C:\Users\Yohan\Desktop\Projets\ArchiLog\php-api\ArchiLog\vendor\cakephp\cakephp\src\Http\BaseApplication.php:318
+- C:\Users\Yohan\Desktop\Projets\ArchiLog\php-api\ArchiLog\vendor\cakephp\cakephp\src\Http\Runner.php:77
+- C:\Users\Yohan\Desktop\Projets\ArchiLog\php-api\ArchiLog\vendor\cakephp\cakephp\src\Http\Middleware\CsrfProtectionMiddleware.php:174
+- C:\Users\Yohan\Desktop\Projets\ArchiLog\php-api\ArchiLog\vendor\cakephp\cakephp\src\Http\Runner.php:73
+- C:\Users\Yohan\Desktop\Projets\ArchiLog\php-api\ArchiLog\vendor\cakephp\cakephp\src\Http\Middleware\BodyParserMiddleware.php:157
+- C:\Users\Yohan\Desktop\Projets\ArchiLog\php-api\ArchiLog\vendor\cakephp\cakephp\src\Http\Runner.php:73
+- C:\Users\Yohan\Desktop\Projets\ArchiLog\php-api\ArchiLog\vendor\cakephp\cakephp\src\Routing\Middleware\RoutingMiddleware.php:186
+- C:\Users\Yohan\Desktop\Projets\ArchiLog\php-api\ArchiLog\vendor\cakephp\cakephp\src\Http\Runner.php:73
+- C:\Users\Yohan\Desktop\Projets\ArchiLog\php-api\ArchiLog\vendor\cakephp\cakephp\src\Routing\Middleware\AssetMiddleware.php:77
+- C:\Users\Yohan\Desktop\Projets\ArchiLog\php-api\ArchiLog\vendor\cakephp\cakephp\src\Http\Runner.php:73
+- C:\Users\Yohan\Desktop\Projets\ArchiLog\php-api\ArchiLog\vendor\cakephp\cakephp\src\Error\Middleware\ErrorHandlerMiddleware.php:131
+- C:\Users\Yohan\Desktop\Projets\ArchiLog\php-api\ArchiLog\vendor\cakephp\cakephp\src\Http\Runner.php:73
+- C:\Users\Yohan\Desktop\Projets\ArchiLog\php-api\ArchiLog\vendor\cakephp\cakephp\src\Http\Runner.php:58
+- C:\Users\Yohan\Desktop\Projets\ArchiLog\php-api\ArchiLog\vendor\cakephp\cakephp\src\Http\Server.php:90
+- C:\Users\Yohan\Desktop\Projets\ArchiLog\php-api\ArchiLog\webroot\index.php:40
+
+Request URL: /css/normalize.min.css
+Referer URL: http://localhost:8765/tickets/create
+2023-02-08 18:11:00 error: [Cake\Http\Exception\MissingControllerException] Controller class Css could not be found. in C:\Users\Yohan\Desktop\Projets\ArchiLog\php-api\ArchiLog\vendor\cakephp\cakephp\src\Controller\ControllerFactory.php on line 348
+Stack Trace:
+- C:\Users\Yohan\Desktop\Projets\ArchiLog\php-api\ArchiLog\vendor\cakephp\cakephp\src\Controller\ControllerFactory.php:74
+- C:\Users\Yohan\Desktop\Projets\ArchiLog\php-api\ArchiLog\vendor\cakephp\cakephp\src\Http\BaseApplication.php:318
+- C:\Users\Yohan\Desktop\Projets\ArchiLog\php-api\ArchiLog\vendor\cakephp\cakephp\src\Http\Runner.php:77
+- C:\Users\Yohan\Desktop\Projets\ArchiLog\php-api\ArchiLog\vendor\cakephp\cakephp\src\Http\Middleware\CsrfProtectionMiddleware.php:174
+- C:\Users\Yohan\Desktop\Projets\ArchiLog\php-api\ArchiLog\vendor\cakephp\cakephp\src\Http\Runner.php:73
+- C:\Users\Yohan\Desktop\Projets\ArchiLog\php-api\ArchiLog\vendor\cakephp\cakephp\src\Http\Middleware\BodyParserMiddleware.php:157
+- C:\Users\Yohan\Desktop\Projets\ArchiLog\php-api\ArchiLog\vendor\cakephp\cakephp\src\Http\Runner.php:73
+- C:\Users\Yohan\Desktop\Projets\ArchiLog\php-api\ArchiLog\vendor\cakephp\cakephp\src\Routing\Middleware\RoutingMiddleware.php:186
+- C:\Users\Yohan\Desktop\Projets\ArchiLog\php-api\ArchiLog\vendor\cakephp\cakephp\src\Http\Runner.php:73
+- C:\Users\Yohan\Desktop\Projets\ArchiLog\php-api\ArchiLog\vendor\cakephp\cakephp\src\Routing\Middleware\AssetMiddleware.php:77
+- C:\Users\Yohan\Desktop\Projets\ArchiLog\php-api\ArchiLog\vendor\cakephp\cakephp\src\Http\Runner.php:73
+- C:\Users\Yohan\Desktop\Projets\ArchiLog\php-api\ArchiLog\vendor\cakephp\cakephp\src\Error\Middleware\ErrorHandlerMiddleware.php:131
+- C:\Users\Yohan\Desktop\Projets\ArchiLog\php-api\ArchiLog\vendor\cakephp\cakephp\src\Http\Runner.php:73
+- C:\Users\Yohan\Desktop\Projets\ArchiLog\php-api\ArchiLog\vendor\cakephp\cakephp\src\Http\Runner.php:58
+- C:\Users\Yohan\Desktop\Projets\ArchiLog\php-api\ArchiLog\vendor\cakephp\cakephp\src\Http\Server.php:90
+- C:\Users\Yohan\Desktop\Projets\ArchiLog\php-api\ArchiLog\webroot\index.php:40
+
+Request URL: /css/milligram.min.css
+Referer URL: http://localhost:8765/tickets/create
+2023-02-08 18:11:00 error: [Cake\Http\Exception\MissingControllerException] Controller class Css could not be found. in C:\Users\Yohan\Desktop\Projets\ArchiLog\php-api\ArchiLog\vendor\cakephp\cakephp\src\Controller\ControllerFactory.php on line 348
+Stack Trace:
+- C:\Users\Yohan\Desktop\Projets\ArchiLog\php-api\ArchiLog\vendor\cakephp\cakephp\src\Controller\ControllerFactory.php:74
+- C:\Users\Yohan\Desktop\Projets\ArchiLog\php-api\ArchiLog\vendor\cakephp\cakephp\src\Http\BaseApplication.php:318
+- C:\Users\Yohan\Desktop\Projets\ArchiLog\php-api\ArchiLog\vendor\cakephp\cakephp\src\Http\Runner.php:77
+- C:\Users\Yohan\Desktop\Projets\ArchiLog\php-api\ArchiLog\vendor\cakephp\cakephp\src\Http\Middleware\CsrfProtectionMiddleware.php:174
+- C:\Users\Yohan\Desktop\Projets\ArchiLog\php-api\ArchiLog\vendor\cakephp\cakephp\src\Http\Runner.php:73
+- C:\Users\Yohan\Desktop\Projets\ArchiLog\php-api\ArchiLog\vendor\cakephp\cakephp\src\Http\Middleware\BodyParserMiddleware.php:157
+- C:\Users\Yohan\Desktop\Projets\ArchiLog\php-api\ArchiLog\vendor\cakephp\cakephp\src\Http\Runner.php:73
+- C:\Users\Yohan\Desktop\Projets\ArchiLog\php-api\ArchiLog\vendor\cakephp\cakephp\src\Routing\Middleware\RoutingMiddleware.php:186
+- C:\Users\Yohan\Desktop\Projets\ArchiLog\php-api\ArchiLog\vendor\cakephp\cakephp\src\Http\Runner.php:73
+- C:\Users\Yohan\Desktop\Projets\ArchiLog\php-api\ArchiLog\vendor\cakephp\cakephp\src\Routing\Middleware\AssetMiddleware.php:77
+- C:\Users\Yohan\Desktop\Projets\ArchiLog\php-api\ArchiLog\vendor\cakephp\cakephp\src\Http\Runner.php:73
+- C:\Users\Yohan\Desktop\Projets\ArchiLog\php-api\ArchiLog\vendor\cakephp\cakephp\src\Error\Middleware\ErrorHandlerMiddleware.php:131
+- C:\Users\Yohan\Desktop\Projets\ArchiLog\php-api\ArchiLog\vendor\cakephp\cakephp\src\Http\Runner.php:73
+- C:\Users\Yohan\Desktop\Projets\ArchiLog\php-api\ArchiLog\vendor\cakephp\cakephp\src\Http\Runner.php:58
+- C:\Users\Yohan\Desktop\Projets\ArchiLog\php-api\ArchiLog\vendor\cakephp\cakephp\src\Http\Server.php:90
+- C:\Users\Yohan\Desktop\Projets\ArchiLog\php-api\ArchiLog\webroot\index.php:40
+
+Request URL: /css/cake.css
+Referer URL: http://localhost:8765/tickets/create
+2023-02-08 18:11:20 error: [TypeError] Cake\View\Helper\FormHelper::control(): Argument #1 ($fieldName) must be of type string, null given, called in C:\Users\Yohan\Desktop\Projets\ArchiLog\php-api\ArchiLog\templates\Tickets\create.php on line 21 in C:\Users\Yohan\Desktop\Projets\ArchiLog\php-api\ArchiLog\vendor\cakephp\cakephp\src\View\Helper\FormHelper.php on line 1033
+Stack Trace:
+- C:\Users\Yohan\Desktop\Projets\ArchiLog\php-api\ArchiLog\templates\Tickets\create.php:21
+- C:\Users\Yohan\Desktop\Projets\ArchiLog\php-api\ArchiLog\vendor\cakephp\cakephp\src\View\View.php:1220
+- C:\Users\Yohan\Desktop\Projets\ArchiLog\php-api\ArchiLog\vendor\cakephp\cakephp\src\View\View.php:1177
+- C:\Users\Yohan\Desktop\Projets\ArchiLog\php-api\ArchiLog\vendor\cakephp\cakephp\src\View\View.php:808
+- C:\Users\Yohan\Desktop\Projets\ArchiLog\php-api\ArchiLog\vendor\cakephp\cakephp\src\Controller\Controller.php:773
+- C:\Users\Yohan\Desktop\Projets\ArchiLog\php-api\ArchiLog\vendor\cakephp\cakephp\src\Controller\Controller.php:556
+- C:\Users\Yohan\Desktop\Projets\ArchiLog\php-api\ArchiLog\vendor\cakephp\cakephp\src\Controller\ControllerFactory.php:139
+- C:\Users\Yohan\Desktop\Projets\ArchiLog\php-api\ArchiLog\vendor\cakephp\cakephp\src\Controller\ControllerFactory.php:114
+- C:\Users\Yohan\Desktop\Projets\ArchiLog\php-api\ArchiLog\vendor\cakephp\cakephp\src\Http\BaseApplication.php:320
+- C:\Users\Yohan\Desktop\Projets\ArchiLog\php-api\ArchiLog\vendor\cakephp\cakephp\src\Http\Runner.php:77
+- C:\Users\Yohan\Desktop\Projets\ArchiLog\php-api\ArchiLog\vendor\cakephp\cakephp\src\Http\Middleware\CsrfProtectionMiddleware.php:174
+- C:\Users\Yohan\Desktop\Projets\ArchiLog\php-api\ArchiLog\vendor\cakephp\cakephp\src\Http\Runner.php:73
+- C:\Users\Yohan\Desktop\Projets\ArchiLog\php-api\ArchiLog\vendor\cakephp\cakephp\src\Http\Middleware\BodyParserMiddleware.php:157
+- C:\Users\Yohan\Desktop\Projets\ArchiLog\php-api\ArchiLog\vendor\cakephp\cakephp\src\Http\Runner.php:73
+- C:\Users\Yohan\Desktop\Projets\ArchiLog\php-api\ArchiLog\vendor\cakephp\cakephp\src\Routing\Middleware\RoutingMiddleware.php:186
+- C:\Users\Yohan\Desktop\Projets\ArchiLog\php-api\ArchiLog\vendor\cakephp\cakephp\src\Http\Runner.php:73
+- C:\Users\Yohan\Desktop\Projets\ArchiLog\php-api\ArchiLog\vendor\cakephp\cakephp\src\Routing\Middleware\AssetMiddleware.php:68
+- C:\Users\Yohan\Desktop\Projets\ArchiLog\php-api\ArchiLog\vendor\cakephp\cakephp\src\Http\Runner.php:73
+- C:\Users\Yohan\Desktop\Projets\ArchiLog\php-api\ArchiLog\vendor\cakephp\cakephp\src\Error\Middleware\ErrorHandlerMiddleware.php:131
+- C:\Users\Yohan\Desktop\Projets\ArchiLog\php-api\ArchiLog\vendor\cakephp\cakephp\src\Http\Runner.php:73
+- C:\Users\Yohan\Desktop\Projets\ArchiLog\php-api\ArchiLog\vendor\cakephp\cakephp\src\Http\Runner.php:58
+- C:\Users\Yohan\Desktop\Projets\ArchiLog\php-api\ArchiLog\vendor\cakephp\cakephp\src\Http\Server.php:90
+- C:\Users\Yohan\Desktop\Projets\ArchiLog\php-api\ArchiLog\webroot\index.php:40
+
+Request URL: /tickets/create
+2023-02-08 18:11:20 error: [Cake\Http\Exception\MissingControllerException] Controller class Css could not be found. in C:\Users\Yohan\Desktop\Projets\ArchiLog\php-api\ArchiLog\vendor\cakephp\cakephp\src\Controller\ControllerFactory.php on line 348
+Stack Trace:
+- C:\Users\Yohan\Desktop\Projets\ArchiLog\php-api\ArchiLog\vendor\cakephp\cakephp\src\Controller\ControllerFactory.php:74
+- C:\Users\Yohan\Desktop\Projets\ArchiLog\php-api\ArchiLog\vendor\cakephp\cakephp\src\Http\BaseApplication.php:318
+- C:\Users\Yohan\Desktop\Projets\ArchiLog\php-api\ArchiLog\vendor\cakephp\cakephp\src\Http\Runner.php:77
+- C:\Users\Yohan\Desktop\Projets\ArchiLog\php-api\ArchiLog\vendor\cakephp\cakephp\src\Http\Middleware\CsrfProtectionMiddleware.php:174
+- C:\Users\Yohan\Desktop\Projets\ArchiLog\php-api\ArchiLog\vendor\cakephp\cakephp\src\Http\Runner.php:73
+- C:\Users\Yohan\Desktop\Projets\ArchiLog\php-api\ArchiLog\vendor\cakephp\cakephp\src\Http\Middleware\BodyParserMiddleware.php:157
+- C:\Users\Yohan\Desktop\Projets\ArchiLog\php-api\ArchiLog\vendor\cakephp\cakephp\src\Http\Runner.php:73
+- C:\Users\Yohan\Desktop\Projets\ArchiLog\php-api\ArchiLog\vendor\cakephp\cakephp\src\Routing\Middleware\RoutingMiddleware.php:186
+- C:\Users\Yohan\Desktop\Projets\ArchiLog\php-api\ArchiLog\vendor\cakephp\cakephp\src\Http\Runner.php:73
+- C:\Users\Yohan\Desktop\Projets\ArchiLog\php-api\ArchiLog\vendor\cakephp\cakephp\src\Routing\Middleware\AssetMiddleware.php:77
+- C:\Users\Yohan\Desktop\Projets\ArchiLog\php-api\ArchiLog\vendor\cakephp\cakephp\src\Http\Runner.php:73
+- C:\Users\Yohan\Desktop\Projets\ArchiLog\php-api\ArchiLog\vendor\cakephp\cakephp\src\Error\Middleware\ErrorHandlerMiddleware.php:131
+- C:\Users\Yohan\Desktop\Projets\ArchiLog\php-api\ArchiLog\vendor\cakephp\cakephp\src\Http\Runner.php:73
+- C:\Users\Yohan\Desktop\Projets\ArchiLog\php-api\ArchiLog\vendor\cakephp\cakephp\src\Http\Runner.php:58
+- C:\Users\Yohan\Desktop\Projets\ArchiLog\php-api\ArchiLog\vendor\cakephp\cakephp\src\Http\Server.php:90
+- C:\Users\Yohan\Desktop\Projets\ArchiLog\php-api\ArchiLog\webroot\index.php:40
+
+Request URL: /css/normalize.min.css
+Referer URL: http://localhost:8765/tickets/create
+2023-02-08 18:11:20 error: [Cake\Http\Exception\MissingControllerException] Controller class Css could not be found. in C:\Users\Yohan\Desktop\Projets\ArchiLog\php-api\ArchiLog\vendor\cakephp\cakephp\src\Controller\ControllerFactory.php on line 348
+Stack Trace:
+- C:\Users\Yohan\Desktop\Projets\ArchiLog\php-api\ArchiLog\vendor\cakephp\cakephp\src\Controller\ControllerFactory.php:74
+- C:\Users\Yohan\Desktop\Projets\ArchiLog\php-api\ArchiLog\vendor\cakephp\cakephp\src\Http\BaseApplication.php:318
+- C:\Users\Yohan\Desktop\Projets\ArchiLog\php-api\ArchiLog\vendor\cakephp\cakephp\src\Http\Runner.php:77
+- C:\Users\Yohan\Desktop\Projets\ArchiLog\php-api\ArchiLog\vendor\cakephp\cakephp\src\Http\Middleware\CsrfProtectionMiddleware.php:174
+- C:\Users\Yohan\Desktop\Projets\ArchiLog\php-api\ArchiLog\vendor\cakephp\cakephp\src\Http\Runner.php:73
+- C:\Users\Yohan\Desktop\Projets\ArchiLog\php-api\ArchiLog\vendor\cakephp\cakephp\src\Http\Middleware\BodyParserMiddleware.php:157
+- C:\Users\Yohan\Desktop\Projets\ArchiLog\php-api\ArchiLog\vendor\cakephp\cakephp\src\Http\Runner.php:73
+- C:\Users\Yohan\Desktop\Projets\ArchiLog\php-api\ArchiLog\vendor\cakephp\cakephp\src\Routing\Middleware\RoutingMiddleware.php:186
+- C:\Users\Yohan\Desktop\Projets\ArchiLog\php-api\ArchiLog\vendor\cakephp\cakephp\src\Http\Runner.php:73
+- C:\Users\Yohan\Desktop\Projets\ArchiLog\php-api\ArchiLog\vendor\cakephp\cakephp\src\Routing\Middleware\AssetMiddleware.php:77
+- C:\Users\Yohan\Desktop\Projets\ArchiLog\php-api\ArchiLog\vendor\cakephp\cakephp\src\Http\Runner.php:73
+- C:\Users\Yohan\Desktop\Projets\ArchiLog\php-api\ArchiLog\vendor\cakephp\cakephp\src\Error\Middleware\ErrorHandlerMiddleware.php:131
+- C:\Users\Yohan\Desktop\Projets\ArchiLog\php-api\ArchiLog\vendor\cakephp\cakephp\src\Http\Runner.php:73
+- C:\Users\Yohan\Desktop\Projets\ArchiLog\php-api\ArchiLog\vendor\cakephp\cakephp\src\Http\Runner.php:58
+- C:\Users\Yohan\Desktop\Projets\ArchiLog\php-api\ArchiLog\vendor\cakephp\cakephp\src\Http\Server.php:90
+- C:\Users\Yohan\Desktop\Projets\ArchiLog\php-api\ArchiLog\webroot\index.php:40
+
+Request URL: /css/milligram.min.css
+Referer URL: http://localhost:8765/tickets/create
+2023-02-08 18:11:20 error: [Cake\Http\Exception\MissingControllerException] Controller class Css could not be found. in C:\Users\Yohan\Desktop\Projets\ArchiLog\php-api\ArchiLog\vendor\cakephp\cakephp\src\Controller\ControllerFactory.php on line 348
+Stack Trace:
+- C:\Users\Yohan\Desktop\Projets\ArchiLog\php-api\ArchiLog\vendor\cakephp\cakephp\src\Controller\ControllerFactory.php:74
+- C:\Users\Yohan\Desktop\Projets\ArchiLog\php-api\ArchiLog\vendor\cakephp\cakephp\src\Http\BaseApplication.php:318
+- C:\Users\Yohan\Desktop\Projets\ArchiLog\php-api\ArchiLog\vendor\cakephp\cakephp\src\Http\Runner.php:77
+- C:\Users\Yohan\Desktop\Projets\ArchiLog\php-api\ArchiLog\vendor\cakephp\cakephp\src\Http\Middleware\CsrfProtectionMiddleware.php:174
+- C:\Users\Yohan\Desktop\Projets\ArchiLog\php-api\ArchiLog\vendor\cakephp\cakephp\src\Http\Runner.php:73
+- C:\Users\Yohan\Desktop\Projets\ArchiLog\php-api\ArchiLog\vendor\cakephp\cakephp\src\Http\Middleware\BodyParserMiddleware.php:157
+- C:\Users\Yohan\Desktop\Projets\ArchiLog\php-api\ArchiLog\vendor\cakephp\cakephp\src\Http\Runner.php:73
+- C:\Users\Yohan\Desktop\Projets\ArchiLog\php-api\ArchiLog\vendor\cakephp\cakephp\src\Routing\Middleware\RoutingMiddleware.php:186
+- C:\Users\Yohan\Desktop\Projets\ArchiLog\php-api\ArchiLog\vendor\cakephp\cakephp\src\Http\Runner.php:73
+- C:\Users\Yohan\Desktop\Projets\ArchiLog\php-api\ArchiLog\vendor\cakephp\cakephp\src\Routing\Middleware\AssetMiddleware.php:77
+- C:\Users\Yohan\Desktop\Projets\ArchiLog\php-api\ArchiLog\vendor\cakephp\cakephp\src\Http\Runner.php:73
+- C:\Users\Yohan\Desktop\Projets\ArchiLog\php-api\ArchiLog\vendor\cakephp\cakephp\src\Error\Middleware\ErrorHandlerMiddleware.php:131
+- C:\Users\Yohan\Desktop\Projets\ArchiLog\php-api\ArchiLog\vendor\cakephp\cakephp\src\Http\Runner.php:73
+- C:\Users\Yohan\Desktop\Projets\ArchiLog\php-api\ArchiLog\vendor\cakephp\cakephp\src\Http\Runner.php:58
+- C:\Users\Yohan\Desktop\Projets\ArchiLog\php-api\ArchiLog\vendor\cakephp\cakephp\src\Http\Server.php:90
+- C:\Users\Yohan\Desktop\Projets\ArchiLog\php-api\ArchiLog\webroot\index.php:40
+
+Request URL: /css/cake.css
+Referer URL: http://localhost:8765/tickets/create
+2023-02-08 18:16:10 error: [TypeError] Cake\View\Helper\FormHelper::control(): Argument #1 ($fieldName) must be of type string, null given, called in C:\Users\Yohan\Desktop\Projets\ArchiLog\php-api\ArchiLog\templates\Tickets\create.php on line 22 in C:\Users\Yohan\Desktop\Projets\ArchiLog\php-api\ArchiLog\vendor\cakephp\cakephp\src\View\Helper\FormHelper.php on line 1033
+Stack Trace:
+- C:\Users\Yohan\Desktop\Projets\ArchiLog\php-api\ArchiLog\templates\Tickets\create.php:22
+- C:\Users\Yohan\Desktop\Projets\ArchiLog\php-api\ArchiLog\vendor\cakephp\cakephp\src\View\View.php:1220
+- C:\Users\Yohan\Desktop\Projets\ArchiLog\php-api\ArchiLog\vendor\cakephp\cakephp\src\View\View.php:1177
+- C:\Users\Yohan\Desktop\Projets\ArchiLog\php-api\ArchiLog\vendor\cakephp\cakephp\src\View\View.php:808
+- C:\Users\Yohan\Desktop\Projets\ArchiLog\php-api\ArchiLog\vendor\cakephp\cakephp\src\Controller\Controller.php:773
+- C:\Users\Yohan\Desktop\Projets\ArchiLog\php-api\ArchiLog\vendor\cakephp\cakephp\src\Controller\Controller.php:556
+- C:\Users\Yohan\Desktop\Projets\ArchiLog\php-api\ArchiLog\vendor\cakephp\cakephp\src\Controller\ControllerFactory.php:139
+- C:\Users\Yohan\Desktop\Projets\ArchiLog\php-api\ArchiLog\vendor\cakephp\cakephp\src\Controller\ControllerFactory.php:114
+- C:\Users\Yohan\Desktop\Projets\ArchiLog\php-api\ArchiLog\vendor\cakephp\cakephp\src\Http\BaseApplication.php:320
+- C:\Users\Yohan\Desktop\Projets\ArchiLog\php-api\ArchiLog\vendor\cakephp\cakephp\src\Http\Runner.php:77
+- C:\Users\Yohan\Desktop\Projets\ArchiLog\php-api\ArchiLog\vendor\cakephp\cakephp\src\Http\Middleware\CsrfProtectionMiddleware.php:174
+- C:\Users\Yohan\Desktop\Projets\ArchiLog\php-api\ArchiLog\vendor\cakephp\cakephp\src\Http\Runner.php:73
+- C:\Users\Yohan\Desktop\Projets\ArchiLog\php-api\ArchiLog\vendor\cakephp\cakephp\src\Http\Middleware\BodyParserMiddleware.php:157
+- C:\Users\Yohan\Desktop\Projets\ArchiLog\php-api\ArchiLog\vendor\cakephp\cakephp\src\Http\Runner.php:73
+- C:\Users\Yohan\Desktop\Projets\ArchiLog\php-api\ArchiLog\vendor\cakephp\cakephp\src\Routing\Middleware\RoutingMiddleware.php:186
+- C:\Users\Yohan\Desktop\Projets\ArchiLog\php-api\ArchiLog\vendor\cakephp\cakephp\src\Http\Runner.php:73
+- C:\Users\Yohan\Desktop\Projets\ArchiLog\php-api\ArchiLog\vendor\cakephp\cakephp\src\Routing\Middleware\AssetMiddleware.php:68
+- C:\Users\Yohan\Desktop\Projets\ArchiLog\php-api\ArchiLog\vendor\cakephp\cakephp\src\Http\Runner.php:73
+- C:\Users\Yohan\Desktop\Projets\ArchiLog\php-api\ArchiLog\vendor\cakephp\cakephp\src\Error\Middleware\ErrorHandlerMiddleware.php:131
+- C:\Users\Yohan\Desktop\Projets\ArchiLog\php-api\ArchiLog\vendor\cakephp\cakephp\src\Http\Runner.php:73
+- C:\Users\Yohan\Desktop\Projets\ArchiLog\php-api\ArchiLog\vendor\cakephp\cakephp\src\Http\Runner.php:58
+- C:\Users\Yohan\Desktop\Projets\ArchiLog\php-api\ArchiLog\vendor\cakephp\cakephp\src\Http\Server.php:90
+- C:\Users\Yohan\Desktop\Projets\ArchiLog\php-api\ArchiLog\webroot\index.php:40
+
+Request URL: /tickets/create
+2023-02-08 18:16:10 error: [Cake\Http\Exception\MissingControllerException] Controller class Css could not be found. in C:\Users\Yohan\Desktop\Projets\ArchiLog\php-api\ArchiLog\vendor\cakephp\cakephp\src\Controller\ControllerFactory.php on line 348
+Stack Trace:
+- C:\Users\Yohan\Desktop\Projets\ArchiLog\php-api\ArchiLog\vendor\cakephp\cakephp\src\Controller\ControllerFactory.php:74
+- C:\Users\Yohan\Desktop\Projets\ArchiLog\php-api\ArchiLog\vendor\cakephp\cakephp\src\Http\BaseApplication.php:318
+- C:\Users\Yohan\Desktop\Projets\ArchiLog\php-api\ArchiLog\vendor\cakephp\cakephp\src\Http\Runner.php:77
+- C:\Users\Yohan\Desktop\Projets\ArchiLog\php-api\ArchiLog\vendor\cakephp\cakephp\src\Http\Middleware\CsrfProtectionMiddleware.php:174
+- C:\Users\Yohan\Desktop\Projets\ArchiLog\php-api\ArchiLog\vendor\cakephp\cakephp\src\Http\Runner.php:73
+- C:\Users\Yohan\Desktop\Projets\ArchiLog\php-api\ArchiLog\vendor\cakephp\cakephp\src\Http\Middleware\BodyParserMiddleware.php:157
+- C:\Users\Yohan\Desktop\Projets\ArchiLog\php-api\ArchiLog\vendor\cakephp\cakephp\src\Http\Runner.php:73
+- C:\Users\Yohan\Desktop\Projets\ArchiLog\php-api\ArchiLog\vendor\cakephp\cakephp\src\Routing\Middleware\RoutingMiddleware.php:186
+- C:\Users\Yohan\Desktop\Projets\ArchiLog\php-api\ArchiLog\vendor\cakephp\cakephp\src\Http\Runner.php:73
+- C:\Users\Yohan\Desktop\Projets\ArchiLog\php-api\ArchiLog\vendor\cakephp\cakephp\src\Routing\Middleware\AssetMiddleware.php:77
+- C:\Users\Yohan\Desktop\Projets\ArchiLog\php-api\ArchiLog\vendor\cakephp\cakephp\src\Http\Runner.php:73
+- C:\Users\Yohan\Desktop\Projets\ArchiLog\php-api\ArchiLog\vendor\cakephp\cakephp\src\Error\Middleware\ErrorHandlerMiddleware.php:131
+- C:\Users\Yohan\Desktop\Projets\ArchiLog\php-api\ArchiLog\vendor\cakephp\cakephp\src\Http\Runner.php:73
+- C:\Users\Yohan\Desktop\Projets\ArchiLog\php-api\ArchiLog\vendor\cakephp\cakephp\src\Http\Runner.php:58
+- C:\Users\Yohan\Desktop\Projets\ArchiLog\php-api\ArchiLog\vendor\cakephp\cakephp\src\Http\Server.php:90
+- C:\Users\Yohan\Desktop\Projets\ArchiLog\php-api\ArchiLog\webroot\index.php:40
+
+Request URL: /css/normalize.min.css
+Referer URL: http://localhost:8765/tickets/create
+2023-02-08 18:16:10 error: [Cake\Http\Exception\MissingControllerException] Controller class Css could not be found. in C:\Users\Yohan\Desktop\Projets\ArchiLog\php-api\ArchiLog\vendor\cakephp\cakephp\src\Controller\ControllerFactory.php on line 348
+Stack Trace:
+- C:\Users\Yohan\Desktop\Projets\ArchiLog\php-api\ArchiLog\vendor\cakephp\cakephp\src\Controller\ControllerFactory.php:74
+- C:\Users\Yohan\Desktop\Projets\ArchiLog\php-api\ArchiLog\vendor\cakephp\cakephp\src\Http\BaseApplication.php:318
+- C:\Users\Yohan\Desktop\Projets\ArchiLog\php-api\ArchiLog\vendor\cakephp\cakephp\src\Http\Runner.php:77
+- C:\Users\Yohan\Desktop\Projets\ArchiLog\php-api\ArchiLog\vendor\cakephp\cakephp\src\Http\Middleware\CsrfProtectionMiddleware.php:174
+- C:\Users\Yohan\Desktop\Projets\ArchiLog\php-api\ArchiLog\vendor\cakephp\cakephp\src\Http\Runner.php:73
+- C:\Users\Yohan\Desktop\Projets\ArchiLog\php-api\ArchiLog\vendor\cakephp\cakephp\src\Http\Middleware\BodyParserMiddleware.php:157
+- C:\Users\Yohan\Desktop\Projets\ArchiLog\php-api\ArchiLog\vendor\cakephp\cakephp\src\Http\Runner.php:73
+- C:\Users\Yohan\Desktop\Projets\ArchiLog\php-api\ArchiLog\vendor\cakephp\cakephp\src\Routing\Middleware\RoutingMiddleware.php:186
+- C:\Users\Yohan\Desktop\Projets\ArchiLog\php-api\ArchiLog\vendor\cakephp\cakephp\src\Http\Runner.php:73
+- C:\Users\Yohan\Desktop\Projets\ArchiLog\php-api\ArchiLog\vendor\cakephp\cakephp\src\Routing\Middleware\AssetMiddleware.php:77
+- C:\Users\Yohan\Desktop\Projets\ArchiLog\php-api\ArchiLog\vendor\cakephp\cakephp\src\Http\Runner.php:73
+- C:\Users\Yohan\Desktop\Projets\ArchiLog\php-api\ArchiLog\vendor\cakephp\cakephp\src\Error\Middleware\ErrorHandlerMiddleware.php:131
+- C:\Users\Yohan\Desktop\Projets\ArchiLog\php-api\ArchiLog\vendor\cakephp\cakephp\src\Http\Runner.php:73
+- C:\Users\Yohan\Desktop\Projets\ArchiLog\php-api\ArchiLog\vendor\cakephp\cakephp\src\Http\Runner.php:58
+- C:\Users\Yohan\Desktop\Projets\ArchiLog\php-api\ArchiLog\vendor\cakephp\cakephp\src\Http\Server.php:90
+- C:\Users\Yohan\Desktop\Projets\ArchiLog\php-api\ArchiLog\webroot\index.php:40
+
+Request URL: /css/milligram.min.css
+Referer URL: http://localhost:8765/tickets/create
+2023-02-08 18:16:10 error: [Cake\Http\Exception\MissingControllerException] Controller class Css could not be found. in C:\Users\Yohan\Desktop\Projets\ArchiLog\php-api\ArchiLog\vendor\cakephp\cakephp\src\Controller\ControllerFactory.php on line 348
+Stack Trace:
+- C:\Users\Yohan\Desktop\Projets\ArchiLog\php-api\ArchiLog\vendor\cakephp\cakephp\src\Controller\ControllerFactory.php:74
+- C:\Users\Yohan\Desktop\Projets\ArchiLog\php-api\ArchiLog\vendor\cakephp\cakephp\src\Http\BaseApplication.php:318
+- C:\Users\Yohan\Desktop\Projets\ArchiLog\php-api\ArchiLog\vendor\cakephp\cakephp\src\Http\Runner.php:77
+- C:\Users\Yohan\Desktop\Projets\ArchiLog\php-api\ArchiLog\vendor\cakephp\cakephp\src\Http\Middleware\CsrfProtectionMiddleware.php:174
+- C:\Users\Yohan\Desktop\Projets\ArchiLog\php-api\ArchiLog\vendor\cakephp\cakephp\src\Http\Runner.php:73
+- C:\Users\Yohan\Desktop\Projets\ArchiLog\php-api\ArchiLog\vendor\cakephp\cakephp\src\Http\Middleware\BodyParserMiddleware.php:157
+- C:\Users\Yohan\Desktop\Projets\ArchiLog\php-api\ArchiLog\vendor\cakephp\cakephp\src\Http\Runner.php:73
+- C:\Users\Yohan\Desktop\Projets\ArchiLog\php-api\ArchiLog\vendor\cakephp\cakephp\src\Routing\Middleware\RoutingMiddleware.php:186
+- C:\Users\Yohan\Desktop\Projets\ArchiLog\php-api\ArchiLog\vendor\cakephp\cakephp\src\Http\Runner.php:73
+- C:\Users\Yohan\Desktop\Projets\ArchiLog\php-api\ArchiLog\vendor\cakephp\cakephp\src\Routing\Middleware\AssetMiddleware.php:77
+- C:\Users\Yohan\Desktop\Projets\ArchiLog\php-api\ArchiLog\vendor\cakephp\cakephp\src\Http\Runner.php:73
+- C:\Users\Yohan\Desktop\Projets\ArchiLog\php-api\ArchiLog\vendor\cakephp\cakephp\src\Error\Middleware\ErrorHandlerMiddleware.php:131
+- C:\Users\Yohan\Desktop\Projets\ArchiLog\php-api\ArchiLog\vendor\cakephp\cakephp\src\Http\Runner.php:73
+- C:\Users\Yohan\Desktop\Projets\ArchiLog\php-api\ArchiLog\vendor\cakephp\cakephp\src\Http\Runner.php:58
+- C:\Users\Yohan\Desktop\Projets\ArchiLog\php-api\ArchiLog\vendor\cakephp\cakephp\src\Http\Server.php:90
+- C:\Users\Yohan\Desktop\Projets\ArchiLog\php-api\ArchiLog\webroot\index.php:40
+
+Request URL: /css/cake.css
+Referer URL: http://localhost:8765/tickets/create
+2023-02-08 18:35:27 error: [Cake\Controller\Exception\InvalidParameterException] Missing passed parameter for `id` in action Tickets::edit(). in C:\Users\Yohan\Desktop\Projets\ArchiLog\php-api\ArchiLog\vendor\cakephp\cakephp\src\Controller\ControllerFactory.php on line 243
+Stack Trace:
+- C:\Users\Yohan\Desktop\Projets\ArchiLog\php-api\ArchiLog\vendor\cakephp\cakephp\src\Controller\ControllerFactory.php:137
+- C:\Users\Yohan\Desktop\Projets\ArchiLog\php-api\ArchiLog\vendor\cakephp\cakephp\src\Controller\ControllerFactory.php:114
+- C:\Users\Yohan\Desktop\Projets\ArchiLog\php-api\ArchiLog\vendor\cakephp\cakephp\src\Http\BaseApplication.php:320
+- C:\Users\Yohan\Desktop\Projets\ArchiLog\php-api\ArchiLog\vendor\cakephp\cakephp\src\Http\Runner.php:77
+- C:\Users\Yohan\Desktop\Projets\ArchiLog\php-api\ArchiLog\vendor\cakephp\cakephp\src\Http\Middleware\CsrfProtectionMiddleware.php:174
+- C:\Users\Yohan\Desktop\Projets\ArchiLog\php-api\ArchiLog\vendor\cakephp\cakephp\src\Http\Runner.php:73
+- C:\Users\Yohan\Desktop\Projets\ArchiLog\php-api\ArchiLog\vendor\cakephp\cakephp\src\Http\Middleware\BodyParserMiddleware.php:157
+- C:\Users\Yohan\Desktop\Projets\ArchiLog\php-api\ArchiLog\vendor\cakephp\cakephp\src\Http\Runner.php:73
+- C:\Users\Yohan\Desktop\Projets\ArchiLog\php-api\ArchiLog\vendor\cakephp\cakephp\src\Routing\Middleware\RoutingMiddleware.php:186
+- C:\Users\Yohan\Desktop\Projets\ArchiLog\php-api\ArchiLog\vendor\cakephp\cakephp\src\Http\Runner.php:73
+- C:\Users\Yohan\Desktop\Projets\ArchiLog\php-api\ArchiLog\vendor\cakephp\cakephp\src\Routing\Middleware\AssetMiddleware.php:68
+- C:\Users\Yohan\Desktop\Projets\ArchiLog\php-api\ArchiLog\vendor\cakephp\cakephp\src\Http\Runner.php:73
+- C:\Users\Yohan\Desktop\Projets\ArchiLog\php-api\ArchiLog\vendor\cakephp\cakephp\src\Error\Middleware\ErrorHandlerMiddleware.php:131
+- C:\Users\Yohan\Desktop\Projets\ArchiLog\php-api\ArchiLog\vendor\cakephp\cakephp\src\Http\Runner.php:73
+- C:\Users\Yohan\Desktop\Projets\ArchiLog\php-api\ArchiLog\vendor\cakephp\cakephp\src\Http\Runner.php:58
+- C:\Users\Yohan\Desktop\Projets\ArchiLog\php-api\ArchiLog\vendor\cakephp\cakephp\src\Http\Server.php:90
+- C:\Users\Yohan\Desktop\Projets\ArchiLog\php-api\ArchiLog\webroot\index.php:40
+
+Request URL: /tickets/edit
+Referer URL: http://localhost:8765/tickets
+2023-02-08 18:35:27 error: [Cake\Http\Exception\MissingControllerException] Controller class Css could not be found. in C:\Users\Yohan\Desktop\Projets\ArchiLog\php-api\ArchiLog\vendor\cakephp\cakephp\src\Controller\ControllerFactory.php on line 348
+Stack Trace:
+- C:\Users\Yohan\Desktop\Projets\ArchiLog\php-api\ArchiLog\vendor\cakephp\cakephp\src\Controller\ControllerFactory.php:74
+- C:\Users\Yohan\Desktop\Projets\ArchiLog\php-api\ArchiLog\vendor\cakephp\cakephp\src\Http\BaseApplication.php:318
+- C:\Users\Yohan\Desktop\Projets\ArchiLog\php-api\ArchiLog\vendor\cakephp\cakephp\src\Http\Runner.php:77
+- C:\Users\Yohan\Desktop\Projets\ArchiLog\php-api\ArchiLog\vendor\cakephp\cakephp\src\Http\Middleware\CsrfProtectionMiddleware.php:174
+- C:\Users\Yohan\Desktop\Projets\ArchiLog\php-api\ArchiLog\vendor\cakephp\cakephp\src\Http\Runner.php:73
+- C:\Users\Yohan\Desktop\Projets\ArchiLog\php-api\ArchiLog\vendor\cakephp\cakephp\src\Http\Middleware\BodyParserMiddleware.php:157
+- C:\Users\Yohan\Desktop\Projets\ArchiLog\php-api\ArchiLog\vendor\cakephp\cakephp\src\Http\Runner.php:73
+- C:\Users\Yohan\Desktop\Projets\ArchiLog\php-api\ArchiLog\vendor\cakephp\cakephp\src\Routing\Middleware\RoutingMiddleware.php:186
+- C:\Users\Yohan\Desktop\Projets\ArchiLog\php-api\ArchiLog\vendor\cakephp\cakephp\src\Http\Runner.php:73
+- C:\Users\Yohan\Desktop\Projets\ArchiLog\php-api\ArchiLog\vendor\cakephp\cakephp\src\Routing\Middleware\AssetMiddleware.php:77
+- C:\Users\Yohan\Desktop\Projets\ArchiLog\php-api\ArchiLog\vendor\cakephp\cakephp\src\Http\Runner.php:73
+- C:\Users\Yohan\Desktop\Projets\ArchiLog\php-api\ArchiLog\vendor\cakephp\cakephp\src\Error\Middleware\ErrorHandlerMiddleware.php:131
+- C:\Users\Yohan\Desktop\Projets\ArchiLog\php-api\ArchiLog\vendor\cakephp\cakephp\src\Http\Runner.php:73
+- C:\Users\Yohan\Desktop\Projets\ArchiLog\php-api\ArchiLog\vendor\cakephp\cakephp\src\Http\Runner.php:58
+- C:\Users\Yohan\Desktop\Projets\ArchiLog\php-api\ArchiLog\vendor\cakephp\cakephp\src\Http\Server.php:90
+- C:\Users\Yohan\Desktop\Projets\ArchiLog\php-api\ArchiLog\webroot\index.php:40
+
+Request URL: /css/normalize.min.css
+Referer URL: http://localhost:8765/tickets/edit
+2023-02-08 18:35:27 error: [Cake\Http\Exception\MissingControllerException] Controller class Css could not be found. in C:\Users\Yohan\Desktop\Projets\ArchiLog\php-api\ArchiLog\vendor\cakephp\cakephp\src\Controller\ControllerFactory.php on line 348
+Stack Trace:
+- C:\Users\Yohan\Desktop\Projets\ArchiLog\php-api\ArchiLog\vendor\cakephp\cakephp\src\Controller\ControllerFactory.php:74
+- C:\Users\Yohan\Desktop\Projets\ArchiLog\php-api\ArchiLog\vendor\cakephp\cakephp\src\Http\BaseApplication.php:318
+- C:\Users\Yohan\Desktop\Projets\ArchiLog\php-api\ArchiLog\vendor\cakephp\cakephp\src\Http\Runner.php:77
+- C:\Users\Yohan\Desktop\Projets\ArchiLog\php-api\ArchiLog\vendor\cakephp\cakephp\src\Http\Middleware\CsrfProtectionMiddleware.php:174
+- C:\Users\Yohan\Desktop\Projets\ArchiLog\php-api\ArchiLog\vendor\cakephp\cakephp\src\Http\Runner.php:73
+- C:\Users\Yohan\Desktop\Projets\ArchiLog\php-api\ArchiLog\vendor\cakephp\cakephp\src\Http\Middleware\BodyParserMiddleware.php:157
+- C:\Users\Yohan\Desktop\Projets\ArchiLog\php-api\ArchiLog\vendor\cakephp\cakephp\src\Http\Runner.php:73
+- C:\Users\Yohan\Desktop\Projets\ArchiLog\php-api\ArchiLog\vendor\cakephp\cakephp\src\Routing\Middleware\RoutingMiddleware.php:186
+- C:\Users\Yohan\Desktop\Projets\ArchiLog\php-api\ArchiLog\vendor\cakephp\cakephp\src\Http\Runner.php:73
+- C:\Users\Yohan\Desktop\Projets\ArchiLog\php-api\ArchiLog\vendor\cakephp\cakephp\src\Routing\Middleware\AssetMiddleware.php:77
+- C:\Users\Yohan\Desktop\Projets\ArchiLog\php-api\ArchiLog\vendor\cakephp\cakephp\src\Http\Runner.php:73
+- C:\Users\Yohan\Desktop\Projets\ArchiLog\php-api\ArchiLog\vendor\cakephp\cakephp\src\Error\Middleware\ErrorHandlerMiddleware.php:131
+- C:\Users\Yohan\Desktop\Projets\ArchiLog\php-api\ArchiLog\vendor\cakephp\cakephp\src\Http\Runner.php:73
+- C:\Users\Yohan\Desktop\Projets\ArchiLog\php-api\ArchiLog\vendor\cakephp\cakephp\src\Http\Runner.php:58
+- C:\Users\Yohan\Desktop\Projets\ArchiLog\php-api\ArchiLog\vendor\cakephp\cakephp\src\Http\Server.php:90
+- C:\Users\Yohan\Desktop\Projets\ArchiLog\php-api\ArchiLog\webroot\index.php:40
+
+Request URL: /css/milligram.min.css
+Referer URL: http://localhost:8765/tickets/edit
+2023-02-08 18:35:27 error: [Cake\Http\Exception\MissingControllerException] Controller class Css could not be found. in C:\Users\Yohan\Desktop\Projets\ArchiLog\php-api\ArchiLog\vendor\cakephp\cakephp\src\Controller\ControllerFactory.php on line 348
+Stack Trace:
+- C:\Users\Yohan\Desktop\Projets\ArchiLog\php-api\ArchiLog\vendor\cakephp\cakephp\src\Controller\ControllerFactory.php:74
+- C:\Users\Yohan\Desktop\Projets\ArchiLog\php-api\ArchiLog\vendor\cakephp\cakephp\src\Http\BaseApplication.php:318
+- C:\Users\Yohan\Desktop\Projets\ArchiLog\php-api\ArchiLog\vendor\cakephp\cakephp\src\Http\Runner.php:77
+- C:\Users\Yohan\Desktop\Projets\ArchiLog\php-api\ArchiLog\vendor\cakephp\cakephp\src\Http\Middleware\CsrfProtectionMiddleware.php:174
+- C:\Users\Yohan\Desktop\Projets\ArchiLog\php-api\ArchiLog\vendor\cakephp\cakephp\src\Http\Runner.php:73
+- C:\Users\Yohan\Desktop\Projets\ArchiLog\php-api\ArchiLog\vendor\cakephp\cakephp\src\Http\Middleware\BodyParserMiddleware.php:157
+- C:\Users\Yohan\Desktop\Projets\ArchiLog\php-api\ArchiLog\vendor\cakephp\cakephp\src\Http\Runner.php:73
+- C:\Users\Yohan\Desktop\Projets\ArchiLog\php-api\ArchiLog\vendor\cakephp\cakephp\src\Routing\Middleware\RoutingMiddleware.php:186
+- C:\Users\Yohan\Desktop\Projets\ArchiLog\php-api\ArchiLog\vendor\cakephp\cakephp\src\Http\Runner.php:73
+- C:\Users\Yohan\Desktop\Projets\ArchiLog\php-api\ArchiLog\vendor\cakephp\cakephp\src\Routing\Middleware\AssetMiddleware.php:77
+- C:\Users\Yohan\Desktop\Projets\ArchiLog\php-api\ArchiLog\vendor\cakephp\cakephp\src\Http\Runner.php:73
+- C:\Users\Yohan\Desktop\Projets\ArchiLog\php-api\ArchiLog\vendor\cakephp\cakephp\src\Error\Middleware\ErrorHandlerMiddleware.php:131
+- C:\Users\Yohan\Desktop\Projets\ArchiLog\php-api\ArchiLog\vendor\cakephp\cakephp\src\Http\Runner.php:73
+- C:\Users\Yohan\Desktop\Projets\ArchiLog\php-api\ArchiLog\vendor\cakephp\cakephp\src\Http\Runner.php:58
+- C:\Users\Yohan\Desktop\Projets\ArchiLog\php-api\ArchiLog\vendor\cakephp\cakephp\src\Http\Server.php:90
+- C:\Users\Yohan\Desktop\Projets\ArchiLog\php-api\ArchiLog\webroot\index.php:40
+
+Request URL: /css/cake.css
+Referer URL: http://localhost:8765/tickets/edit
+2023-02-08 18:54:46 error: [Cake\Controller\Exception\InvalidParameterException] Missing passed parameter for `id` in action Tickets::edit(). in C:\Users\Yohan\Desktop\Projets\ArchiLog\php-api\ArchiLog\vendor\cakephp\cakephp\src\Controller\ControllerFactory.php on line 243
+Stack Trace:
+- C:\Users\Yohan\Desktop\Projets\ArchiLog\php-api\ArchiLog\vendor\cakephp\cakephp\src\Controller\ControllerFactory.php:137
+- C:\Users\Yohan\Desktop\Projets\ArchiLog\php-api\ArchiLog\vendor\cakephp\cakephp\src\Controller\ControllerFactory.php:114
+- C:\Users\Yohan\Desktop\Projets\ArchiLog\php-api\ArchiLog\vendor\cakephp\cakephp\src\Http\BaseApplication.php:320
+- C:\Users\Yohan\Desktop\Projets\ArchiLog\php-api\ArchiLog\vendor\cakephp\cakephp\src\Http\Runner.php:77
+- C:\Users\Yohan\Desktop\Projets\ArchiLog\php-api\ArchiLog\vendor\cakephp\cakephp\src\Http\Middleware\CsrfProtectionMiddleware.php:174
+- C:\Users\Yohan\Desktop\Projets\ArchiLog\php-api\ArchiLog\vendor\cakephp\cakephp\src\Http\Runner.php:73
+- C:\Users\Yohan\Desktop\Projets\ArchiLog\php-api\ArchiLog\vendor\cakephp\cakephp\src\Http\Middleware\BodyParserMiddleware.php:157
+- C:\Users\Yohan\Desktop\Projets\ArchiLog\php-api\ArchiLog\vendor\cakephp\cakephp\src\Http\Runner.php:73
+- C:\Users\Yohan\Desktop\Projets\ArchiLog\php-api\ArchiLog\vendor\cakephp\cakephp\src\Routing\Middleware\RoutingMiddleware.php:186
+- C:\Users\Yohan\Desktop\Projets\ArchiLog\php-api\ArchiLog\vendor\cakephp\cakephp\src\Http\Runner.php:73
+- C:\Users\Yohan\Desktop\Projets\ArchiLog\php-api\ArchiLog\vendor\cakephp\cakephp\src\Routing\Middleware\AssetMiddleware.php:68
+- C:\Users\Yohan\Desktop\Projets\ArchiLog\php-api\ArchiLog\vendor\cakephp\cakephp\src\Http\Runner.php:73
+- C:\Users\Yohan\Desktop\Projets\ArchiLog\php-api\ArchiLog\vendor\cakephp\cakephp\src\Error\Middleware\ErrorHandlerMiddleware.php:131
+- C:\Users\Yohan\Desktop\Projets\ArchiLog\php-api\ArchiLog\vendor\cakephp\cakephp\src\Http\Runner.php:73
+- C:\Users\Yohan\Desktop\Projets\ArchiLog\php-api\ArchiLog\vendor\cakephp\cakephp\src\Http\Runner.php:58
+- C:\Users\Yohan\Desktop\Projets\ArchiLog\php-api\ArchiLog\vendor\cakephp\cakephp\src\Http\Server.php:90
+- C:\Users\Yohan\Desktop\Projets\ArchiLog\php-api\ArchiLog\webroot\index.php:40
+
+Request URL: /tickets/edit
+Referer URL: http://localhost:8765/tickets
+2023-02-08 18:54:46 error: [Cake\Http\Exception\MissingControllerException] Controller class Css could not be found. in C:\Users\Yohan\Desktop\Projets\ArchiLog\php-api\ArchiLog\vendor\cakephp\cakephp\src\Controller\ControllerFactory.php on line 348
+Stack Trace:
+- C:\Users\Yohan\Desktop\Projets\ArchiLog\php-api\ArchiLog\vendor\cakephp\cakephp\src\Controller\ControllerFactory.php:74
+- C:\Users\Yohan\Desktop\Projets\ArchiLog\php-api\ArchiLog\vendor\cakephp\cakephp\src\Http\BaseApplication.php:318
+- C:\Users\Yohan\Desktop\Projets\ArchiLog\php-api\ArchiLog\vendor\cakephp\cakephp\src\Http\Runner.php:77
+- C:\Users\Yohan\Desktop\Projets\ArchiLog\php-api\ArchiLog\vendor\cakephp\cakephp\src\Http\Middleware\CsrfProtectionMiddleware.php:174
+- C:\Users\Yohan\Desktop\Projets\ArchiLog\php-api\ArchiLog\vendor\cakephp\cakephp\src\Http\Runner.php:73
+- C:\Users\Yohan\Desktop\Projets\ArchiLog\php-api\ArchiLog\vendor\cakephp\cakephp\src\Http\Middleware\BodyParserMiddleware.php:157
+- C:\Users\Yohan\Desktop\Projets\ArchiLog\php-api\ArchiLog\vendor\cakephp\cakephp\src\Http\Runner.php:73
+- C:\Users\Yohan\Desktop\Projets\ArchiLog\php-api\ArchiLog\vendor\cakephp\cakephp\src\Routing\Middleware\RoutingMiddleware.php:186
+- C:\Users\Yohan\Desktop\Projets\ArchiLog\php-api\ArchiLog\vendor\cakephp\cakephp\src\Http\Runner.php:73
+- C:\Users\Yohan\Desktop\Projets\ArchiLog\php-api\ArchiLog\vendor\cakephp\cakephp\src\Routing\Middleware\AssetMiddleware.php:77
+- C:\Users\Yohan\Desktop\Projets\ArchiLog\php-api\ArchiLog\vendor\cakephp\cakephp\src\Http\Runner.php:73
+- C:\Users\Yohan\Desktop\Projets\ArchiLog\php-api\ArchiLog\vendor\cakephp\cakephp\src\Error\Middleware\ErrorHandlerMiddleware.php:131
+- C:\Users\Yohan\Desktop\Projets\ArchiLog\php-api\ArchiLog\vendor\cakephp\cakephp\src\Http\Runner.php:73
+- C:\Users\Yohan\Desktop\Projets\ArchiLog\php-api\ArchiLog\vendor\cakephp\cakephp\src\Http\Runner.php:58
+- C:\Users\Yohan\Desktop\Projets\ArchiLog\php-api\ArchiLog\vendor\cakephp\cakephp\src\Http\Server.php:90
+- C:\Users\Yohan\Desktop\Projets\ArchiLog\php-api\ArchiLog\webroot\index.php:40
+
+Request URL: /css/normalize.min.css
+Referer URL: http://localhost:8765/tickets/edit
+2023-02-08 18:54:46 error: [Cake\Http\Exception\MissingControllerException] Controller class Css could not be found. in C:\Users\Yohan\Desktop\Projets\ArchiLog\php-api\ArchiLog\vendor\cakephp\cakephp\src\Controller\ControllerFactory.php on line 348
+Stack Trace:
+- C:\Users\Yohan\Desktop\Projets\ArchiLog\php-api\ArchiLog\vendor\cakephp\cakephp\src\Controller\ControllerFactory.php:74
+- C:\Users\Yohan\Desktop\Projets\ArchiLog\php-api\ArchiLog\vendor\cakephp\cakephp\src\Http\BaseApplication.php:318
+- C:\Users\Yohan\Desktop\Projets\ArchiLog\php-api\ArchiLog\vendor\cakephp\cakephp\src\Http\Runner.php:77
+- C:\Users\Yohan\Desktop\Projets\ArchiLog\php-api\ArchiLog\vendor\cakephp\cakephp\src\Http\Middleware\CsrfProtectionMiddleware.php:174
+- C:\Users\Yohan\Desktop\Projets\ArchiLog\php-api\ArchiLog\vendor\cakephp\cakephp\src\Http\Runner.php:73
+- C:\Users\Yohan\Desktop\Projets\ArchiLog\php-api\ArchiLog\vendor\cakephp\cakephp\src\Http\Middleware\BodyParserMiddleware.php:157
+- C:\Users\Yohan\Desktop\Projets\ArchiLog\php-api\ArchiLog\vendor\cakephp\cakephp\src\Http\Runner.php:73
+- C:\Users\Yohan\Desktop\Projets\ArchiLog\php-api\ArchiLog\vendor\cakephp\cakephp\src\Routing\Middleware\RoutingMiddleware.php:186
+- C:\Users\Yohan\Desktop\Projets\ArchiLog\php-api\ArchiLog\vendor\cakephp\cakephp\src\Http\Runner.php:73
+- C:\Users\Yohan\Desktop\Projets\ArchiLog\php-api\ArchiLog\vendor\cakephp\cakephp\src\Routing\Middleware\AssetMiddleware.php:77
+- C:\Users\Yohan\Desktop\Projets\ArchiLog\php-api\ArchiLog\vendor\cakephp\cakephp\src\Http\Runner.php:73
+- C:\Users\Yohan\Desktop\Projets\ArchiLog\php-api\ArchiLog\vendor\cakephp\cakephp\src\Error\Middleware\ErrorHandlerMiddleware.php:131
+- C:\Users\Yohan\Desktop\Projets\ArchiLog\php-api\ArchiLog\vendor\cakephp\cakephp\src\Http\Runner.php:73
+- C:\Users\Yohan\Desktop\Projets\ArchiLog\php-api\ArchiLog\vendor\cakephp\cakephp\src\Http\Runner.php:58
+- C:\Users\Yohan\Desktop\Projets\ArchiLog\php-api\ArchiLog\vendor\cakephp\cakephp\src\Http\Server.php:90
+- C:\Users\Yohan\Desktop\Projets\ArchiLog\php-api\ArchiLog\webroot\index.php:40
+
+Request URL: /css/milligram.min.css
+Referer URL: http://localhost:8765/tickets/edit
+2023-02-08 18:54:46 error: [Cake\Http\Exception\MissingControllerException] Controller class Css could not be found. in C:\Users\Yohan\Desktop\Projets\ArchiLog\php-api\ArchiLog\vendor\cakephp\cakephp\src\Controller\ControllerFactory.php on line 348
+Stack Trace:
+- C:\Users\Yohan\Desktop\Projets\ArchiLog\php-api\ArchiLog\vendor\cakephp\cakephp\src\Controller\ControllerFactory.php:74
+- C:\Users\Yohan\Desktop\Projets\ArchiLog\php-api\ArchiLog\vendor\cakephp\cakephp\src\Http\BaseApplication.php:318
+- C:\Users\Yohan\Desktop\Projets\ArchiLog\php-api\ArchiLog\vendor\cakephp\cakephp\src\Http\Runner.php:77
+- C:\Users\Yohan\Desktop\Projets\ArchiLog\php-api\ArchiLog\vendor\cakephp\cakephp\src\Http\Middleware\CsrfProtectionMiddleware.php:174
+- C:\Users\Yohan\Desktop\Projets\ArchiLog\php-api\ArchiLog\vendor\cakephp\cakephp\src\Http\Runner.php:73
+- C:\Users\Yohan\Desktop\Projets\ArchiLog\php-api\ArchiLog\vendor\cakephp\cakephp\src\Http\Middleware\BodyParserMiddleware.php:157
+- C:\Users\Yohan\Desktop\Projets\ArchiLog\php-api\ArchiLog\vendor\cakephp\cakephp\src\Http\Runner.php:73
+- C:\Users\Yohan\Desktop\Projets\ArchiLog\php-api\ArchiLog\vendor\cakephp\cakephp\src\Routing\Middleware\RoutingMiddleware.php:186
+- C:\Users\Yohan\Desktop\Projets\ArchiLog\php-api\ArchiLog\vendor\cakephp\cakephp\src\Http\Runner.php:73
+- C:\Users\Yohan\Desktop\Projets\ArchiLog\php-api\ArchiLog\vendor\cakephp\cakephp\src\Routing\Middleware\AssetMiddleware.php:77
+- C:\Users\Yohan\Desktop\Projets\ArchiLog\php-api\ArchiLog\vendor\cakephp\cakephp\src\Http\Runner.php:73
+- C:\Users\Yohan\Desktop\Projets\ArchiLog\php-api\ArchiLog\vendor\cakephp\cakephp\src\Error\Middleware\ErrorHandlerMiddleware.php:131
+- C:\Users\Yohan\Desktop\Projets\ArchiLog\php-api\ArchiLog\vendor\cakephp\cakephp\src\Http\Runner.php:73
+- C:\Users\Yohan\Desktop\Projets\ArchiLog\php-api\ArchiLog\vendor\cakephp\cakephp\src\Http\Runner.php:58
+- C:\Users\Yohan\Desktop\Projets\ArchiLog\php-api\ArchiLog\vendor\cakephp\cakephp\src\Http\Server.php:90
+- C:\Users\Yohan\Desktop\Projets\ArchiLog\php-api\ArchiLog\webroot\index.php:40
+
+Request URL: /css/cake.css
+Referer URL: http://localhost:8765/tickets/edit
+2023-02-08 18:55:49 error: [Cake\Http\Exception\MissingControllerException] Controller class Remove could not be found. in C:\Users\Yohan\Desktop\Projets\ArchiLog\php-api\ArchiLog\vendor\cakephp\cakephp\src\Controller\ControllerFactory.php on line 348
+Stack Trace:
+- C:\Users\Yohan\Desktop\Projets\ArchiLog\php-api\ArchiLog\vendor\cakephp\cakephp\src\Controller\ControllerFactory.php:74
+- C:\Users\Yohan\Desktop\Projets\ArchiLog\php-api\ArchiLog\vendor\cakephp\cakephp\src\Http\BaseApplication.php:318
+- C:\Users\Yohan\Desktop\Projets\ArchiLog\php-api\ArchiLog\vendor\cakephp\cakephp\src\Http\Runner.php:77
+- C:\Users\Yohan\Desktop\Projets\ArchiLog\php-api\ArchiLog\vendor\cakephp\cakephp\src\Http\Middleware\CsrfProtectionMiddleware.php:174
+- C:\Users\Yohan\Desktop\Projets\ArchiLog\php-api\ArchiLog\vendor\cakephp\cakephp\src\Http\Runner.php:73
+- C:\Users\Yohan\Desktop\Projets\ArchiLog\php-api\ArchiLog\vendor\cakephp\cakephp\src\Http\Middleware\BodyParserMiddleware.php:157
+- C:\Users\Yohan\Desktop\Projets\ArchiLog\php-api\ArchiLog\vendor\cakephp\cakephp\src\Http\Runner.php:73
+- C:\Users\Yohan\Desktop\Projets\ArchiLog\php-api\ArchiLog\vendor\cakephp\cakephp\src\Routing\Middleware\RoutingMiddleware.php:186
+- C:\Users\Yohan\Desktop\Projets\ArchiLog\php-api\ArchiLog\vendor\cakephp\cakephp\src\Http\Runner.php:73
+- C:\Users\Yohan\Desktop\Projets\ArchiLog\php-api\ArchiLog\vendor\cakephp\cakephp\src\Routing\Middleware\AssetMiddleware.php:68
+- C:\Users\Yohan\Desktop\Projets\ArchiLog\php-api\ArchiLog\vendor\cakephp\cakephp\src\Http\Runner.php:73
+- C:\Users\Yohan\Desktop\Projets\ArchiLog\php-api\ArchiLog\vendor\cakephp\cakephp\src\Error\Middleware\ErrorHandlerMiddleware.php:131
+- C:\Users\Yohan\Desktop\Projets\ArchiLog\php-api\ArchiLog\vendor\cakephp\cakephp\src\Http\Runner.php:73
+- C:\Users\Yohan\Desktop\Projets\ArchiLog\php-api\ArchiLog\vendor\cakephp\cakephp\src\Http\Runner.php:58
+- C:\Users\Yohan\Desktop\Projets\ArchiLog\php-api\ArchiLog\vendor\cakephp\cakephp\src\Http\Server.php:90
+- C:\Users\Yohan\Desktop\Projets\ArchiLog\php-api\ArchiLog\webroot\index.php:40
+
+Request URL: /remove
+2023-02-08 18:55:49 error: [Cake\Http\Exception\MissingControllerException] Controller class Css could not be found. in C:\Users\Yohan\Desktop\Projets\ArchiLog\php-api\ArchiLog\vendor\cakephp\cakephp\src\Controller\ControllerFactory.php on line 348
+Stack Trace:
+- C:\Users\Yohan\Desktop\Projets\ArchiLog\php-api\ArchiLog\vendor\cakephp\cakephp\src\Controller\ControllerFactory.php:74
+- C:\Users\Yohan\Desktop\Projets\ArchiLog\php-api\ArchiLog\vendor\cakephp\cakephp\src\Http\BaseApplication.php:318
+- C:\Users\Yohan\Desktop\Projets\ArchiLog\php-api\ArchiLog\vendor\cakephp\cakephp\src\Http\Runner.php:77
+- C:\Users\Yohan\Desktop\Projets\ArchiLog\php-api\ArchiLog\vendor\cakephp\cakephp\src\Http\Middleware\CsrfProtectionMiddleware.php:174
+- C:\Users\Yohan\Desktop\Projets\ArchiLog\php-api\ArchiLog\vendor\cakephp\cakephp\src\Http\Runner.php:73
+- C:\Users\Yohan\Desktop\Projets\ArchiLog\php-api\ArchiLog\vendor\cakephp\cakephp\src\Http\Middleware\BodyParserMiddleware.php:157
+- C:\Users\Yohan\Desktop\Projets\ArchiLog\php-api\ArchiLog\vendor\cakephp\cakephp\src\Http\Runner.php:73
+- C:\Users\Yohan\Desktop\Projets\ArchiLog\php-api\ArchiLog\vendor\cakephp\cakephp\src\Routing\Middleware\RoutingMiddleware.php:186
+- C:\Users\Yohan\Desktop\Projets\ArchiLog\php-api\ArchiLog\vendor\cakephp\cakephp\src\Http\Runner.php:73
+- C:\Users\Yohan\Desktop\Projets\ArchiLog\php-api\ArchiLog\vendor\cakephp\cakephp\src\Routing\Middleware\AssetMiddleware.php:77
+- C:\Users\Yohan\Desktop\Projets\ArchiLog\php-api\ArchiLog\vendor\cakephp\cakephp\src\Http\Runner.php:73
+- C:\Users\Yohan\Desktop\Projets\ArchiLog\php-api\ArchiLog\vendor\cakephp\cakephp\src\Error\Middleware\ErrorHandlerMiddleware.php:131
+- C:\Users\Yohan\Desktop\Projets\ArchiLog\php-api\ArchiLog\vendor\cakephp\cakephp\src\Http\Runner.php:73
+- C:\Users\Yohan\Desktop\Projets\ArchiLog\php-api\ArchiLog\vendor\cakephp\cakephp\src\Http\Runner.php:58
+- C:\Users\Yohan\Desktop\Projets\ArchiLog\php-api\ArchiLog\vendor\cakephp\cakephp\src\Http\Server.php:90
+- C:\Users\Yohan\Desktop\Projets\ArchiLog\php-api\ArchiLog\webroot\index.php:40
+
+Request URL: /css/normalize.min.css
+Referer URL: http://localhost:8765/remove
+2023-02-08 18:55:49 error: [Cake\Http\Exception\MissingControllerException] Controller class Css could not be found. in C:\Users\Yohan\Desktop\Projets\ArchiLog\php-api\ArchiLog\vendor\cakephp\cakephp\src\Controller\ControllerFactory.php on line 348
+Stack Trace:
+- C:\Users\Yohan\Desktop\Projets\ArchiLog\php-api\ArchiLog\vendor\cakephp\cakephp\src\Controller\ControllerFactory.php:74
+- C:\Users\Yohan\Desktop\Projets\ArchiLog\php-api\ArchiLog\vendor\cakephp\cakephp\src\Http\BaseApplication.php:318
+- C:\Users\Yohan\Desktop\Projets\ArchiLog\php-api\ArchiLog\vendor\cakephp\cakephp\src\Http\Runner.php:77
+- C:\Users\Yohan\Desktop\Projets\ArchiLog\php-api\ArchiLog\vendor\cakephp\cakephp\src\Http\Middleware\CsrfProtectionMiddleware.php:174
+- C:\Users\Yohan\Desktop\Projets\ArchiLog\php-api\ArchiLog\vendor\cakephp\cakephp\src\Http\Runner.php:73
+- C:\Users\Yohan\Desktop\Projets\ArchiLog\php-api\ArchiLog\vendor\cakephp\cakephp\src\Http\Middleware\BodyParserMiddleware.php:157
+- C:\Users\Yohan\Desktop\Projets\ArchiLog\php-api\ArchiLog\vendor\cakephp\cakephp\src\Http\Runner.php:73
+- C:\Users\Yohan\Desktop\Projets\ArchiLog\php-api\ArchiLog\vendor\cakephp\cakephp\src\Routing\Middleware\RoutingMiddleware.php:186
+- C:\Users\Yohan\Desktop\Projets\ArchiLog\php-api\ArchiLog\vendor\cakephp\cakephp\src\Http\Runner.php:73
+- C:\Users\Yohan\Desktop\Projets\ArchiLog\php-api\ArchiLog\vendor\cakephp\cakephp\src\Routing\Middleware\AssetMiddleware.php:77
+- C:\Users\Yohan\Desktop\Projets\ArchiLog\php-api\ArchiLog\vendor\cakephp\cakephp\src\Http\Runner.php:73
+- C:\Users\Yohan\Desktop\Projets\ArchiLog\php-api\ArchiLog\vendor\cakephp\cakephp\src\Error\Middleware\ErrorHandlerMiddleware.php:131
+- C:\Users\Yohan\Desktop\Projets\ArchiLog\php-api\ArchiLog\vendor\cakephp\cakephp\src\Http\Runner.php:73
+- C:\Users\Yohan\Desktop\Projets\ArchiLog\php-api\ArchiLog\vendor\cakephp\cakephp\src\Http\Runner.php:58
+- C:\Users\Yohan\Desktop\Projets\ArchiLog\php-api\ArchiLog\vendor\cakephp\cakephp\src\Http\Server.php:90
+- C:\Users\Yohan\Desktop\Projets\ArchiLog\php-api\ArchiLog\webroot\index.php:40
+
+Request URL: /css/milligram.min.css
+Referer URL: http://localhost:8765/remove
+2023-02-08 18:55:49 error: [Cake\Http\Exception\MissingControllerException] Controller class Css could not be found. in C:\Users\Yohan\Desktop\Projets\ArchiLog\php-api\ArchiLog\vendor\cakephp\cakephp\src\Controller\ControllerFactory.php on line 348
+Stack Trace:
+- C:\Users\Yohan\Desktop\Projets\ArchiLog\php-api\ArchiLog\vendor\cakephp\cakephp\src\Controller\ControllerFactory.php:74
+- C:\Users\Yohan\Desktop\Projets\ArchiLog\php-api\ArchiLog\vendor\cakephp\cakephp\src\Http\BaseApplication.php:318
+- C:\Users\Yohan\Desktop\Projets\ArchiLog\php-api\ArchiLog\vendor\cakephp\cakephp\src\Http\Runner.php:77
+- C:\Users\Yohan\Desktop\Projets\ArchiLog\php-api\ArchiLog\vendor\cakephp\cakephp\src\Http\Middleware\CsrfProtectionMiddleware.php:174
+- C:\Users\Yohan\Desktop\Projets\ArchiLog\php-api\ArchiLog\vendor\cakephp\cakephp\src\Http\Runner.php:73
+- C:\Users\Yohan\Desktop\Projets\ArchiLog\php-api\ArchiLog\vendor\cakephp\cakephp\src\Http\Middleware\BodyParserMiddleware.php:157
+- C:\Users\Yohan\Desktop\Projets\ArchiLog\php-api\ArchiLog\vendor\cakephp\cakephp\src\Http\Runner.php:73
+- C:\Users\Yohan\Desktop\Projets\ArchiLog\php-api\ArchiLog\vendor\cakephp\cakephp\src\Routing\Middleware\RoutingMiddleware.php:186
+- C:\Users\Yohan\Desktop\Projets\ArchiLog\php-api\ArchiLog\vendor\cakephp\cakephp\src\Http\Runner.php:73
+- C:\Users\Yohan\Desktop\Projets\ArchiLog\php-api\ArchiLog\vendor\cakephp\cakephp\src\Routing\Middleware\AssetMiddleware.php:77
+- C:\Users\Yohan\Desktop\Projets\ArchiLog\php-api\ArchiLog\vendor\cakephp\cakephp\src\Http\Runner.php:73
+- C:\Users\Yohan\Desktop\Projets\ArchiLog\php-api\ArchiLog\vendor\cakephp\cakephp\src\Error\Middleware\ErrorHandlerMiddleware.php:131
+- C:\Users\Yohan\Desktop\Projets\ArchiLog\php-api\ArchiLog\vendor\cakephp\cakephp\src\Http\Runner.php:73
+- C:\Users\Yohan\Desktop\Projets\ArchiLog\php-api\ArchiLog\vendor\cakephp\cakephp\src\Http\Runner.php:58
+- C:\Users\Yohan\Desktop\Projets\ArchiLog\php-api\ArchiLog\vendor\cakephp\cakephp\src\Http\Server.php:90
+- C:\Users\Yohan\Desktop\Projets\ArchiLog\php-api\ArchiLog\webroot\index.php:40
+
+Request URL: /css/cake.css
+Referer URL: http://localhost:8765/remove
+2023-02-08 18:55:53 error: [Cake\Http\Exception\MissingControllerException] Controller class Remove could not be found. in C:\Users\Yohan\Desktop\Projets\ArchiLog\php-api\ArchiLog\vendor\cakephp\cakephp\src\Controller\ControllerFactory.php on line 348
+Stack Trace:
+- C:\Users\Yohan\Desktop\Projets\ArchiLog\php-api\ArchiLog\vendor\cakephp\cakephp\src\Controller\ControllerFactory.php:74
+- C:\Users\Yohan\Desktop\Projets\ArchiLog\php-api\ArchiLog\vendor\cakephp\cakephp\src\Http\BaseApplication.php:318
+- C:\Users\Yohan\Desktop\Projets\ArchiLog\php-api\ArchiLog\vendor\cakephp\cakephp\src\Http\Runner.php:77
+- C:\Users\Yohan\Desktop\Projets\ArchiLog\php-api\ArchiLog\vendor\cakephp\cakephp\src\Http\Middleware\CsrfProtectionMiddleware.php:174
+- C:\Users\Yohan\Desktop\Projets\ArchiLog\php-api\ArchiLog\vendor\cakephp\cakephp\src\Http\Runner.php:73
+- C:\Users\Yohan\Desktop\Projets\ArchiLog\php-api\ArchiLog\vendor\cakephp\cakephp\src\Http\Middleware\BodyParserMiddleware.php:157
+- C:\Users\Yohan\Desktop\Projets\ArchiLog\php-api\ArchiLog\vendor\cakephp\cakephp\src\Http\Runner.php:73
+- C:\Users\Yohan\Desktop\Projets\ArchiLog\php-api\ArchiLog\vendor\cakephp\cakephp\src\Routing\Middleware\RoutingMiddleware.php:186
+- C:\Users\Yohan\Desktop\Projets\ArchiLog\php-api\ArchiLog\vendor\cakephp\cakephp\src\Http\Runner.php:73
+- C:\Users\Yohan\Desktop\Projets\ArchiLog\php-api\ArchiLog\vendor\cakephp\cakephp\src\Routing\Middleware\AssetMiddleware.php:68
+- C:\Users\Yohan\Desktop\Projets\ArchiLog\php-api\ArchiLog\vendor\cakephp\cakephp\src\Http\Runner.php:73
+- C:\Users\Yohan\Desktop\Projets\ArchiLog\php-api\ArchiLog\vendor\cakephp\cakephp\src\Error\Middleware\ErrorHandlerMiddleware.php:131
+- C:\Users\Yohan\Desktop\Projets\ArchiLog\php-api\ArchiLog\vendor\cakephp\cakephp\src\Http\Runner.php:73
+- C:\Users\Yohan\Desktop\Projets\ArchiLog\php-api\ArchiLog\vendor\cakephp\cakephp\src\Http\Runner.php:58
+- C:\Users\Yohan\Desktop\Projets\ArchiLog\php-api\ArchiLog\vendor\cakephp\cakephp\src\Http\Server.php:90
+- C:\Users\Yohan\Desktop\Projets\ArchiLog\php-api\ArchiLog\webroot\index.php:40
+
+Request URL: /remove/5
+2023-02-08 18:55:53 error: [Cake\Http\Exception\MissingControllerException] Controller class Css could not be found. in C:\Users\Yohan\Desktop\Projets\ArchiLog\php-api\ArchiLog\vendor\cakephp\cakephp\src\Controller\ControllerFactory.php on line 348
+Stack Trace:
+- C:\Users\Yohan\Desktop\Projets\ArchiLog\php-api\ArchiLog\vendor\cakephp\cakephp\src\Controller\ControllerFactory.php:74
+- C:\Users\Yohan\Desktop\Projets\ArchiLog\php-api\ArchiLog\vendor\cakephp\cakephp\src\Http\BaseApplication.php:318
+- C:\Users\Yohan\Desktop\Projets\ArchiLog\php-api\ArchiLog\vendor\cakephp\cakephp\src\Http\Runner.php:77
+- C:\Users\Yohan\Desktop\Projets\ArchiLog\php-api\ArchiLog\vendor\cakephp\cakephp\src\Http\Middleware\CsrfProtectionMiddleware.php:174
+- C:\Users\Yohan\Desktop\Projets\ArchiLog\php-api\ArchiLog\vendor\cakephp\cakephp\src\Http\Runner.php:73
+- C:\Users\Yohan\Desktop\Projets\ArchiLog\php-api\ArchiLog\vendor\cakephp\cakephp\src\Http\Middleware\BodyParserMiddleware.php:157
+- C:\Users\Yohan\Desktop\Projets\ArchiLog\php-api\ArchiLog\vendor\cakephp\cakephp\src\Http\Runner.php:73
+- C:\Users\Yohan\Desktop\Projets\ArchiLog\php-api\ArchiLog\vendor\cakephp\cakephp\src\Routing\Middleware\RoutingMiddleware.php:186
+- C:\Users\Yohan\Desktop\Projets\ArchiLog\php-api\ArchiLog\vendor\cakephp\cakephp\src\Http\Runner.php:73
+- C:\Users\Yohan\Desktop\Projets\ArchiLog\php-api\ArchiLog\vendor\cakephp\cakephp\src\Routing\Middleware\AssetMiddleware.php:77
+- C:\Users\Yohan\Desktop\Projets\ArchiLog\php-api\ArchiLog\vendor\cakephp\cakephp\src\Http\Runner.php:73
+- C:\Users\Yohan\Desktop\Projets\ArchiLog\php-api\ArchiLog\vendor\cakephp\cakephp\src\Error\Middleware\ErrorHandlerMiddleware.php:131
+- C:\Users\Yohan\Desktop\Projets\ArchiLog\php-api\ArchiLog\vendor\cakephp\cakephp\src\Http\Runner.php:73
+- C:\Users\Yohan\Desktop\Projets\ArchiLog\php-api\ArchiLog\vendor\cakephp\cakephp\src\Http\Runner.php:58
+- C:\Users\Yohan\Desktop\Projets\ArchiLog\php-api\ArchiLog\vendor\cakephp\cakephp\src\Http\Server.php:90
+- C:\Users\Yohan\Desktop\Projets\ArchiLog\php-api\ArchiLog\webroot\index.php:40
+
+Request URL: /css/normalize.min.css
+Referer URL: http://localhost:8765/remove/5
+2023-02-08 18:55:53 error: [Cake\Http\Exception\MissingControllerException] Controller class Css could not be found. in C:\Users\Yohan\Desktop\Projets\ArchiLog\php-api\ArchiLog\vendor\cakephp\cakephp\src\Controller\ControllerFactory.php on line 348
+Stack Trace:
+- C:\Users\Yohan\Desktop\Projets\ArchiLog\php-api\ArchiLog\vendor\cakephp\cakephp\src\Controller\ControllerFactory.php:74
+- C:\Users\Yohan\Desktop\Projets\ArchiLog\php-api\ArchiLog\vendor\cakephp\cakephp\src\Http\BaseApplication.php:318
+- C:\Users\Yohan\Desktop\Projets\ArchiLog\php-api\ArchiLog\vendor\cakephp\cakephp\src\Http\Runner.php:77
+- C:\Users\Yohan\Desktop\Projets\ArchiLog\php-api\ArchiLog\vendor\cakephp\cakephp\src\Http\Middleware\CsrfProtectionMiddleware.php:174
+- C:\Users\Yohan\Desktop\Projets\ArchiLog\php-api\ArchiLog\vendor\cakephp\cakephp\src\Http\Runner.php:73
+- C:\Users\Yohan\Desktop\Projets\ArchiLog\php-api\ArchiLog\vendor\cakephp\cakephp\src\Http\Middleware\BodyParserMiddleware.php:157
+- C:\Users\Yohan\Desktop\Projets\ArchiLog\php-api\ArchiLog\vendor\cakephp\cakephp\src\Http\Runner.php:73
+- C:\Users\Yohan\Desktop\Projets\ArchiLog\php-api\ArchiLog\vendor\cakephp\cakephp\src\Routing\Middleware\RoutingMiddleware.php:186
+- C:\Users\Yohan\Desktop\Projets\ArchiLog\php-api\ArchiLog\vendor\cakephp\cakephp\src\Http\Runner.php:73
+- C:\Users\Yohan\Desktop\Projets\ArchiLog\php-api\ArchiLog\vendor\cakephp\cakephp\src\Routing\Middleware\AssetMiddleware.php:77
+- C:\Users\Yohan\Desktop\Projets\ArchiLog\php-api\ArchiLog\vendor\cakephp\cakephp\src\Http\Runner.php:73
+- C:\Users\Yohan\Desktop\Projets\ArchiLog\php-api\ArchiLog\vendor\cakephp\cakephp\src\Error\Middleware\ErrorHandlerMiddleware.php:131
+- C:\Users\Yohan\Desktop\Projets\ArchiLog\php-api\ArchiLog\vendor\cakephp\cakephp\src\Http\Runner.php:73
+- C:\Users\Yohan\Desktop\Projets\ArchiLog\php-api\ArchiLog\vendor\cakephp\cakephp\src\Http\Runner.php:58
+- C:\Users\Yohan\Desktop\Projets\ArchiLog\php-api\ArchiLog\vendor\cakephp\cakephp\src\Http\Server.php:90
+- C:\Users\Yohan\Desktop\Projets\ArchiLog\php-api\ArchiLog\webroot\index.php:40
+
+Request URL: /css/milligram.min.css
+Referer URL: http://localhost:8765/remove/5
+2023-02-08 18:55:53 error: [Cake\Http\Exception\MissingControllerException] Controller class Css could not be found. in C:\Users\Yohan\Desktop\Projets\ArchiLog\php-api\ArchiLog\vendor\cakephp\cakephp\src\Controller\ControllerFactory.php on line 348
+Stack Trace:
+- C:\Users\Yohan\Desktop\Projets\ArchiLog\php-api\ArchiLog\vendor\cakephp\cakephp\src\Controller\ControllerFactory.php:74
+- C:\Users\Yohan\Desktop\Projets\ArchiLog\php-api\ArchiLog\vendor\cakephp\cakephp\src\Http\BaseApplication.php:318
+- C:\Users\Yohan\Desktop\Projets\ArchiLog\php-api\ArchiLog\vendor\cakephp\cakephp\src\Http\Runner.php:77
+- C:\Users\Yohan\Desktop\Projets\ArchiLog\php-api\ArchiLog\vendor\cakephp\cakephp\src\Http\Middleware\CsrfProtectionMiddleware.php:174
+- C:\Users\Yohan\Desktop\Projets\ArchiLog\php-api\ArchiLog\vendor\cakephp\cakephp\src\Http\Runner.php:73
+- C:\Users\Yohan\Desktop\Projets\ArchiLog\php-api\ArchiLog\vendor\cakephp\cakephp\src\Http\Middleware\BodyParserMiddleware.php:157
+- C:\Users\Yohan\Desktop\Projets\ArchiLog\php-api\ArchiLog\vendor\cakephp\cakephp\src\Http\Runner.php:73
+- C:\Users\Yohan\Desktop\Projets\ArchiLog\php-api\ArchiLog\vendor\cakephp\cakephp\src\Routing\Middleware\RoutingMiddleware.php:186
+- C:\Users\Yohan\Desktop\Projets\ArchiLog\php-api\ArchiLog\vendor\cakephp\cakephp\src\Http\Runner.php:73
+- C:\Users\Yohan\Desktop\Projets\ArchiLog\php-api\ArchiLog\vendor\cakephp\cakephp\src\Routing\Middleware\AssetMiddleware.php:77
+- C:\Users\Yohan\Desktop\Projets\ArchiLog\php-api\ArchiLog\vendor\cakephp\cakephp\src\Http\Runner.php:73
+- C:\Users\Yohan\Desktop\Projets\ArchiLog\php-api\ArchiLog\vendor\cakephp\cakephp\src\Error\Middleware\ErrorHandlerMiddleware.php:131
+- C:\Users\Yohan\Desktop\Projets\ArchiLog\php-api\ArchiLog\vendor\cakephp\cakephp\src\Http\Runner.php:73
+- C:\Users\Yohan\Desktop\Projets\ArchiLog\php-api\ArchiLog\vendor\cakephp\cakephp\src\Http\Runner.php:58
+- C:\Users\Yohan\Desktop\Projets\ArchiLog\php-api\ArchiLog\vendor\cakephp\cakephp\src\Http\Server.php:90
+- C:\Users\Yohan\Desktop\Projets\ArchiLog\php-api\ArchiLog\webroot\index.php:40
+
+Request URL: /css/cake.css
+Referer URL: http://localhost:8765/remove/5
+2023-02-08 18:55:56 error: [Cake\Http\Exception\MissingControllerException] Controller class Remove could not be found. in C:\Users\Yohan\Desktop\Projets\ArchiLog\php-api\ArchiLog\vendor\cakephp\cakephp\src\Controller\ControllerFactory.php on line 348
+Stack Trace:
+- C:\Users\Yohan\Desktop\Projets\ArchiLog\php-api\ArchiLog\vendor\cakephp\cakephp\src\Controller\ControllerFactory.php:74
+- C:\Users\Yohan\Desktop\Projets\ArchiLog\php-api\ArchiLog\vendor\cakephp\cakephp\src\Http\BaseApplication.php:318
+- C:\Users\Yohan\Desktop\Projets\ArchiLog\php-api\ArchiLog\vendor\cakephp\cakephp\src\Http\Runner.php:77
+- C:\Users\Yohan\Desktop\Projets\ArchiLog\php-api\ArchiLog\vendor\cakephp\cakephp\src\Http\Middleware\CsrfProtectionMiddleware.php:174
+- C:\Users\Yohan\Desktop\Projets\ArchiLog\php-api\ArchiLog\vendor\cakephp\cakephp\src\Http\Runner.php:73
+- C:\Users\Yohan\Desktop\Projets\ArchiLog\php-api\ArchiLog\vendor\cakephp\cakephp\src\Http\Middleware\BodyParserMiddleware.php:157
+- C:\Users\Yohan\Desktop\Projets\ArchiLog\php-api\ArchiLog\vendor\cakephp\cakephp\src\Http\Runner.php:73
+- C:\Users\Yohan\Desktop\Projets\ArchiLog\php-api\ArchiLog\vendor\cakephp\cakephp\src\Routing\Middleware\RoutingMiddleware.php:186
+- C:\Users\Yohan\Desktop\Projets\ArchiLog\php-api\ArchiLog\vendor\cakephp\cakephp\src\Http\Runner.php:73
+- C:\Users\Yohan\Desktop\Projets\ArchiLog\php-api\ArchiLog\vendor\cakephp\cakephp\src\Routing\Middleware\AssetMiddleware.php:68
+- C:\Users\Yohan\Desktop\Projets\ArchiLog\php-api\ArchiLog\vendor\cakephp\cakephp\src\Http\Runner.php:73
+- C:\Users\Yohan\Desktop\Projets\ArchiLog\php-api\ArchiLog\vendor\cakephp\cakephp\src\Error\Middleware\ErrorHandlerMiddleware.php:131
+- C:\Users\Yohan\Desktop\Projets\ArchiLog\php-api\ArchiLog\vendor\cakephp\cakephp\src\Http\Runner.php:73
+- C:\Users\Yohan\Desktop\Projets\ArchiLog\php-api\ArchiLog\vendor\cakephp\cakephp\src\Http\Runner.php:58
+- C:\Users\Yohan\Desktop\Projets\ArchiLog\php-api\ArchiLog\vendor\cakephp\cakephp\src\Http\Server.php:90
+- C:\Users\Yohan\Desktop\Projets\ArchiLog\php-api\ArchiLog\webroot\index.php:40
+
+Request URL: /remove/5
+2023-02-08 18:55:56 error: [Cake\Http\Exception\MissingControllerException] Controller class Css could not be found. in C:\Users\Yohan\Desktop\Projets\ArchiLog\php-api\ArchiLog\vendor\cakephp\cakephp\src\Controller\ControllerFactory.php on line 348
+Stack Trace:
+- C:\Users\Yohan\Desktop\Projets\ArchiLog\php-api\ArchiLog\vendor\cakephp\cakephp\src\Controller\ControllerFactory.php:74
+- C:\Users\Yohan\Desktop\Projets\ArchiLog\php-api\ArchiLog\vendor\cakephp\cakephp\src\Http\BaseApplication.php:318
+- C:\Users\Yohan\Desktop\Projets\ArchiLog\php-api\ArchiLog\vendor\cakephp\cakephp\src\Http\Runner.php:77
+- C:\Users\Yohan\Desktop\Projets\ArchiLog\php-api\ArchiLog\vendor\cakephp\cakephp\src\Http\Middleware\CsrfProtectionMiddleware.php:174
+- C:\Users\Yohan\Desktop\Projets\ArchiLog\php-api\ArchiLog\vendor\cakephp\cakephp\src\Http\Runner.php:73
+- C:\Users\Yohan\Desktop\Projets\ArchiLog\php-api\ArchiLog\vendor\cakephp\cakephp\src\Http\Middleware\BodyParserMiddleware.php:157
+- C:\Users\Yohan\Desktop\Projets\ArchiLog\php-api\ArchiLog\vendor\cakephp\cakephp\src\Http\Runner.php:73
+- C:\Users\Yohan\Desktop\Projets\ArchiLog\php-api\ArchiLog\vendor\cakephp\cakephp\src\Routing\Middleware\RoutingMiddleware.php:186
+- C:\Users\Yohan\Desktop\Projets\ArchiLog\php-api\ArchiLog\vendor\cakephp\cakephp\src\Http\Runner.php:73
+- C:\Users\Yohan\Desktop\Projets\ArchiLog\php-api\ArchiLog\vendor\cakephp\cakephp\src\Routing\Middleware\AssetMiddleware.php:77
+- C:\Users\Yohan\Desktop\Projets\ArchiLog\php-api\ArchiLog\vendor\cakephp\cakephp\src\Http\Runner.php:73
+- C:\Users\Yohan\Desktop\Projets\ArchiLog\php-api\ArchiLog\vendor\cakephp\cakephp\src\Error\Middleware\ErrorHandlerMiddleware.php:131
+- C:\Users\Yohan\Desktop\Projets\ArchiLog\php-api\ArchiLog\vendor\cakephp\cakephp\src\Http\Runner.php:73
+- C:\Users\Yohan\Desktop\Projets\ArchiLog\php-api\ArchiLog\vendor\cakephp\cakephp\src\Http\Runner.php:58
+- C:\Users\Yohan\Desktop\Projets\ArchiLog\php-api\ArchiLog\vendor\cakephp\cakephp\src\Http\Server.php:90
+- C:\Users\Yohan\Desktop\Projets\ArchiLog\php-api\ArchiLog\webroot\index.php:40
+
+Request URL: /css/normalize.min.css
+Referer URL: http://localhost:8765/remove/5
+2023-02-08 18:55:56 error: [Cake\Http\Exception\MissingControllerException] Controller class Css could not be found. in C:\Users\Yohan\Desktop\Projets\ArchiLog\php-api\ArchiLog\vendor\cakephp\cakephp\src\Controller\ControllerFactory.php on line 348
+Stack Trace:
+- C:\Users\Yohan\Desktop\Projets\ArchiLog\php-api\ArchiLog\vendor\cakephp\cakephp\src\Controller\ControllerFactory.php:74
+- C:\Users\Yohan\Desktop\Projets\ArchiLog\php-api\ArchiLog\vendor\cakephp\cakephp\src\Http\BaseApplication.php:318
+- C:\Users\Yohan\Desktop\Projets\ArchiLog\php-api\ArchiLog\vendor\cakephp\cakephp\src\Http\Runner.php:77
+- C:\Users\Yohan\Desktop\Projets\ArchiLog\php-api\ArchiLog\vendor\cakephp\cakephp\src\Http\Middleware\CsrfProtectionMiddleware.php:174
+- C:\Users\Yohan\Desktop\Projets\ArchiLog\php-api\ArchiLog\vendor\cakephp\cakephp\src\Http\Runner.php:73
+- C:\Users\Yohan\Desktop\Projets\ArchiLog\php-api\ArchiLog\vendor\cakephp\cakephp\src\Http\Middleware\BodyParserMiddleware.php:157
+- C:\Users\Yohan\Desktop\Projets\ArchiLog\php-api\ArchiLog\vendor\cakephp\cakephp\src\Http\Runner.php:73
+- C:\Users\Yohan\Desktop\Projets\ArchiLog\php-api\ArchiLog\vendor\cakephp\cakephp\src\Routing\Middleware\RoutingMiddleware.php:186
+- C:\Users\Yohan\Desktop\Projets\ArchiLog\php-api\ArchiLog\vendor\cakephp\cakephp\src\Http\Runner.php:73
+- C:\Users\Yohan\Desktop\Projets\ArchiLog\php-api\ArchiLog\vendor\cakephp\cakephp\src\Routing\Middleware\AssetMiddleware.php:77
+- C:\Users\Yohan\Desktop\Projets\ArchiLog\php-api\ArchiLog\vendor\cakephp\cakephp\src\Http\Runner.php:73
+- C:\Users\Yohan\Desktop\Projets\ArchiLog\php-api\ArchiLog\vendor\cakephp\cakephp\src\Error\Middleware\ErrorHandlerMiddleware.php:131
+- C:\Users\Yohan\Desktop\Projets\ArchiLog\php-api\ArchiLog\vendor\cakephp\cakephp\src\Http\Runner.php:73
+- C:\Users\Yohan\Desktop\Projets\ArchiLog\php-api\ArchiLog\vendor\cakephp\cakephp\src\Http\Runner.php:58
+- C:\Users\Yohan\Desktop\Projets\ArchiLog\php-api\ArchiLog\vendor\cakephp\cakephp\src\Http\Server.php:90
+- C:\Users\Yohan\Desktop\Projets\ArchiLog\php-api\ArchiLog\webroot\index.php:40
+
+Request URL: /css/milligram.min.css
+Referer URL: http://localhost:8765/remove/5
+2023-02-08 18:55:56 error: [Cake\Http\Exception\MissingControllerException] Controller class Css could not be found. in C:\Users\Yohan\Desktop\Projets\ArchiLog\php-api\ArchiLog\vendor\cakephp\cakephp\src\Controller\ControllerFactory.php on line 348
+Stack Trace:
+- C:\Users\Yohan\Desktop\Projets\ArchiLog\php-api\ArchiLog\vendor\cakephp\cakephp\src\Controller\ControllerFactory.php:74
+- C:\Users\Yohan\Desktop\Projets\ArchiLog\php-api\ArchiLog\vendor\cakephp\cakephp\src\Http\BaseApplication.php:318
+- C:\Users\Yohan\Desktop\Projets\ArchiLog\php-api\ArchiLog\vendor\cakephp\cakephp\src\Http\Runner.php:77
+- C:\Users\Yohan\Desktop\Projets\ArchiLog\php-api\ArchiLog\vendor\cakephp\cakephp\src\Http\Middleware\CsrfProtectionMiddleware.php:174
+- C:\Users\Yohan\Desktop\Projets\ArchiLog\php-api\ArchiLog\vendor\cakephp\cakephp\src\Http\Runner.php:73
+- C:\Users\Yohan\Desktop\Projets\ArchiLog\php-api\ArchiLog\vendor\cakephp\cakephp\src\Http\Middleware\BodyParserMiddleware.php:157
+- C:\Users\Yohan\Desktop\Projets\ArchiLog\php-api\ArchiLog\vendor\cakephp\cakephp\src\Http\Runner.php:73
+- C:\Users\Yohan\Desktop\Projets\ArchiLog\php-api\ArchiLog\vendor\cakephp\cakephp\src\Routing\Middleware\RoutingMiddleware.php:186
+- C:\Users\Yohan\Desktop\Projets\ArchiLog\php-api\ArchiLog\vendor\cakephp\cakephp\src\Http\Runner.php:73
+- C:\Users\Yohan\Desktop\Projets\ArchiLog\php-api\ArchiLog\vendor\cakephp\cakephp\src\Routing\Middleware\AssetMiddleware.php:77
+- C:\Users\Yohan\Desktop\Projets\ArchiLog\php-api\ArchiLog\vendor\cakephp\cakephp\src\Http\Runner.php:73
+- C:\Users\Yohan\Desktop\Projets\ArchiLog\php-api\ArchiLog\vendor\cakephp\cakephp\src\Error\Middleware\ErrorHandlerMiddleware.php:131
+- C:\Users\Yohan\Desktop\Projets\ArchiLog\php-api\ArchiLog\vendor\cakephp\cakephp\src\Http\Runner.php:73
+- C:\Users\Yohan\Desktop\Projets\ArchiLog\php-api\ArchiLog\vendor\cakephp\cakephp\src\Http\Runner.php:58
+- C:\Users\Yohan\Desktop\Projets\ArchiLog\php-api\ArchiLog\vendor\cakephp\cakephp\src\Http\Server.php:90
+- C:\Users\Yohan\Desktop\Projets\ArchiLog\php-api\ArchiLog\webroot\index.php:40
+
+Request URL: /css/cake.css
+Referer URL: http://localhost:8765/remove/5
+2023-02-08 18:56:11 error: [Cake\Controller\Exception\InvalidParameterException] Missing passed parameter for `id` in action Tickets::remove(). in C:\Users\Yohan\Desktop\Projets\ArchiLog\php-api\ArchiLog\vendor\cakephp\cakephp\src\Controller\ControllerFactory.php on line 243
+Stack Trace:
+- C:\Users\Yohan\Desktop\Projets\ArchiLog\php-api\ArchiLog\vendor\cakephp\cakephp\src\Controller\ControllerFactory.php:137
+- C:\Users\Yohan\Desktop\Projets\ArchiLog\php-api\ArchiLog\vendor\cakephp\cakephp\src\Controller\ControllerFactory.php:114
+- C:\Users\Yohan\Desktop\Projets\ArchiLog\php-api\ArchiLog\vendor\cakephp\cakephp\src\Http\BaseApplication.php:320
+- C:\Users\Yohan\Desktop\Projets\ArchiLog\php-api\ArchiLog\vendor\cakephp\cakephp\src\Http\Runner.php:77
+- C:\Users\Yohan\Desktop\Projets\ArchiLog\php-api\ArchiLog\vendor\cakephp\cakephp\src\Http\Middleware\CsrfProtectionMiddleware.php:174
+- C:\Users\Yohan\Desktop\Projets\ArchiLog\php-api\ArchiLog\vendor\cakephp\cakephp\src\Http\Runner.php:73
+- C:\Users\Yohan\Desktop\Projets\ArchiLog\php-api\ArchiLog\vendor\cakephp\cakephp\src\Http\Middleware\BodyParserMiddleware.php:157
+- C:\Users\Yohan\Desktop\Projets\ArchiLog\php-api\ArchiLog\vendor\cakephp\cakephp\src\Http\Runner.php:73
+- C:\Users\Yohan\Desktop\Projets\ArchiLog\php-api\ArchiLog\vendor\cakephp\cakephp\src\Routing\Middleware\RoutingMiddleware.php:186
+- C:\Users\Yohan\Desktop\Projets\ArchiLog\php-api\ArchiLog\vendor\cakephp\cakephp\src\Http\Runner.php:73
+- C:\Users\Yohan\Desktop\Projets\ArchiLog\php-api\ArchiLog\vendor\cakephp\cakephp\src\Routing\Middleware\AssetMiddleware.php:68
+- C:\Users\Yohan\Desktop\Projets\ArchiLog\php-api\ArchiLog\vendor\cakephp\cakephp\src\Http\Runner.php:73
+- C:\Users\Yohan\Desktop\Projets\ArchiLog\php-api\ArchiLog\vendor\cakephp\cakephp\src\Error\Middleware\ErrorHandlerMiddleware.php:131
+- C:\Users\Yohan\Desktop\Projets\ArchiLog\php-api\ArchiLog\vendor\cakephp\cakephp\src\Http\Runner.php:73
+- C:\Users\Yohan\Desktop\Projets\ArchiLog\php-api\ArchiLog\vendor\cakephp\cakephp\src\Http\Runner.php:58
+- C:\Users\Yohan\Desktop\Projets\ArchiLog\php-api\ArchiLog\vendor\cakephp\cakephp\src\Http\Server.php:90
+- C:\Users\Yohan\Desktop\Projets\ArchiLog\php-api\ArchiLog\webroot\index.php:40
+
+Request URL: /tickets/remove
+2023-02-08 18:56:11 error: [Cake\Http\Exception\MissingControllerException] Controller class Css could not be found. in C:\Users\Yohan\Desktop\Projets\ArchiLog\php-api\ArchiLog\vendor\cakephp\cakephp\src\Controller\ControllerFactory.php on line 348
+Stack Trace:
+- C:\Users\Yohan\Desktop\Projets\ArchiLog\php-api\ArchiLog\vendor\cakephp\cakephp\src\Controller\ControllerFactory.php:74
+- C:\Users\Yohan\Desktop\Projets\ArchiLog\php-api\ArchiLog\vendor\cakephp\cakephp\src\Http\BaseApplication.php:318
+- C:\Users\Yohan\Desktop\Projets\ArchiLog\php-api\ArchiLog\vendor\cakephp\cakephp\src\Http\Runner.php:77
+- C:\Users\Yohan\Desktop\Projets\ArchiLog\php-api\ArchiLog\vendor\cakephp\cakephp\src\Http\Middleware\CsrfProtectionMiddleware.php:174
+- C:\Users\Yohan\Desktop\Projets\ArchiLog\php-api\ArchiLog\vendor\cakephp\cakephp\src\Http\Runner.php:73
+- C:\Users\Yohan\Desktop\Projets\ArchiLog\php-api\ArchiLog\vendor\cakephp\cakephp\src\Http\Middleware\BodyParserMiddleware.php:157
+- C:\Users\Yohan\Desktop\Projets\ArchiLog\php-api\ArchiLog\vendor\cakephp\cakephp\src\Http\Runner.php:73
+- C:\Users\Yohan\Desktop\Projets\ArchiLog\php-api\ArchiLog\vendor\cakephp\cakephp\src\Routing\Middleware\RoutingMiddleware.php:186
+- C:\Users\Yohan\Desktop\Projets\ArchiLog\php-api\ArchiLog\vendor\cakephp\cakephp\src\Http\Runner.php:73
+- C:\Users\Yohan\Desktop\Projets\ArchiLog\php-api\ArchiLog\vendor\cakephp\cakephp\src\Routing\Middleware\AssetMiddleware.php:77
+- C:\Users\Yohan\Desktop\Projets\ArchiLog\php-api\ArchiLog\vendor\cakephp\cakephp\src\Http\Runner.php:73
+- C:\Users\Yohan\Desktop\Projets\ArchiLog\php-api\ArchiLog\vendor\cakephp\cakephp\src\Error\Middleware\ErrorHandlerMiddleware.php:131
+- C:\Users\Yohan\Desktop\Projets\ArchiLog\php-api\ArchiLog\vendor\cakephp\cakephp\src\Http\Runner.php:73
+- C:\Users\Yohan\Desktop\Projets\ArchiLog\php-api\ArchiLog\vendor\cakephp\cakephp\src\Http\Runner.php:58
+- C:\Users\Yohan\Desktop\Projets\ArchiLog\php-api\ArchiLog\vendor\cakephp\cakephp\src\Http\Server.php:90
+- C:\Users\Yohan\Desktop\Projets\ArchiLog\php-api\ArchiLog\webroot\index.php:40
+
+Request URL: /css/normalize.min.css
+Referer URL: http://localhost:8765/tickets/remove
+2023-02-08 18:56:11 error: [Cake\Http\Exception\MissingControllerException] Controller class Css could not be found. in C:\Users\Yohan\Desktop\Projets\ArchiLog\php-api\ArchiLog\vendor\cakephp\cakephp\src\Controller\ControllerFactory.php on line 348
+Stack Trace:
+- C:\Users\Yohan\Desktop\Projets\ArchiLog\php-api\ArchiLog\vendor\cakephp\cakephp\src\Controller\ControllerFactory.php:74
+- C:\Users\Yohan\Desktop\Projets\ArchiLog\php-api\ArchiLog\vendor\cakephp\cakephp\src\Http\BaseApplication.php:318
+- C:\Users\Yohan\Desktop\Projets\ArchiLog\php-api\ArchiLog\vendor\cakephp\cakephp\src\Http\Runner.php:77
+- C:\Users\Yohan\Desktop\Projets\ArchiLog\php-api\ArchiLog\vendor\cakephp\cakephp\src\Http\Middleware\CsrfProtectionMiddleware.php:174
+- C:\Users\Yohan\Desktop\Projets\ArchiLog\php-api\ArchiLog\vendor\cakephp\cakephp\src\Http\Runner.php:73
+- C:\Users\Yohan\Desktop\Projets\ArchiLog\php-api\ArchiLog\vendor\cakephp\cakephp\src\Http\Middleware\BodyParserMiddleware.php:157
+- C:\Users\Yohan\Desktop\Projets\ArchiLog\php-api\ArchiLog\vendor\cakephp\cakephp\src\Http\Runner.php:73
+- C:\Users\Yohan\Desktop\Projets\ArchiLog\php-api\ArchiLog\vendor\cakephp\cakephp\src\Routing\Middleware\RoutingMiddleware.php:186
+- C:\Users\Yohan\Desktop\Projets\ArchiLog\php-api\ArchiLog\vendor\cakephp\cakephp\src\Http\Runner.php:73
+- C:\Users\Yohan\Desktop\Projets\ArchiLog\php-api\ArchiLog\vendor\cakephp\cakephp\src\Routing\Middleware\AssetMiddleware.php:77
+- C:\Users\Yohan\Desktop\Projets\ArchiLog\php-api\ArchiLog\vendor\cakephp\cakephp\src\Http\Runner.php:73
+- C:\Users\Yohan\Desktop\Projets\ArchiLog\php-api\ArchiLog\vendor\cakephp\cakephp\src\Error\Middleware\ErrorHandlerMiddleware.php:131
+- C:\Users\Yohan\Desktop\Projets\ArchiLog\php-api\ArchiLog\vendor\cakephp\cakephp\src\Http\Runner.php:73
+- C:\Users\Yohan\Desktop\Projets\ArchiLog\php-api\ArchiLog\vendor\cakephp\cakephp\src\Http\Runner.php:58
+- C:\Users\Yohan\Desktop\Projets\ArchiLog\php-api\ArchiLog\vendor\cakephp\cakephp\src\Http\Server.php:90
+- C:\Users\Yohan\Desktop\Projets\ArchiLog\php-api\ArchiLog\webroot\index.php:40
+
+Request URL: /css/milligram.min.css
+Referer URL: http://localhost:8765/tickets/remove
+2023-02-08 18:56:11 error: [Cake\Http\Exception\MissingControllerException] Controller class Css could not be found. in C:\Users\Yohan\Desktop\Projets\ArchiLog\php-api\ArchiLog\vendor\cakephp\cakephp\src\Controller\ControllerFactory.php on line 348
+Stack Trace:
+- C:\Users\Yohan\Desktop\Projets\ArchiLog\php-api\ArchiLog\vendor\cakephp\cakephp\src\Controller\ControllerFactory.php:74
+- C:\Users\Yohan\Desktop\Projets\ArchiLog\php-api\ArchiLog\vendor\cakephp\cakephp\src\Http\BaseApplication.php:318
+- C:\Users\Yohan\Desktop\Projets\ArchiLog\php-api\ArchiLog\vendor\cakephp\cakephp\src\Http\Runner.php:77
+- C:\Users\Yohan\Desktop\Projets\ArchiLog\php-api\ArchiLog\vendor\cakephp\cakephp\src\Http\Middleware\CsrfProtectionMiddleware.php:174
+- C:\Users\Yohan\Desktop\Projets\ArchiLog\php-api\ArchiLog\vendor\cakephp\cakephp\src\Http\Runner.php:73
+- C:\Users\Yohan\Desktop\Projets\ArchiLog\php-api\ArchiLog\vendor\cakephp\cakephp\src\Http\Middleware\BodyParserMiddleware.php:157
+- C:\Users\Yohan\Desktop\Projets\ArchiLog\php-api\ArchiLog\vendor\cakephp\cakephp\src\Http\Runner.php:73
+- C:\Users\Yohan\Desktop\Projets\ArchiLog\php-api\ArchiLog\vendor\cakephp\cakephp\src\Routing\Middleware\RoutingMiddleware.php:186
+- C:\Users\Yohan\Desktop\Projets\ArchiLog\php-api\ArchiLog\vendor\cakephp\cakephp\src\Http\Runner.php:73
+- C:\Users\Yohan\Desktop\Projets\ArchiLog\php-api\ArchiLog\vendor\cakephp\cakephp\src\Routing\Middleware\AssetMiddleware.php:77
+- C:\Users\Yohan\Desktop\Projets\ArchiLog\php-api\ArchiLog\vendor\cakephp\cakephp\src\Http\Runner.php:73
+- C:\Users\Yohan\Desktop\Projets\ArchiLog\php-api\ArchiLog\vendor\cakephp\cakephp\src\Error\Middleware\ErrorHandlerMiddleware.php:131
+- C:\Users\Yohan\Desktop\Projets\ArchiLog\php-api\ArchiLog\vendor\cakephp\cakephp\src\Http\Runner.php:73
+- C:\Users\Yohan\Desktop\Projets\ArchiLog\php-api\ArchiLog\vendor\cakephp\cakephp\src\Http\Runner.php:58
+- C:\Users\Yohan\Desktop\Projets\ArchiLog\php-api\ArchiLog\vendor\cakephp\cakephp\src\Http\Server.php:90
+- C:\Users\Yohan\Desktop\Projets\ArchiLog\php-api\ArchiLog\webroot\index.php:40
+
+Request URL: /css/cake.css
+Referer URL: http://localhost:8765/tickets/remove
+2023-02-08 18:57:11 error: [Cake\Controller\Exception\InvalidParameterException] Missing passed parameter for `id` in action Tickets::remove(). in C:\Users\Yohan\Desktop\Projets\ArchiLog\php-api\ArchiLog\vendor\cakephp\cakephp\src\Controller\ControllerFactory.php on line 243
+Stack Trace:
+- C:\Users\Yohan\Desktop\Projets\ArchiLog\php-api\ArchiLog\vendor\cakephp\cakephp\src\Controller\ControllerFactory.php:137
+- C:\Users\Yohan\Desktop\Projets\ArchiLog\php-api\ArchiLog\vendor\cakephp\cakephp\src\Controller\ControllerFactory.php:114
+- C:\Users\Yohan\Desktop\Projets\ArchiLog\php-api\ArchiLog\vendor\cakephp\cakephp\src\Http\BaseApplication.php:320
+- C:\Users\Yohan\Desktop\Projets\ArchiLog\php-api\ArchiLog\vendor\cakephp\cakephp\src\Http\Runner.php:77
+- C:\Users\Yohan\Desktop\Projets\ArchiLog\php-api\ArchiLog\vendor\cakephp\cakephp\src\Http\Middleware\CsrfProtectionMiddleware.php:174
+- C:\Users\Yohan\Desktop\Projets\ArchiLog\php-api\ArchiLog\vendor\cakephp\cakephp\src\Http\Runner.php:73
+- C:\Users\Yohan\Desktop\Projets\ArchiLog\php-api\ArchiLog\vendor\cakephp\cakephp\src\Http\Middleware\BodyParserMiddleware.php:157
+- C:\Users\Yohan\Desktop\Projets\ArchiLog\php-api\ArchiLog\vendor\cakephp\cakephp\src\Http\Runner.php:73
+- C:\Users\Yohan\Desktop\Projets\ArchiLog\php-api\ArchiLog\vendor\cakephp\cakephp\src\Routing\Middleware\RoutingMiddleware.php:186
+- C:\Users\Yohan\Desktop\Projets\ArchiLog\php-api\ArchiLog\vendor\cakephp\cakephp\src\Http\Runner.php:73
+- C:\Users\Yohan\Desktop\Projets\ArchiLog\php-api\ArchiLog\vendor\cakephp\cakephp\src\Routing\Middleware\AssetMiddleware.php:68
+- C:\Users\Yohan\Desktop\Projets\ArchiLog\php-api\ArchiLog\vendor\cakephp\cakephp\src\Http\Runner.php:73
+- C:\Users\Yohan\Desktop\Projets\ArchiLog\php-api\ArchiLog\vendor\cakephp\cakephp\src\Error\Middleware\ErrorHandlerMiddleware.php:131
+- C:\Users\Yohan\Desktop\Projets\ArchiLog\php-api\ArchiLog\vendor\cakephp\cakephp\src\Http\Runner.php:73
+- C:\Users\Yohan\Desktop\Projets\ArchiLog\php-api\ArchiLog\vendor\cakephp\cakephp\src\Http\Runner.php:58
+- C:\Users\Yohan\Desktop\Projets\ArchiLog\php-api\ArchiLog\vendor\cakephp\cakephp\src\Http\Server.php:90
+- C:\Users\Yohan\Desktop\Projets\ArchiLog\php-api\ArchiLog\webroot\index.php:40
+
+Request URL: /tickets/remove
+2023-02-08 18:57:11 error: [Cake\Http\Exception\MissingControllerException] Controller class Css could not be found. in C:\Users\Yohan\Desktop\Projets\ArchiLog\php-api\ArchiLog\vendor\cakephp\cakephp\src\Controller\ControllerFactory.php on line 348
+Stack Trace:
+- C:\Users\Yohan\Desktop\Projets\ArchiLog\php-api\ArchiLog\vendor\cakephp\cakephp\src\Controller\ControllerFactory.php:74
+- C:\Users\Yohan\Desktop\Projets\ArchiLog\php-api\ArchiLog\vendor\cakephp\cakephp\src\Http\BaseApplication.php:318
+- C:\Users\Yohan\Desktop\Projets\ArchiLog\php-api\ArchiLog\vendor\cakephp\cakephp\src\Http\Runner.php:77
+- C:\Users\Yohan\Desktop\Projets\ArchiLog\php-api\ArchiLog\vendor\cakephp\cakephp\src\Http\Middleware\CsrfProtectionMiddleware.php:174
+- C:\Users\Yohan\Desktop\Projets\ArchiLog\php-api\ArchiLog\vendor\cakephp\cakephp\src\Http\Runner.php:73
+- C:\Users\Yohan\Desktop\Projets\ArchiLog\php-api\ArchiLog\vendor\cakephp\cakephp\src\Http\Middleware\BodyParserMiddleware.php:157
+- C:\Users\Yohan\Desktop\Projets\ArchiLog\php-api\ArchiLog\vendor\cakephp\cakephp\src\Http\Runner.php:73
+- C:\Users\Yohan\Desktop\Projets\ArchiLog\php-api\ArchiLog\vendor\cakephp\cakephp\src\Routing\Middleware\RoutingMiddleware.php:186
+- C:\Users\Yohan\Desktop\Projets\ArchiLog\php-api\ArchiLog\vendor\cakephp\cakephp\src\Http\Runner.php:73
+- C:\Users\Yohan\Desktop\Projets\ArchiLog\php-api\ArchiLog\vendor\cakephp\cakephp\src\Routing\Middleware\AssetMiddleware.php:77
+- C:\Users\Yohan\Desktop\Projets\ArchiLog\php-api\ArchiLog\vendor\cakephp\cakephp\src\Http\Runner.php:73
+- C:\Users\Yohan\Desktop\Projets\ArchiLog\php-api\ArchiLog\vendor\cakephp\cakephp\src\Error\Middleware\ErrorHandlerMiddleware.php:131
+- C:\Users\Yohan\Desktop\Projets\ArchiLog\php-api\ArchiLog\vendor\cakephp\cakephp\src\Http\Runner.php:73
+- C:\Users\Yohan\Desktop\Projets\ArchiLog\php-api\ArchiLog\vendor\cakephp\cakephp\src\Http\Runner.php:58
+- C:\Users\Yohan\Desktop\Projets\ArchiLog\php-api\ArchiLog\vendor\cakephp\cakephp\src\Http\Server.php:90
+- C:\Users\Yohan\Desktop\Projets\ArchiLog\php-api\ArchiLog\webroot\index.php:40
+
+Request URL: /css/normalize.min.css
+Referer URL: http://localhost:8765/tickets/remove
+2023-02-08 18:57:11 error: [Cake\Http\Exception\MissingControllerException] Controller class Css could not be found. in C:\Users\Yohan\Desktop\Projets\ArchiLog\php-api\ArchiLog\vendor\cakephp\cakephp\src\Controller\ControllerFactory.php on line 348
+Stack Trace:
+- C:\Users\Yohan\Desktop\Projets\ArchiLog\php-api\ArchiLog\vendor\cakephp\cakephp\src\Controller\ControllerFactory.php:74
+- C:\Users\Yohan\Desktop\Projets\ArchiLog\php-api\ArchiLog\vendor\cakephp\cakephp\src\Http\BaseApplication.php:318
+- C:\Users\Yohan\Desktop\Projets\ArchiLog\php-api\ArchiLog\vendor\cakephp\cakephp\src\Http\Runner.php:77
+- C:\Users\Yohan\Desktop\Projets\ArchiLog\php-api\ArchiLog\vendor\cakephp\cakephp\src\Http\Middleware\CsrfProtectionMiddleware.php:174
+- C:\Users\Yohan\Desktop\Projets\ArchiLog\php-api\ArchiLog\vendor\cakephp\cakephp\src\Http\Runner.php:73
+- C:\Users\Yohan\Desktop\Projets\ArchiLog\php-api\ArchiLog\vendor\cakephp\cakephp\src\Http\Middleware\BodyParserMiddleware.php:157
+- C:\Users\Yohan\Desktop\Projets\ArchiLog\php-api\ArchiLog\vendor\cakephp\cakephp\src\Http\Runner.php:73
+- C:\Users\Yohan\Desktop\Projets\ArchiLog\php-api\ArchiLog\vendor\cakephp\cakephp\src\Routing\Middleware\RoutingMiddleware.php:186
+- C:\Users\Yohan\Desktop\Projets\ArchiLog\php-api\ArchiLog\vendor\cakephp\cakephp\src\Http\Runner.php:73
+- C:\Users\Yohan\Desktop\Projets\ArchiLog\php-api\ArchiLog\vendor\cakephp\cakephp\src\Routing\Middleware\AssetMiddleware.php:77
+- C:\Users\Yohan\Desktop\Projets\ArchiLog\php-api\ArchiLog\vendor\cakephp\cakephp\src\Http\Runner.php:73
+- C:\Users\Yohan\Desktop\Projets\ArchiLog\php-api\ArchiLog\vendor\cakephp\cakephp\src\Error\Middleware\ErrorHandlerMiddleware.php:131
+- C:\Users\Yohan\Desktop\Projets\ArchiLog\php-api\ArchiLog\vendor\cakephp\cakephp\src\Http\Runner.php:73
+- C:\Users\Yohan\Desktop\Projets\ArchiLog\php-api\ArchiLog\vendor\cakephp\cakephp\src\Http\Runner.php:58
+- C:\Users\Yohan\Desktop\Projets\ArchiLog\php-api\ArchiLog\vendor\cakephp\cakephp\src\Http\Server.php:90
+- C:\Users\Yohan\Desktop\Projets\ArchiLog\php-api\ArchiLog\webroot\index.php:40
+
+Request URL: /css/milligram.min.css
+Referer URL: http://localhost:8765/tickets/remove
+2023-02-08 18:57:11 error: [Cake\Http\Exception\MissingControllerException] Controller class Css could not be found. in C:\Users\Yohan\Desktop\Projets\ArchiLog\php-api\ArchiLog\vendor\cakephp\cakephp\src\Controller\ControllerFactory.php on line 348
+Stack Trace:
+- C:\Users\Yohan\Desktop\Projets\ArchiLog\php-api\ArchiLog\vendor\cakephp\cakephp\src\Controller\ControllerFactory.php:74
+- C:\Users\Yohan\Desktop\Projets\ArchiLog\php-api\ArchiLog\vendor\cakephp\cakephp\src\Http\BaseApplication.php:318
+- C:\Users\Yohan\Desktop\Projets\ArchiLog\php-api\ArchiLog\vendor\cakephp\cakephp\src\Http\Runner.php:77
+- C:\Users\Yohan\Desktop\Projets\ArchiLog\php-api\ArchiLog\vendor\cakephp\cakephp\src\Http\Middleware\CsrfProtectionMiddleware.php:174
+- C:\Users\Yohan\Desktop\Projets\ArchiLog\php-api\ArchiLog\vendor\cakephp\cakephp\src\Http\Runner.php:73
+- C:\Users\Yohan\Desktop\Projets\ArchiLog\php-api\ArchiLog\vendor\cakephp\cakephp\src\Http\Middleware\BodyParserMiddleware.php:157
+- C:\Users\Yohan\Desktop\Projets\ArchiLog\php-api\ArchiLog\vendor\cakephp\cakephp\src\Http\Runner.php:73
+- C:\Users\Yohan\Desktop\Projets\ArchiLog\php-api\ArchiLog\vendor\cakephp\cakephp\src\Routing\Middleware\RoutingMiddleware.php:186
+- C:\Users\Yohan\Desktop\Projets\ArchiLog\php-api\ArchiLog\vendor\cakephp\cakephp\src\Http\Runner.php:73
+- C:\Users\Yohan\Desktop\Projets\ArchiLog\php-api\ArchiLog\vendor\cakephp\cakephp\src\Routing\Middleware\AssetMiddleware.php:77
+- C:\Users\Yohan\Desktop\Projets\ArchiLog\php-api\ArchiLog\vendor\cakephp\cakephp\src\Http\Runner.php:73
+- C:\Users\Yohan\Desktop\Projets\ArchiLog\php-api\ArchiLog\vendor\cakephp\cakephp\src\Error\Middleware\ErrorHandlerMiddleware.php:131
+- C:\Users\Yohan\Desktop\Projets\ArchiLog\php-api\ArchiLog\vendor\cakephp\cakephp\src\Http\Runner.php:73
+- C:\Users\Yohan\Desktop\Projets\ArchiLog\php-api\ArchiLog\vendor\cakephp\cakephp\src\Http\Runner.php:58
+- C:\Users\Yohan\Desktop\Projets\ArchiLog\php-api\ArchiLog\vendor\cakephp\cakephp\src\Http\Server.php:90
+- C:\Users\Yohan\Desktop\Projets\ArchiLog\php-api\ArchiLog\webroot\index.php:40
+
+Request URL: /css/cake.css
+Referer URL: http://localhost:8765/tickets/remove
+2023-02-08 18:58:26 error: [Cake\Controller\Exception\MissingActionException] Action TicketsController::delete() could not be found, or is not accessible. in C:\Users\Yohan\Desktop\Projets\ArchiLog\php-api\ArchiLog\vendor\cakephp\cakephp\src\Controller\Controller.php on line 526
+Stack Trace:
+- C:\Users\Yohan\Desktop\Projets\ArchiLog\php-api\ArchiLog\vendor\cakephp\cakephp\src\Controller\ControllerFactory.php:134
+- C:\Users\Yohan\Desktop\Projets\ArchiLog\php-api\ArchiLog\vendor\cakephp\cakephp\src\Controller\ControllerFactory.php:114
+- C:\Users\Yohan\Desktop\Projets\ArchiLog\php-api\ArchiLog\vendor\cakephp\cakephp\src\Http\BaseApplication.php:320
+- C:\Users\Yohan\Desktop\Projets\ArchiLog\php-api\ArchiLog\vendor\cakephp\cakephp\src\Http\Runner.php:77
+- C:\Users\Yohan\Desktop\Projets\ArchiLog\php-api\ArchiLog\vendor\cakephp\cakephp\src\Http\Middleware\CsrfProtectionMiddleware.php:174
+- C:\Users\Yohan\Desktop\Projets\ArchiLog\php-api\ArchiLog\vendor\cakephp\cakephp\src\Http\Runner.php:73
+- C:\Users\Yohan\Desktop\Projets\ArchiLog\php-api\ArchiLog\vendor\cakephp\cakephp\src\Http\Middleware\BodyParserMiddleware.php:162
+- C:\Users\Yohan\Desktop\Projets\ArchiLog\php-api\ArchiLog\vendor\cakephp\cakephp\src\Http\Runner.php:73
+- C:\Users\Yohan\Desktop\Projets\ArchiLog\php-api\ArchiLog\vendor\cakephp\cakephp\src\Routing\Middleware\RoutingMiddleware.php:186
+- C:\Users\Yohan\Desktop\Projets\ArchiLog\php-api\ArchiLog\vendor\cakephp\cakephp\src\Http\Runner.php:73
+- C:\Users\Yohan\Desktop\Projets\ArchiLog\php-api\ArchiLog\vendor\cakephp\cakephp\src\Routing\Middleware\AssetMiddleware.php:68
+- C:\Users\Yohan\Desktop\Projets\ArchiLog\php-api\ArchiLog\vendor\cakephp\cakephp\src\Http\Runner.php:73
+- C:\Users\Yohan\Desktop\Projets\ArchiLog\php-api\ArchiLog\vendor\cakephp\cakephp\src\Error\Middleware\ErrorHandlerMiddleware.php:131
+- C:\Users\Yohan\Desktop\Projets\ArchiLog\php-api\ArchiLog\vendor\cakephp\cakephp\src\Http\Runner.php:73
+- C:\Users\Yohan\Desktop\Projets\ArchiLog\php-api\ArchiLog\vendor\cakephp\cakephp\src\Http\Runner.php:58
+- C:\Users\Yohan\Desktop\Projets\ArchiLog\php-api\ArchiLog\vendor\cakephp\cakephp\src\Http\Server.php:90
+- C:\Users\Yohan\Desktop\Projets\ArchiLog\php-api\ArchiLog\webroot\index.php:40
+
+Request URL: /tickets/delete/5
+Referer URL: http://localhost:8765/tickets
+2023-02-08 18:58:26 error: [Cake\Http\Exception\MissingControllerException] Controller class Css could not be found. in C:\Users\Yohan\Desktop\Projets\ArchiLog\php-api\ArchiLog\vendor\cakephp\cakephp\src\Controller\ControllerFactory.php on line 348
+Stack Trace:
+- C:\Users\Yohan\Desktop\Projets\ArchiLog\php-api\ArchiLog\vendor\cakephp\cakephp\src\Controller\ControllerFactory.php:74
+- C:\Users\Yohan\Desktop\Projets\ArchiLog\php-api\ArchiLog\vendor\cakephp\cakephp\src\Http\BaseApplication.php:318
+- C:\Users\Yohan\Desktop\Projets\ArchiLog\php-api\ArchiLog\vendor\cakephp\cakephp\src\Http\Runner.php:77
+- C:\Users\Yohan\Desktop\Projets\ArchiLog\php-api\ArchiLog\vendor\cakephp\cakephp\src\Http\Middleware\CsrfProtectionMiddleware.php:174
+- C:\Users\Yohan\Desktop\Projets\ArchiLog\php-api\ArchiLog\vendor\cakephp\cakephp\src\Http\Runner.php:73
+- C:\Users\Yohan\Desktop\Projets\ArchiLog\php-api\ArchiLog\vendor\cakephp\cakephp\src\Http\Middleware\BodyParserMiddleware.php:157
+- C:\Users\Yohan\Desktop\Projets\ArchiLog\php-api\ArchiLog\vendor\cakephp\cakephp\src\Http\Runner.php:73
+- C:\Users\Yohan\Desktop\Projets\ArchiLog\php-api\ArchiLog\vendor\cakephp\cakephp\src\Routing\Middleware\RoutingMiddleware.php:186
+- C:\Users\Yohan\Desktop\Projets\ArchiLog\php-api\ArchiLog\vendor\cakephp\cakephp\src\Http\Runner.php:73
+- C:\Users\Yohan\Desktop\Projets\ArchiLog\php-api\ArchiLog\vendor\cakephp\cakephp\src\Routing\Middleware\AssetMiddleware.php:77
+- C:\Users\Yohan\Desktop\Projets\ArchiLog\php-api\ArchiLog\vendor\cakephp\cakephp\src\Http\Runner.php:73
+- C:\Users\Yohan\Desktop\Projets\ArchiLog\php-api\ArchiLog\vendor\cakephp\cakephp\src\Error\Middleware\ErrorHandlerMiddleware.php:131
+- C:\Users\Yohan\Desktop\Projets\ArchiLog\php-api\ArchiLog\vendor\cakephp\cakephp\src\Http\Runner.php:73
+- C:\Users\Yohan\Desktop\Projets\ArchiLog\php-api\ArchiLog\vendor\cakephp\cakephp\src\Http\Runner.php:58
+- C:\Users\Yohan\Desktop\Projets\ArchiLog\php-api\ArchiLog\vendor\cakephp\cakephp\src\Http\Server.php:90
+- C:\Users\Yohan\Desktop\Projets\ArchiLog\php-api\ArchiLog\webroot\index.php:40
+
+Request URL: /css/normalize.min.css
+Referer URL: http://localhost:8765/tickets/delete/5
+2023-02-08 18:58:26 error: [Cake\Http\Exception\MissingControllerException] Controller class Css could not be found. in C:\Users\Yohan\Desktop\Projets\ArchiLog\php-api\ArchiLog\vendor\cakephp\cakephp\src\Controller\ControllerFactory.php on line 348
+Stack Trace:
+- C:\Users\Yohan\Desktop\Projets\ArchiLog\php-api\ArchiLog\vendor\cakephp\cakephp\src\Controller\ControllerFactory.php:74
+- C:\Users\Yohan\Desktop\Projets\ArchiLog\php-api\ArchiLog\vendor\cakephp\cakephp\src\Http\BaseApplication.php:318
+- C:\Users\Yohan\Desktop\Projets\ArchiLog\php-api\ArchiLog\vendor\cakephp\cakephp\src\Http\Runner.php:77
+- C:\Users\Yohan\Desktop\Projets\ArchiLog\php-api\ArchiLog\vendor\cakephp\cakephp\src\Http\Middleware\CsrfProtectionMiddleware.php:174
+- C:\Users\Yohan\Desktop\Projets\ArchiLog\php-api\ArchiLog\vendor\cakephp\cakephp\src\Http\Runner.php:73
+- C:\Users\Yohan\Desktop\Projets\ArchiLog\php-api\ArchiLog\vendor\cakephp\cakephp\src\Http\Middleware\BodyParserMiddleware.php:157
+- C:\Users\Yohan\Desktop\Projets\ArchiLog\php-api\ArchiLog\vendor\cakephp\cakephp\src\Http\Runner.php:73
+- C:\Users\Yohan\Desktop\Projets\ArchiLog\php-api\ArchiLog\vendor\cakephp\cakephp\src\Routing\Middleware\RoutingMiddleware.php:186
+- C:\Users\Yohan\Desktop\Projets\ArchiLog\php-api\ArchiLog\vendor\cakephp\cakephp\src\Http\Runner.php:73
+- C:\Users\Yohan\Desktop\Projets\ArchiLog\php-api\ArchiLog\vendor\cakephp\cakephp\src\Routing\Middleware\AssetMiddleware.php:77
+- C:\Users\Yohan\Desktop\Projets\ArchiLog\php-api\ArchiLog\vendor\cakephp\cakephp\src\Http\Runner.php:73
+- C:\Users\Yohan\Desktop\Projets\ArchiLog\php-api\ArchiLog\vendor\cakephp\cakephp\src\Error\Middleware\ErrorHandlerMiddleware.php:131
+- C:\Users\Yohan\Desktop\Projets\ArchiLog\php-api\ArchiLog\vendor\cakephp\cakephp\src\Http\Runner.php:73
+- C:\Users\Yohan\Desktop\Projets\ArchiLog\php-api\ArchiLog\vendor\cakephp\cakephp\src\Http\Runner.php:58
+- C:\Users\Yohan\Desktop\Projets\ArchiLog\php-api\ArchiLog\vendor\cakephp\cakephp\src\Http\Server.php:90
+- C:\Users\Yohan\Desktop\Projets\ArchiLog\php-api\ArchiLog\webroot\index.php:40
+
+Request URL: /css/milligram.min.css
+Referer URL: http://localhost:8765/tickets/delete/5
+2023-02-08 18:58:26 error: [Cake\Http\Exception\MissingControllerException] Controller class Css could not be found. in C:\Users\Yohan\Desktop\Projets\ArchiLog\php-api\ArchiLog\vendor\cakephp\cakephp\src\Controller\ControllerFactory.php on line 348
+Stack Trace:
+- C:\Users\Yohan\Desktop\Projets\ArchiLog\php-api\ArchiLog\vendor\cakephp\cakephp\src\Controller\ControllerFactory.php:74
+- C:\Users\Yohan\Desktop\Projets\ArchiLog\php-api\ArchiLog\vendor\cakephp\cakephp\src\Http\BaseApplication.php:318
+- C:\Users\Yohan\Desktop\Projets\ArchiLog\php-api\ArchiLog\vendor\cakephp\cakephp\src\Http\Runner.php:77
+- C:\Users\Yohan\Desktop\Projets\ArchiLog\php-api\ArchiLog\vendor\cakephp\cakephp\src\Http\Middleware\CsrfProtectionMiddleware.php:174
+- C:\Users\Yohan\Desktop\Projets\ArchiLog\php-api\ArchiLog\vendor\cakephp\cakephp\src\Http\Runner.php:73
+- C:\Users\Yohan\Desktop\Projets\ArchiLog\php-api\ArchiLog\vendor\cakephp\cakephp\src\Http\Middleware\BodyParserMiddleware.php:157
+- C:\Users\Yohan\Desktop\Projets\ArchiLog\php-api\ArchiLog\vendor\cakephp\cakephp\src\Http\Runner.php:73
+- C:\Users\Yohan\Desktop\Projets\ArchiLog\php-api\ArchiLog\vendor\cakephp\cakephp\src\Routing\Middleware\RoutingMiddleware.php:186
+- C:\Users\Yohan\Desktop\Projets\ArchiLog\php-api\ArchiLog\vendor\cakephp\cakephp\src\Http\Runner.php:73
+- C:\Users\Yohan\Desktop\Projets\ArchiLog\php-api\ArchiLog\vendor\cakephp\cakephp\src\Routing\Middleware\AssetMiddleware.php:77
+- C:\Users\Yohan\Desktop\Projets\ArchiLog\php-api\ArchiLog\vendor\cakephp\cakephp\src\Http\Runner.php:73
+- C:\Users\Yohan\Desktop\Projets\ArchiLog\php-api\ArchiLog\vendor\cakephp\cakephp\src\Error\Middleware\ErrorHandlerMiddleware.php:131
+- C:\Users\Yohan\Desktop\Projets\ArchiLog\php-api\ArchiLog\vendor\cakephp\cakephp\src\Http\Runner.php:73
+- C:\Users\Yohan\Desktop\Projets\ArchiLog\php-api\ArchiLog\vendor\cakephp\cakephp\src\Http\Runner.php:58
+- C:\Users\Yohan\Desktop\Projets\ArchiLog\php-api\ArchiLog\vendor\cakephp\cakephp\src\Http\Server.php:90
+- C:\Users\Yohan\Desktop\Projets\ArchiLog\php-api\ArchiLog\webroot\index.php:40
+
+Request URL: /css/cake.css
+Referer URL: http://localhost:8765/tickets/delete/5
+2023-02-08 18:59:09 error: [Cake\Controller\Exception\MissingActionException] Action TicketsController::delete() could not be found, or is not accessible. in C:\Users\Yohan\Desktop\Projets\ArchiLog\php-api\ArchiLog\vendor\cakephp\cakephp\src\Controller\Controller.php on line 526
+Stack Trace:
+- C:\Users\Yohan\Desktop\Projets\ArchiLog\php-api\ArchiLog\vendor\cakephp\cakephp\src\Controller\ControllerFactory.php:134
+- C:\Users\Yohan\Desktop\Projets\ArchiLog\php-api\ArchiLog\vendor\cakephp\cakephp\src\Controller\ControllerFactory.php:114
+- C:\Users\Yohan\Desktop\Projets\ArchiLog\php-api\ArchiLog\vendor\cakephp\cakephp\src\Http\BaseApplication.php:320
+- C:\Users\Yohan\Desktop\Projets\ArchiLog\php-api\ArchiLog\vendor\cakephp\cakephp\src\Http\Runner.php:77
+- C:\Users\Yohan\Desktop\Projets\ArchiLog\php-api\ArchiLog\vendor\cakephp\cakephp\src\Http\Middleware\CsrfProtectionMiddleware.php:174
+- C:\Users\Yohan\Desktop\Projets\ArchiLog\php-api\ArchiLog\vendor\cakephp\cakephp\src\Http\Runner.php:73
+- C:\Users\Yohan\Desktop\Projets\ArchiLog\php-api\ArchiLog\vendor\cakephp\cakephp\src\Http\Middleware\BodyParserMiddleware.php:157
+- C:\Users\Yohan\Desktop\Projets\ArchiLog\php-api\ArchiLog\vendor\cakephp\cakephp\src\Http\Runner.php:73
+- C:\Users\Yohan\Desktop\Projets\ArchiLog\php-api\ArchiLog\vendor\cakephp\cakephp\src\Routing\Middleware\RoutingMiddleware.php:186
+- C:\Users\Yohan\Desktop\Projets\ArchiLog\php-api\ArchiLog\vendor\cakephp\cakephp\src\Http\Runner.php:73
+- C:\Users\Yohan\Desktop\Projets\ArchiLog\php-api\ArchiLog\vendor\cakephp\cakephp\src\Routing\Middleware\AssetMiddleware.php:68
+- C:\Users\Yohan\Desktop\Projets\ArchiLog\php-api\ArchiLog\vendor\cakephp\cakephp\src\Http\Runner.php:73
+- C:\Users\Yohan\Desktop\Projets\ArchiLog\php-api\ArchiLog\vendor\cakephp\cakephp\src\Error\Middleware\ErrorHandlerMiddleware.php:131
+- C:\Users\Yohan\Desktop\Projets\ArchiLog\php-api\ArchiLog\vendor\cakephp\cakephp\src\Http\Runner.php:73
+- C:\Users\Yohan\Desktop\Projets\ArchiLog\php-api\ArchiLog\vendor\cakephp\cakephp\src\Http\Runner.php:58
+- C:\Users\Yohan\Desktop\Projets\ArchiLog\php-api\ArchiLog\vendor\cakephp\cakephp\src\Http\Server.php:90
+- C:\Users\Yohan\Desktop\Projets\ArchiLog\php-api\ArchiLog\webroot\index.php:40
+
+Request URL: /tickets/delete/5
+2023-02-08 18:59:09 error: [Cake\Http\Exception\MissingControllerException] Controller class Css could not be found. in C:\Users\Yohan\Desktop\Projets\ArchiLog\php-api\ArchiLog\vendor\cakephp\cakephp\src\Controller\ControllerFactory.php on line 348
+Stack Trace:
+- C:\Users\Yohan\Desktop\Projets\ArchiLog\php-api\ArchiLog\vendor\cakephp\cakephp\src\Controller\ControllerFactory.php:74
+- C:\Users\Yohan\Desktop\Projets\ArchiLog\php-api\ArchiLog\vendor\cakephp\cakephp\src\Http\BaseApplication.php:318
+- C:\Users\Yohan\Desktop\Projets\ArchiLog\php-api\ArchiLog\vendor\cakephp\cakephp\src\Http\Runner.php:77
+- C:\Users\Yohan\Desktop\Projets\ArchiLog\php-api\ArchiLog\vendor\cakephp\cakephp\src\Http\Middleware\CsrfProtectionMiddleware.php:174
+- C:\Users\Yohan\Desktop\Projets\ArchiLog\php-api\ArchiLog\vendor\cakephp\cakephp\src\Http\Runner.php:73
+- C:\Users\Yohan\Desktop\Projets\ArchiLog\php-api\ArchiLog\vendor\cakephp\cakephp\src\Http\Middleware\BodyParserMiddleware.php:157
+- C:\Users\Yohan\Desktop\Projets\ArchiLog\php-api\ArchiLog\vendor\cakephp\cakephp\src\Http\Runner.php:73
+- C:\Users\Yohan\Desktop\Projets\ArchiLog\php-api\ArchiLog\vendor\cakephp\cakephp\src\Routing\Middleware\RoutingMiddleware.php:186
+- C:\Users\Yohan\Desktop\Projets\ArchiLog\php-api\ArchiLog\vendor\cakephp\cakephp\src\Http\Runner.php:73
+- C:\Users\Yohan\Desktop\Projets\ArchiLog\php-api\ArchiLog\vendor\cakephp\cakephp\src\Routing\Middleware\AssetMiddleware.php:77
+- C:\Users\Yohan\Desktop\Projets\ArchiLog\php-api\ArchiLog\vendor\cakephp\cakephp\src\Http\Runner.php:73
+- C:\Users\Yohan\Desktop\Projets\ArchiLog\php-api\ArchiLog\vendor\cakephp\cakephp\src\Error\Middleware\ErrorHandlerMiddleware.php:131
+- C:\Users\Yohan\Desktop\Projets\ArchiLog\php-api\ArchiLog\vendor\cakephp\cakephp\src\Http\Runner.php:73
+- C:\Users\Yohan\Desktop\Projets\ArchiLog\php-api\ArchiLog\vendor\cakephp\cakephp\src\Http\Runner.php:58
+- C:\Users\Yohan\Desktop\Projets\ArchiLog\php-api\ArchiLog\vendor\cakephp\cakephp\src\Http\Server.php:90
+- C:\Users\Yohan\Desktop\Projets\ArchiLog\php-api\ArchiLog\webroot\index.php:40
+
+Request URL: /css/normalize.min.css
+Referer URL: http://localhost:8765/tickets/delete/5
+2023-02-08 18:59:09 error: [Cake\Http\Exception\MissingControllerException] Controller class Css could not be found. in C:\Users\Yohan\Desktop\Projets\ArchiLog\php-api\ArchiLog\vendor\cakephp\cakephp\src\Controller\ControllerFactory.php on line 348
+Stack Trace:
+- C:\Users\Yohan\Desktop\Projets\ArchiLog\php-api\ArchiLog\vendor\cakephp\cakephp\src\Controller\ControllerFactory.php:74
+- C:\Users\Yohan\Desktop\Projets\ArchiLog\php-api\ArchiLog\vendor\cakephp\cakephp\src\Http\BaseApplication.php:318
+- C:\Users\Yohan\Desktop\Projets\ArchiLog\php-api\ArchiLog\vendor\cakephp\cakephp\src\Http\Runner.php:77
+- C:\Users\Yohan\Desktop\Projets\ArchiLog\php-api\ArchiLog\vendor\cakephp\cakephp\src\Http\Middleware\CsrfProtectionMiddleware.php:174
+- C:\Users\Yohan\Desktop\Projets\ArchiLog\php-api\ArchiLog\vendor\cakephp\cakephp\src\Http\Runner.php:73
+- C:\Users\Yohan\Desktop\Projets\ArchiLog\php-api\ArchiLog\vendor\cakephp\cakephp\src\Http\Middleware\BodyParserMiddleware.php:157
+- C:\Users\Yohan\Desktop\Projets\ArchiLog\php-api\ArchiLog\vendor\cakephp\cakephp\src\Http\Runner.php:73
+- C:\Users\Yohan\Desktop\Projets\ArchiLog\php-api\ArchiLog\vendor\cakephp\cakephp\src\Routing\Middleware\RoutingMiddleware.php:186
+- C:\Users\Yohan\Desktop\Projets\ArchiLog\php-api\ArchiLog\vendor\cakephp\cakephp\src\Http\Runner.php:73
+- C:\Users\Yohan\Desktop\Projets\ArchiLog\php-api\ArchiLog\vendor\cakephp\cakephp\src\Routing\Middleware\AssetMiddleware.php:77
+- C:\Users\Yohan\Desktop\Projets\ArchiLog\php-api\ArchiLog\vendor\cakephp\cakephp\src\Http\Runner.php:73
+- C:\Users\Yohan\Desktop\Projets\ArchiLog\php-api\ArchiLog\vendor\cakephp\cakephp\src\Error\Middleware\ErrorHandlerMiddleware.php:131
+- C:\Users\Yohan\Desktop\Projets\ArchiLog\php-api\ArchiLog\vendor\cakephp\cakephp\src\Http\Runner.php:73
+- C:\Users\Yohan\Desktop\Projets\ArchiLog\php-api\ArchiLog\vendor\cakephp\cakephp\src\Http\Runner.php:58
+- C:\Users\Yohan\Desktop\Projets\ArchiLog\php-api\ArchiLog\vendor\cakephp\cakephp\src\Http\Server.php:90
+- C:\Users\Yohan\Desktop\Projets\ArchiLog\php-api\ArchiLog\webroot\index.php:40
+
+Request URL: /css/milligram.min.css
+Referer URL: http://localhost:8765/tickets/delete/5
+2023-02-08 18:59:09 error: [Cake\Http\Exception\MissingControllerException] Controller class Css could not be found. in C:\Users\Yohan\Desktop\Projets\ArchiLog\php-api\ArchiLog\vendor\cakephp\cakephp\src\Controller\ControllerFactory.php on line 348
+Stack Trace:
+- C:\Users\Yohan\Desktop\Projets\ArchiLog\php-api\ArchiLog\vendor\cakephp\cakephp\src\Controller\ControllerFactory.php:74
+- C:\Users\Yohan\Desktop\Projets\ArchiLog\php-api\ArchiLog\vendor\cakephp\cakephp\src\Http\BaseApplication.php:318
+- C:\Users\Yohan\Desktop\Projets\ArchiLog\php-api\ArchiLog\vendor\cakephp\cakephp\src\Http\Runner.php:77
+- C:\Users\Yohan\Desktop\Projets\ArchiLog\php-api\ArchiLog\vendor\cakephp\cakephp\src\Http\Middleware\CsrfProtectionMiddleware.php:174
+- C:\Users\Yohan\Desktop\Projets\ArchiLog\php-api\ArchiLog\vendor\cakephp\cakephp\src\Http\Runner.php:73
+- C:\Users\Yohan\Desktop\Projets\ArchiLog\php-api\ArchiLog\vendor\cakephp\cakephp\src\Http\Middleware\BodyParserMiddleware.php:157
+- C:\Users\Yohan\Desktop\Projets\ArchiLog\php-api\ArchiLog\vendor\cakephp\cakephp\src\Http\Runner.php:73
+- C:\Users\Yohan\Desktop\Projets\ArchiLog\php-api\ArchiLog\vendor\cakephp\cakephp\src\Routing\Middleware\RoutingMiddleware.php:186
+- C:\Users\Yohan\Desktop\Projets\ArchiLog\php-api\ArchiLog\vendor\cakephp\cakephp\src\Http\Runner.php:73
+- C:\Users\Yohan\Desktop\Projets\ArchiLog\php-api\ArchiLog\vendor\cakephp\cakephp\src\Routing\Middleware\AssetMiddleware.php:77
+- C:\Users\Yohan\Desktop\Projets\ArchiLog\php-api\ArchiLog\vendor\cakephp\cakephp\src\Http\Runner.php:73
+- C:\Users\Yohan\Desktop\Projets\ArchiLog\php-api\ArchiLog\vendor\cakephp\cakephp\src\Error\Middleware\ErrorHandlerMiddleware.php:131
+- C:\Users\Yohan\Desktop\Projets\ArchiLog\php-api\ArchiLog\vendor\cakephp\cakephp\src\Http\Runner.php:73
+- C:\Users\Yohan\Desktop\Projets\ArchiLog\php-api\ArchiLog\vendor\cakephp\cakephp\src\Http\Runner.php:58
+- C:\Users\Yohan\Desktop\Projets\ArchiLog\php-api\ArchiLog\vendor\cakephp\cakephp\src\Http\Server.php:90
+- C:\Users\Yohan\Desktop\Projets\ArchiLog\php-api\ArchiLog\webroot\index.php:40
+
+Request URL: /css/cake.css
+Referer URL: http://localhost:8765/tickets/delete/5
+2023-02-08 18:59:13 error: [Cake\Controller\Exception\MissingActionException] Action TicketsController::delete() could not be found, or is not accessible. in C:\Users\Yohan\Desktop\Projets\ArchiLog\php-api\ArchiLog\vendor\cakephp\cakephp\src\Controller\Controller.php on line 526
+Stack Trace:
+- C:\Users\Yohan\Desktop\Projets\ArchiLog\php-api\ArchiLog\vendor\cakephp\cakephp\src\Controller\ControllerFactory.php:134
+- C:\Users\Yohan\Desktop\Projets\ArchiLog\php-api\ArchiLog\vendor\cakephp\cakephp\src\Controller\ControllerFactory.php:114
+- C:\Users\Yohan\Desktop\Projets\ArchiLog\php-api\ArchiLog\vendor\cakephp\cakephp\src\Http\BaseApplication.php:320
+- C:\Users\Yohan\Desktop\Projets\ArchiLog\php-api\ArchiLog\vendor\cakephp\cakephp\src\Http\Runner.php:77
+- C:\Users\Yohan\Desktop\Projets\ArchiLog\php-api\ArchiLog\vendor\cakephp\cakephp\src\Http\Middleware\CsrfProtectionMiddleware.php:174
+- C:\Users\Yohan\Desktop\Projets\ArchiLog\php-api\ArchiLog\vendor\cakephp\cakephp\src\Http\Runner.php:73
+- C:\Users\Yohan\Desktop\Projets\ArchiLog\php-api\ArchiLog\vendor\cakephp\cakephp\src\Http\Middleware\BodyParserMiddleware.php:162
+- C:\Users\Yohan\Desktop\Projets\ArchiLog\php-api\ArchiLog\vendor\cakephp\cakephp\src\Http\Runner.php:73
+- C:\Users\Yohan\Desktop\Projets\ArchiLog\php-api\ArchiLog\vendor\cakephp\cakephp\src\Routing\Middleware\RoutingMiddleware.php:186
+- C:\Users\Yohan\Desktop\Projets\ArchiLog\php-api\ArchiLog\vendor\cakephp\cakephp\src\Http\Runner.php:73
+- C:\Users\Yohan\Desktop\Projets\ArchiLog\php-api\ArchiLog\vendor\cakephp\cakephp\src\Routing\Middleware\AssetMiddleware.php:68
+- C:\Users\Yohan\Desktop\Projets\ArchiLog\php-api\ArchiLog\vendor\cakephp\cakephp\src\Http\Runner.php:73
+- C:\Users\Yohan\Desktop\Projets\ArchiLog\php-api\ArchiLog\vendor\cakephp\cakephp\src\Error\Middleware\ErrorHandlerMiddleware.php:131
+- C:\Users\Yohan\Desktop\Projets\ArchiLog\php-api\ArchiLog\vendor\cakephp\cakephp\src\Http\Runner.php:73
+- C:\Users\Yohan\Desktop\Projets\ArchiLog\php-api\ArchiLog\vendor\cakephp\cakephp\src\Http\Runner.php:58
+- C:\Users\Yohan\Desktop\Projets\ArchiLog\php-api\ArchiLog\vendor\cakephp\cakephp\src\Http\Server.php:90
+- C:\Users\Yohan\Desktop\Projets\ArchiLog\php-api\ArchiLog\webroot\index.php:40
+
+Request URL: /tickets/delete/5
+Referer URL: http://localhost:8765/tickets
+2023-02-08 18:59:13 error: [Cake\Http\Exception\MissingControllerException] Controller class Css could not be found. in C:\Users\Yohan\Desktop\Projets\ArchiLog\php-api\ArchiLog\vendor\cakephp\cakephp\src\Controller\ControllerFactory.php on line 348
+Stack Trace:
+- C:\Users\Yohan\Desktop\Projets\ArchiLog\php-api\ArchiLog\vendor\cakephp\cakephp\src\Controller\ControllerFactory.php:74
+- C:\Users\Yohan\Desktop\Projets\ArchiLog\php-api\ArchiLog\vendor\cakephp\cakephp\src\Http\BaseApplication.php:318
+- C:\Users\Yohan\Desktop\Projets\ArchiLog\php-api\ArchiLog\vendor\cakephp\cakephp\src\Http\Runner.php:77
+- C:\Users\Yohan\Desktop\Projets\ArchiLog\php-api\ArchiLog\vendor\cakephp\cakephp\src\Http\Middleware\CsrfProtectionMiddleware.php:174
+- C:\Users\Yohan\Desktop\Projets\ArchiLog\php-api\ArchiLog\vendor\cakephp\cakephp\src\Http\Runner.php:73
+- C:\Users\Yohan\Desktop\Projets\ArchiLog\php-api\ArchiLog\vendor\cakephp\cakephp\src\Http\Middleware\BodyParserMiddleware.php:157
+- C:\Users\Yohan\Desktop\Projets\ArchiLog\php-api\ArchiLog\vendor\cakephp\cakephp\src\Http\Runner.php:73
+- C:\Users\Yohan\Desktop\Projets\ArchiLog\php-api\ArchiLog\vendor\cakephp\cakephp\src\Routing\Middleware\RoutingMiddleware.php:186
+- C:\Users\Yohan\Desktop\Projets\ArchiLog\php-api\ArchiLog\vendor\cakephp\cakephp\src\Http\Runner.php:73
+- C:\Users\Yohan\Desktop\Projets\ArchiLog\php-api\ArchiLog\vendor\cakephp\cakephp\src\Routing\Middleware\AssetMiddleware.php:77
+- C:\Users\Yohan\Desktop\Projets\ArchiLog\php-api\ArchiLog\vendor\cakephp\cakephp\src\Http\Runner.php:73
+- C:\Users\Yohan\Desktop\Projets\ArchiLog\php-api\ArchiLog\vendor\cakephp\cakephp\src\Error\Middleware\ErrorHandlerMiddleware.php:131
+- C:\Users\Yohan\Desktop\Projets\ArchiLog\php-api\ArchiLog\vendor\cakephp\cakephp\src\Http\Runner.php:73
+- C:\Users\Yohan\Desktop\Projets\ArchiLog\php-api\ArchiLog\vendor\cakephp\cakephp\src\Http\Runner.php:58
+- C:\Users\Yohan\Desktop\Projets\ArchiLog\php-api\ArchiLog\vendor\cakephp\cakephp\src\Http\Server.php:90
+- C:\Users\Yohan\Desktop\Projets\ArchiLog\php-api\ArchiLog\webroot\index.php:40
+
+Request URL: /css/normalize.min.css
+Referer URL: http://localhost:8765/tickets/delete/5
+2023-02-08 18:59:13 error: [Cake\Http\Exception\MissingControllerException] Controller class Css could not be found. in C:\Users\Yohan\Desktop\Projets\ArchiLog\php-api\ArchiLog\vendor\cakephp\cakephp\src\Controller\ControllerFactory.php on line 348
+Stack Trace:
+- C:\Users\Yohan\Desktop\Projets\ArchiLog\php-api\ArchiLog\vendor\cakephp\cakephp\src\Controller\ControllerFactory.php:74
+- C:\Users\Yohan\Desktop\Projets\ArchiLog\php-api\ArchiLog\vendor\cakephp\cakephp\src\Http\BaseApplication.php:318
+- C:\Users\Yohan\Desktop\Projets\ArchiLog\php-api\ArchiLog\vendor\cakephp\cakephp\src\Http\Runner.php:77
+- C:\Users\Yohan\Desktop\Projets\ArchiLog\php-api\ArchiLog\vendor\cakephp\cakephp\src\Http\Middleware\CsrfProtectionMiddleware.php:174
+- C:\Users\Yohan\Desktop\Projets\ArchiLog\php-api\ArchiLog\vendor\cakephp\cakephp\src\Http\Runner.php:73
+- C:\Users\Yohan\Desktop\Projets\ArchiLog\php-api\ArchiLog\vendor\cakephp\cakephp\src\Http\Middleware\BodyParserMiddleware.php:157
+- C:\Users\Yohan\Desktop\Projets\ArchiLog\php-api\ArchiLog\vendor\cakephp\cakephp\src\Http\Runner.php:73
+- C:\Users\Yohan\Desktop\Projets\ArchiLog\php-api\ArchiLog\vendor\cakephp\cakephp\src\Routing\Middleware\RoutingMiddleware.php:186
+- C:\Users\Yohan\Desktop\Projets\ArchiLog\php-api\ArchiLog\vendor\cakephp\cakephp\src\Http\Runner.php:73
+- C:\Users\Yohan\Desktop\Projets\ArchiLog\php-api\ArchiLog\vendor\cakephp\cakephp\src\Routing\Middleware\AssetMiddleware.php:77
+- C:\Users\Yohan\Desktop\Projets\ArchiLog\php-api\ArchiLog\vendor\cakephp\cakephp\src\Http\Runner.php:73
+- C:\Users\Yohan\Desktop\Projets\ArchiLog\php-api\ArchiLog\vendor\cakephp\cakephp\src\Error\Middleware\ErrorHandlerMiddleware.php:131
+- C:\Users\Yohan\Desktop\Projets\ArchiLog\php-api\ArchiLog\vendor\cakephp\cakephp\src\Http\Runner.php:73
+- C:\Users\Yohan\Desktop\Projets\ArchiLog\php-api\ArchiLog\vendor\cakephp\cakephp\src\Http\Runner.php:58
+- C:\Users\Yohan\Desktop\Projets\ArchiLog\php-api\ArchiLog\vendor\cakephp\cakephp\src\Http\Server.php:90
+- C:\Users\Yohan\Desktop\Projets\ArchiLog\php-api\ArchiLog\webroot\index.php:40
+
+Request URL: /css/milligram.min.css
+Referer URL: http://localhost:8765/tickets/delete/5
+2023-02-08 18:59:13 error: [Cake\Http\Exception\MissingControllerException] Controller class Css could not be found. in C:\Users\Yohan\Desktop\Projets\ArchiLog\php-api\ArchiLog\vendor\cakephp\cakephp\src\Controller\ControllerFactory.php on line 348
+Stack Trace:
+- C:\Users\Yohan\Desktop\Projets\ArchiLog\php-api\ArchiLog\vendor\cakephp\cakephp\src\Controller\ControllerFactory.php:74
+- C:\Users\Yohan\Desktop\Projets\ArchiLog\php-api\ArchiLog\vendor\cakephp\cakephp\src\Http\BaseApplication.php:318
+- C:\Users\Yohan\Desktop\Projets\ArchiLog\php-api\ArchiLog\vendor\cakephp\cakephp\src\Http\Runner.php:77
+- C:\Users\Yohan\Desktop\Projets\ArchiLog\php-api\ArchiLog\vendor\cakephp\cakephp\src\Http\Middleware\CsrfProtectionMiddleware.php:174
+- C:\Users\Yohan\Desktop\Projets\ArchiLog\php-api\ArchiLog\vendor\cakephp\cakephp\src\Http\Runner.php:73
+- C:\Users\Yohan\Desktop\Projets\ArchiLog\php-api\ArchiLog\vendor\cakephp\cakephp\src\Http\Middleware\BodyParserMiddleware.php:157
+- C:\Users\Yohan\Desktop\Projets\ArchiLog\php-api\ArchiLog\vendor\cakephp\cakephp\src\Http\Runner.php:73
+- C:\Users\Yohan\Desktop\Projets\ArchiLog\php-api\ArchiLog\vendor\cakephp\cakephp\src\Routing\Middleware\RoutingMiddleware.php:186
+- C:\Users\Yohan\Desktop\Projets\ArchiLog\php-api\ArchiLog\vendor\cakephp\cakephp\src\Http\Runner.php:73
+- C:\Users\Yohan\Desktop\Projets\ArchiLog\php-api\ArchiLog\vendor\cakephp\cakephp\src\Routing\Middleware\AssetMiddleware.php:77
+- C:\Users\Yohan\Desktop\Projets\ArchiLog\php-api\ArchiLog\vendor\cakephp\cakephp\src\Http\Runner.php:73
+- C:\Users\Yohan\Desktop\Projets\ArchiLog\php-api\ArchiLog\vendor\cakephp\cakephp\src\Error\Middleware\ErrorHandlerMiddleware.php:131
+- C:\Users\Yohan\Desktop\Projets\ArchiLog\php-api\ArchiLog\vendor\cakephp\cakephp\src\Http\Runner.php:73
+- C:\Users\Yohan\Desktop\Projets\ArchiLog\php-api\ArchiLog\vendor\cakephp\cakephp\src\Http\Runner.php:58
+- C:\Users\Yohan\Desktop\Projets\ArchiLog\php-api\ArchiLog\vendor\cakephp\cakephp\src\Http\Server.php:90
+- C:\Users\Yohan\Desktop\Projets\ArchiLog\php-api\ArchiLog\webroot\index.php:40
+
+Request URL: /css/cake.css
+Referer URL: http://localhost:8765/tickets/delete/5
+2023-02-08 19:00:04 error: [Cake\View\Exception\MissingTemplateException] Template file `Tickets\remove.php` could not be found.
+
+The following paths were searched:
+
+- `C:\Users\Yohan\Desktop\Projets\ArchiLog\php-api\ArchiLog\templates\Tickets\remove.php`
+- `C:\Users\Yohan\Desktop\Projets\ArchiLog\php-api\ArchiLog\vendor\cakephp\cakephp\templates\Tickets\remove.php`
+ in C:\Users\Yohan\Desktop\Projets\ArchiLog\php-api\ArchiLog\vendor\cakephp\cakephp\src\View\View.php on line 1398
+Stack Trace:
+- C:\Users\Yohan\Desktop\Projets\ArchiLog\php-api\ArchiLog\vendor\cakephp\cakephp\src\View\View.php:805
+- C:\Users\Yohan\Desktop\Projets\ArchiLog\php-api\ArchiLog\vendor\cakephp\cakephp\src\Controller\Controller.php:773
+- C:\Users\Yohan\Desktop\Projets\ArchiLog\php-api\ArchiLog\vendor\cakephp\cakephp\src\Controller\Controller.php:556
+- C:\Users\Yohan\Desktop\Projets\ArchiLog\php-api\ArchiLog\vendor\cakephp\cakephp\src\Controller\ControllerFactory.php:139
+- C:\Users\Yohan\Desktop\Projets\ArchiLog\php-api\ArchiLog\vendor\cakephp\cakephp\src\Controller\ControllerFactory.php:114
+- C:\Users\Yohan\Desktop\Projets\ArchiLog\php-api\ArchiLog\vendor\cakephp\cakephp\src\Http\BaseApplication.php:320
+- C:\Users\Yohan\Desktop\Projets\ArchiLog\php-api\ArchiLog\vendor\cakephp\cakephp\src\Http\Runner.php:77
+- C:\Users\Yohan\Desktop\Projets\ArchiLog\php-api\ArchiLog\vendor\cakephp\cakephp\src\Http\Middleware\CsrfProtectionMiddleware.php:174
+- C:\Users\Yohan\Desktop\Projets\ArchiLog\php-api\ArchiLog\vendor\cakephp\cakephp\src\Http\Runner.php:73
+- C:\Users\Yohan\Desktop\Projets\ArchiLog\php-api\ArchiLog\vendor\cakephp\cakephp\src\Http\Middleware\BodyParserMiddleware.php:162
+- C:\Users\Yohan\Desktop\Projets\ArchiLog\php-api\ArchiLog\vendor\cakephp\cakephp\src\Http\Runner.php:73
+- C:\Users\Yohan\Desktop\Projets\ArchiLog\php-api\ArchiLog\vendor\cakephp\cakephp\src\Routing\Middleware\RoutingMiddleware.php:186
+- C:\Users\Yohan\Desktop\Projets\ArchiLog\php-api\ArchiLog\vendor\cakephp\cakephp\src\Http\Runner.php:73
+- C:\Users\Yohan\Desktop\Projets\ArchiLog\php-api\ArchiLog\vendor\cakephp\cakephp\src\Routing\Middleware\AssetMiddleware.php:68
+- C:\Users\Yohan\Desktop\Projets\ArchiLog\php-api\ArchiLog\vendor\cakephp\cakephp\src\Http\Runner.php:73
+- C:\Users\Yohan\Desktop\Projets\ArchiLog\php-api\ArchiLog\vendor\cakephp\cakephp\src\Error\Middleware\ErrorHandlerMiddleware.php:131
+- C:\Users\Yohan\Desktop\Projets\ArchiLog\php-api\ArchiLog\vendor\cakephp\cakephp\src\Http\Runner.php:73
+- C:\Users\Yohan\Desktop\Projets\ArchiLog\php-api\ArchiLog\vendor\cakephp\cakephp\src\Http\Runner.php:58
+- C:\Users\Yohan\Desktop\Projets\ArchiLog\php-api\ArchiLog\vendor\cakephp\cakephp\src\Http\Server.php:90
+- C:\Users\Yohan\Desktop\Projets\ArchiLog\php-api\ArchiLog\webroot\index.php:40
+
+Request URL: /tickets/remove/5
+Referer URL: http://localhost:8765/tickets
+2023-02-08 19:00:04 error: [Cake\Http\Exception\MissingControllerException] Controller class Css could not be found. in C:\Users\Yohan\Desktop\Projets\ArchiLog\php-api\ArchiLog\vendor\cakephp\cakephp\src\Controller\ControllerFactory.php on line 348
+Stack Trace:
+- C:\Users\Yohan\Desktop\Projets\ArchiLog\php-api\ArchiLog\vendor\cakephp\cakephp\src\Controller\ControllerFactory.php:74
+- C:\Users\Yohan\Desktop\Projets\ArchiLog\php-api\ArchiLog\vendor\cakephp\cakephp\src\Http\BaseApplication.php:318
+- C:\Users\Yohan\Desktop\Projets\ArchiLog\php-api\ArchiLog\vendor\cakephp\cakephp\src\Http\Runner.php:77
+- C:\Users\Yohan\Desktop\Projets\ArchiLog\php-api\ArchiLog\vendor\cakephp\cakephp\src\Http\Middleware\CsrfProtectionMiddleware.php:174
+- C:\Users\Yohan\Desktop\Projets\ArchiLog\php-api\ArchiLog\vendor\cakephp\cakephp\src\Http\Runner.php:73
+- C:\Users\Yohan\Desktop\Projets\ArchiLog\php-api\ArchiLog\vendor\cakephp\cakephp\src\Http\Middleware\BodyParserMiddleware.php:157
+- C:\Users\Yohan\Desktop\Projets\ArchiLog\php-api\ArchiLog\vendor\cakephp\cakephp\src\Http\Runner.php:73
+- C:\Users\Yohan\Desktop\Projets\ArchiLog\php-api\ArchiLog\vendor\cakephp\cakephp\src\Routing\Middleware\RoutingMiddleware.php:186
+- C:\Users\Yohan\Desktop\Projets\ArchiLog\php-api\ArchiLog\vendor\cakephp\cakephp\src\Http\Runner.php:73
+- C:\Users\Yohan\Desktop\Projets\ArchiLog\php-api\ArchiLog\vendor\cakephp\cakephp\src\Routing\Middleware\AssetMiddleware.php:77
+- C:\Users\Yohan\Desktop\Projets\ArchiLog\php-api\ArchiLog\vendor\cakephp\cakephp\src\Http\Runner.php:73
+- C:\Users\Yohan\Desktop\Projets\ArchiLog\php-api\ArchiLog\vendor\cakephp\cakephp\src\Error\Middleware\ErrorHandlerMiddleware.php:131
+- C:\Users\Yohan\Desktop\Projets\ArchiLog\php-api\ArchiLog\vendor\cakephp\cakephp\src\Http\Runner.php:73
+- C:\Users\Yohan\Desktop\Projets\ArchiLog\php-api\ArchiLog\vendor\cakephp\cakephp\src\Http\Runner.php:58
+- C:\Users\Yohan\Desktop\Projets\ArchiLog\php-api\ArchiLog\vendor\cakephp\cakephp\src\Http\Server.php:90
+- C:\Users\Yohan\Desktop\Projets\ArchiLog\php-api\ArchiLog\webroot\index.php:40
+
+Request URL: /css/normalize.min.css
+Referer URL: http://localhost:8765/tickets/remove/5
+2023-02-08 19:00:04 error: [Cake\Http\Exception\MissingControllerException] Controller class Css could not be found. in C:\Users\Yohan\Desktop\Projets\ArchiLog\php-api\ArchiLog\vendor\cakephp\cakephp\src\Controller\ControllerFactory.php on line 348
+Stack Trace:
+- C:\Users\Yohan\Desktop\Projets\ArchiLog\php-api\ArchiLog\vendor\cakephp\cakephp\src\Controller\ControllerFactory.php:74
+- C:\Users\Yohan\Desktop\Projets\ArchiLog\php-api\ArchiLog\vendor\cakephp\cakephp\src\Http\BaseApplication.php:318
+- C:\Users\Yohan\Desktop\Projets\ArchiLog\php-api\ArchiLog\vendor\cakephp\cakephp\src\Http\Runner.php:77
+- C:\Users\Yohan\Desktop\Projets\ArchiLog\php-api\ArchiLog\vendor\cakephp\cakephp\src\Http\Middleware\CsrfProtectionMiddleware.php:174
+- C:\Users\Yohan\Desktop\Projets\ArchiLog\php-api\ArchiLog\vendor\cakephp\cakephp\src\Http\Runner.php:73
+- C:\Users\Yohan\Desktop\Projets\ArchiLog\php-api\ArchiLog\vendor\cakephp\cakephp\src\Http\Middleware\BodyParserMiddleware.php:157
+- C:\Users\Yohan\Desktop\Projets\ArchiLog\php-api\ArchiLog\vendor\cakephp\cakephp\src\Http\Runner.php:73
+- C:\Users\Yohan\Desktop\Projets\ArchiLog\php-api\ArchiLog\vendor\cakephp\cakephp\src\Routing\Middleware\RoutingMiddleware.php:186
+- C:\Users\Yohan\Desktop\Projets\ArchiLog\php-api\ArchiLog\vendor\cakephp\cakephp\src\Http\Runner.php:73
+- C:\Users\Yohan\Desktop\Projets\ArchiLog\php-api\ArchiLog\vendor\cakephp\cakephp\src\Routing\Middleware\AssetMiddleware.php:77
+- C:\Users\Yohan\Desktop\Projets\ArchiLog\php-api\ArchiLog\vendor\cakephp\cakephp\src\Http\Runner.php:73
+- C:\Users\Yohan\Desktop\Projets\ArchiLog\php-api\ArchiLog\vendor\cakephp\cakephp\src\Error\Middleware\ErrorHandlerMiddleware.php:131
+- C:\Users\Yohan\Desktop\Projets\ArchiLog\php-api\ArchiLog\vendor\cakephp\cakephp\src\Http\Runner.php:73
+- C:\Users\Yohan\Desktop\Projets\ArchiLog\php-api\ArchiLog\vendor\cakephp\cakephp\src\Http\Runner.php:58
+- C:\Users\Yohan\Desktop\Projets\ArchiLog\php-api\ArchiLog\vendor\cakephp\cakephp\src\Http\Server.php:90
+- C:\Users\Yohan\Desktop\Projets\ArchiLog\php-api\ArchiLog\webroot\index.php:40
+
+Request URL: /css/milligram.min.css
+Referer URL: http://localhost:8765/tickets/remove/5
+2023-02-08 19:00:04 error: [Cake\Http\Exception\MissingControllerException] Controller class Css could not be found. in C:\Users\Yohan\Desktop\Projets\ArchiLog\php-api\ArchiLog\vendor\cakephp\cakephp\src\Controller\ControllerFactory.php on line 348
+Stack Trace:
+- C:\Users\Yohan\Desktop\Projets\ArchiLog\php-api\ArchiLog\vendor\cakephp\cakephp\src\Controller\ControllerFactory.php:74
+- C:\Users\Yohan\Desktop\Projets\ArchiLog\php-api\ArchiLog\vendor\cakephp\cakephp\src\Http\BaseApplication.php:318
+- C:\Users\Yohan\Desktop\Projets\ArchiLog\php-api\ArchiLog\vendor\cakephp\cakephp\src\Http\Runner.php:77
+- C:\Users\Yohan\Desktop\Projets\ArchiLog\php-api\ArchiLog\vendor\cakephp\cakephp\src\Http\Middleware\CsrfProtectionMiddleware.php:174
+- C:\Users\Yohan\Desktop\Projets\ArchiLog\php-api\ArchiLog\vendor\cakephp\cakephp\src\Http\Runner.php:73
+- C:\Users\Yohan\Desktop\Projets\ArchiLog\php-api\ArchiLog\vendor\cakephp\cakephp\src\Http\Middleware\BodyParserMiddleware.php:157
+- C:\Users\Yohan\Desktop\Projets\ArchiLog\php-api\ArchiLog\vendor\cakephp\cakephp\src\Http\Runner.php:73
+- C:\Users\Yohan\Desktop\Projets\ArchiLog\php-api\ArchiLog\vendor\cakephp\cakephp\src\Routing\Middleware\RoutingMiddleware.php:186
+- C:\Users\Yohan\Desktop\Projets\ArchiLog\php-api\ArchiLog\vendor\cakephp\cakephp\src\Http\Runner.php:73
+- C:\Users\Yohan\Desktop\Projets\ArchiLog\php-api\ArchiLog\vendor\cakephp\cakephp\src\Routing\Middleware\AssetMiddleware.php:77
+- C:\Users\Yohan\Desktop\Projets\ArchiLog\php-api\ArchiLog\vendor\cakephp\cakephp\src\Http\Runner.php:73
+- C:\Users\Yohan\Desktop\Projets\ArchiLog\php-api\ArchiLog\vendor\cakephp\cakephp\src\Error\Middleware\ErrorHandlerMiddleware.php:131
+- C:\Users\Yohan\Desktop\Projets\ArchiLog\php-api\ArchiLog\vendor\cakephp\cakephp\src\Http\Runner.php:73
+- C:\Users\Yohan\Desktop\Projets\ArchiLog\php-api\ArchiLog\vendor\cakephp\cakephp\src\Http\Runner.php:58
+- C:\Users\Yohan\Desktop\Projets\ArchiLog\php-api\ArchiLog\vendor\cakephp\cakephp\src\Http\Server.php:90
+- C:\Users\Yohan\Desktop\Projets\ArchiLog\php-api\ArchiLog\webroot\index.php:40
+
+Request URL: /css/cake.css
+Referer URL: http://localhost:8765/tickets/remove/5
